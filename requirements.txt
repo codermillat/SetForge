@@ -7,6 +7,12 @@ aiohttp>=3.8.0,<4.0.0
 # Configuration management
 PyYAML>=6.0,<7.0
 
+# Token counting for text chunking
+tiktoken>=0.4.0,<1.0.0
+
+# Natural language processing
+nltk>=3.8,<4.0
+
 # Optional: Semantic similarity validation (recommended)
 sentence-transformers>=2.2.0,<3.0.0
 torch>=1.11.0,<3.0.0  # Required for sentence-transformers

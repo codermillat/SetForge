@@ -1,102 +1,144 @@
 # SetForge AI Agent Instructions
 
-## Architecture Overview
+## 🎯 Architecture Overview
 
-SetForge is a production-ready async pipeline for generating extractive QA pairs from educational text with zero hallucinations. The core flow: `TextProcessor` → `QAGenerator` → `ProductionQAValidator` → `ProductionExporter` with comprehensive monitoring and quality checking.
+SetForge is a **production-ready educational AI dataset generation platform** for creating fine-tuning datasets targeting Bangladeshi students applying to Indian universities. The system uses a **4-tier generator architecture** with escalating volume and sophistication.
 
-**NEW: Production TXT Dataset Generator** - Complete modular system for transforming .txt files into structured Q&A datasets with rich metadata, university-specific scholarship logic, and intelligent grade normalization. Designed to outperform GPT-4/Gemini 2.5 Pro for Bangladeshi student guidance.
+**CORE PURPOSE:** Generate 10k-15k extractive Q&A pairs from 48 educational .txt files covering real-world scenarios Bangladeshi students face (admissions, scholarships, visa, accommodation, cultural adaptation).
 
-**ENHANCED: Context-Rich Educational Analysis** - Comprehensive context-aware prompt engineering with mandatory context specification, multilingual support, and complete source attribution for cultural authenticity.
+**KEY DIFFERENTIATORS:**
+- **Zero Hallucination:** All answers strictly extracted from source .txt files
+- **Cultural Authenticity:** Bengali-English mixed content with proper transliteration  
+- **Production-Ready:** Comprehensive validation, quality metrics, and error handling
+- **University-Specific Intelligence:** Official 2025-26 criteria for 5+ universities
+- **Student Persona Awareness:** 6 distinct personas drive generation style
 
-### Directory Structure
+### 🏗️ Cleaned Project Structure (Post-Cleanup)
 ```
-SetForge/
-├── src/                                    # Core source code
-│   ├── setforge_production.py             # Production orchestrator
-│   ├── context_enhanced_qa_generator.py   # Context-rich QA generation
-│   ├── educational_data_analyzer.py       # Educational data analysis
-│   ├── context_rich_prompts.py           # Context-aware prompts
-│   ├── config.py                         # Environment-aware config management
-│   ├── text_processor.py                 # Intelligent chunking
-│   ├── qa_generator.py                   # LLM API integration
-│   ├── validator_enhanced.py             # Multi-stage validation
-│   ├── exporter_enhanced.py              # Traceability & audit export
-│   └── monitoring.py                     # Cost tracking & optimization
-├── production_txt_dataset_generator.py    # NEW: Production TXT dataset generator
-├── enhanced_production_qa_generator.py    # NEW: Enhanced multi-university QA generator  
-├── enhanced_grade_scale_detection.py      # NEW: Intelligent grade normalization
-├── official_sharda_scholarship_integration.py # NEW: Official scholarship logic
-├── data_validator.py                      # NEW: Comprehensive dataset validation
-├── test_dataset_generator.py              # NEW: CLI testing interface
-├── demo_production_system.py              # NEW: Interactive demo system
-├── config/config.yaml                     # Configuration files
-├── config/normalization_config.json       # NEW: Grade conversion rules
-├── config/scholarship_rules.json          # NEW: University scholarship criteria
-├── data/educational/                      # Educational content (48 files with source attribution)
-├── tests/                                 # Production test suite
-├── docs/                                  # Documentation
-├── output/datasets/                       # Generated outputs with source tracking
-├── check_qa_quality.py                    # Comprehensive QA quality analyzer
-├── launch_context_enhanced_production.py  # Context-enhanced launcher
-├── demo_context_enhanced_analysis.py      # Context demo
+SetForge/ (61MB, production-optimized)
+├── data/educational/                       # 48 source .txt files (PRESERVED)
+│   ├── sharda_scholarship_policy.txt      # Official 2025-26 scholarship criteria  
+│   ├── common_questions_and_concerns.txt  # 1000+ real student queries
+│   ├── student_personas_and_scenarios.txt # 6 persona profiles 
+│   └── comparative_analysis_*.txt         # Multi-university comparisons
+├── production_txt_dataset_generator.py    # Tier 1: Base generator (1437 lines)
+├── high_volume_qa_generator.py            # Tier 2: Mid-volume (5k pairs)
+├── ultra_high_volume_generator.py         # Tier 3: High-volume (10k pairs)
+├── large_scale_qa_dataset_generator.py    # Tier 4: Large-scale (15k pairs)
+├── enhanced_production_qa_generator.py    # Multi-university scholarship engine
+├── enhanced_grade_scale_detection.py      # GPA/CGPA normalization system
+├── official_sharda_scholarship_integration.py # Official university integration
+├── data_validator.py                      # Comprehensive dataset validation
+├── check_qa_quality.py                    # Quality analysis with cultural metrics
 ├── setforge_cli.py                        # Production CLI interface
-└── *_corrected_*.py                       # Data correction utilities
+├── enhanced_dataset_cli.py                # Enhanced CLI with dashboard
+├── demonstrate_grounded_15k_success.py    # Specification fulfillment demo
+├── enhanced_grounded_15k_generator.py     # Grounded content extraction
+├── output/datasets/                       # Essential datasets only
+│   ├── enhanced_grounded_15k_dataset.jsonl (37.7MB)
+│   └── true_15k_unique_dataset.jsonl (22.2MB)
+└── src/                                   # Core production components
 ```
 
-### Key Production Components
-- **`ProductionSetForge`**: Main orchestrator with health checks, graceful shutdown
-- **`ProductionTxtDatasetGenerator`**: NEW - Complete TXT-to-QA transformation system with persona awareness
-- **`EnhancedProductionQAGenerator`**: NEW - Multi-university scholarship calculation with official 2025-26 criteria
-- **`EnhancedScholarshipCalculator`**: NEW - Intelligent grade scale detection and normalization
-- **`OfficialShardaScholarshipCalculator`**: NEW - Official Sharda University scholarship integration
-- **`ContextEnhancedQAGenerator`**: Context-rich QA generation with mandatory context specification and source attribution
-- **`EducationalDataAnalyzer`**: Comprehensive educational data analysis (48 files) with source tracking
-- **`ContextRichPromptTemplates`**: Context-aware prompts with cultural sensitivity and source verification
-- **`ProductionMonitor`**: Real-time cost tracking, performance metrics, budget alerts
-- **`CostOptimizer`**: Dynamic batch sizing, optimization recommendations
-- **`ProductionQAValidator`**: Enhanced validation with caching, detailed diagnostics
-- **`ProductionExporter`**: Full data lineage, audit trails, quality-based separation with source tracking
+## ⚡ Critical Production Workflows
 
-## Critical Design Patterns
+### **Primary Development Commands**
+```bash
+# 🎯 Core Production Generation (Choose based on requirements)
+# Tier 1: High quality, smaller volume (1k pairs)
+python production_txt_dataset_generator.py --target 1000 --config config/config.yaml
 
-### 1. Environment-Aware Configuration
-```python
-# Production/Staging/Development environments with automatic optimization
-config = Config.from_yaml('config/config.yaml')  # NOT Config()
-processor = TextProcessor(config)
+# Tier 2: Balanced quality-volume (5k pairs)  
+python high_volume_qa_generator.py --target 5000
 
-# API key: DIGITALOCEAN_API_KEY from .env file (required unless dry_run=true)
-# Test mode: Set SETFORGE_DRY_RUN=true to bypass API validation
+# Tier 3: Maximum volume (10k+ pairs)
+python ultra_high_volume_generator.py --target 10000
+
+# Tier 4: Comprehensive large-scale (15k pairs)
+python large_scale_qa_dataset_generator.py --target 15000
+
+# ✅ Production CLI Interface
+python setforge_cli.py process data/educational/ output/my_dataset.jsonl
+python enhanced_dataset_cli.py --target-size 1000 --config config/config.yaml
+
+# 🔍 Quality Analysis & Validation
+python check_qa_quality.py output/my_dataset.jsonl --threshold 0.85
+python data_validator.py output/my_dataset.jsonl
+
+# 📊 Demonstration & Verification
+python demonstrate_grounded_15k_success.py  # Verify 15K spec fulfillment
+python test_dataset_generator.py --dry-run  # Test without API calls
+
+# 🧹 Project Maintenance
+python cleanup_project.py  # Remove unnecessary files (already executed)
 ```
 
-### 2. Production TXT Dataset Generation (NEW)
+### **Essential Environment Setup**
+```bash
+# Required environment variables
+export DIGITALOCEAN_API_KEY=your_key_here    # From .env file
+export SETFORGE_ENV=production               # Environment setting
+export SETFORGE_DRY_RUN=true                # Testing mode (bypasses API)
+
+# Dependencies installation
+pip install -r requirements.txt
+```
+
+## 🔧 Critical Design Patterns
+
+### **1. Multi-Tier Generator Selection**
+Choose generator based on requirements:
 ```python
-# Complete TXT-to-QA dataset generation with persona awareness
+# Tier 1: Base Production (1k pairs, highest quality)
 from production_txt_dataset_generator import ProductionTxtDatasetGenerator
-
-# Initialize with sophisticated components
 generator = ProductionTxtDatasetGenerator(config_path="config/config.yaml")
 
-# Process educational directory into structured QA pairs
-results = await generator.process_txt_files(
-    input_directory="data/educational/",
-    output_path="output/enhanced_dataset.jsonl",
-    target_size=1000
-)
+# Tier 2: High Volume (5k pairs, balanced quality)  
+from high_volume_qa_generator import HighVolumeDatasetGenerator
+generator = HighVolumeDatasetGenerator(target_pairs=5000)
 
-# Rich metadata includes: student personas, university context, grade normalization,
-# cultural sensitivity, quality validation, and comprehensive source attribution
+# Tier 3: Ultra Volume (10k pairs, template-aggressive)
+from ultra_high_volume_generator import UltraHighVolumeGenerator  
+generator = UltraHighVolumeGenerator(target_pairs=10000)
+
+# Tier 4: Large Scale (15k pairs, comprehensive)
+from large_scale_qa_dataset_generator import LargeScaleDatasetGenerator
+generator = LargeScaleDatasetGenerator(target_pairs=15000)
 ```
 
-### 3. Enhanced Grade Scale Detection & Normalization (NEW)
+### **2. Student Persona-Driven Generation**
+**Critical:** All generators MUST use persona awareness:
 ```python
-# Intelligent grade normalization across different educational systems
+from production_txt_dataset_generator import StudentPersona
+
+# Six personas drive question style and university focus
+personas = {
+    StudentPersona.HIGH_ACHIEVER.value: {
+        "focus": ["research opportunities", "rankings", "global exposure"],
+        "tone": "confident and ambitious",
+        "universities": ["Sharda", "Amity"]
+    },
+    StudentPersona.VALUE_SEEKER.value: {
+        "focus": ["scholarship opportunities", "total cost", "ROI analysis"],
+        "tone": "practical and cost-conscious"
+    },
+    StudentPersona.BUDGET_CONSCIOUS.value: {
+        "focus": ["affordable options", "financial aid"],
+        "tone": "supportive and understanding"
+    }
+    # Additional: GAP_YEAR_STUDENT, DIPLOMA_HOLDER, INTERNATIONAL_FOCUSED
+}
+```
+
+### **3. Grade Normalization Engine** 
+**Essential for scholarship calculations:**
+```python
 from enhanced_grade_scale_detection import EnhancedScholarshipCalculator
 
 calculator = EnhancedScholarshipCalculator()
 
-# Support for multiple scales: GPA/5 (SSC/HSC), CGPA/4 (diploma), CGPA/10 (Indian universities)
-normalized = calculator.detect_and_normalize_grade("3.8 CGPA", "HSC")
+# Auto-detects: Percentage/100, GPA/5 (SSC/HSC), CGPA/4 (diploma), CGPA/10 (Indian)
+result = calculator.detect_and_normalize_grade("3.8 CGPA", "HSC")
 # Returns: {"normalized_gpa": 3.8, "scale": "gpa_5", "confidence": 0.85}
 
 # Official university scholarship integration
@@ -105,72 +147,82 @@ sharda_calc = OfficialShardaScholarshipCalculator()
 scholarship = sharda_calc.calculate_scholarship(ssc_grade=3.5, hsc_grade=4.0)
 ```
 
-### 4. Student Persona-Aware Generation (NEW)
+### **4. Quality Validation Framework**
 ```python
-# Persona-specific QA generation based on student_personas_and_scenarios.txt
-from production_txt_dataset_generator import StudentPersona
-
-# Personas: HIGH_ACHIEVER, VALUE_SEEKER, BUDGET_CONSCIOUS, GAP_YEAR_STUDENT, 
-#          DIPLOMA_HOLDER, INTERNATIONAL_FOCUSED
-
-generator.select_persona_for_question(paragraph_info)
-# Automatically selects appropriate persona based on content indicators
-
-# Each persona has specific focus areas, tone, and decision factors
-```
-
-### 5. Context-Enhanced QA Generation (ENHANCED)
-```python
-# Context-rich QA generation with mandatory context specification
-from context_enhanced_qa_generator import ContextEnhancedQAGenerator, ContextMetadata
-from educational_data_analyzer import EducationalDataAnalyzer
-
-# Analyze educational data for context patterns
-analyzer = EducationalDataAnalyzer()
-analysis_results = await analyzer.analyze_directory('data/educational/')
-
-# Generate context-rich QA pairs with mandatory elements
-context_generator = ContextEnhancedQAGenerator(config)
-contextual_qa_pairs = await context_generator.generate_context_rich_qa_pairs(chunk)
-
-# Context requirements: university, program, student_background, timeline, academic_level, audience
-
-# Example context-rich QA with source attribution:
-question = "What is the annual tuition fee for B.Tech CSE at Sharda University for Bangladeshi students in 2025-26?"
-answer = "For Bangladeshi students applying to B.Tech Computer Science & Engineering (CSE) at Sharda University for the 2025-26 academic year, the annual tuition fee is ₹2,80,000..."
-source_attribution = {
-    "data_source_file": "fees_scholarship_btech.txt",
-    "original_source": "Sharda University B.Tech Admission Brochure 2025",
-    "source_url": "https://sharda.ac.in/admissions/btech",
-    "verification_date": "January 2025",
-    "source_type": "Official university brochure"
+# Multi-dimensional quality scoring system
+quality_thresholds = {
+    "extractive_score": 0.75,      # Must be largely extracted from source
+    "factual_accuracy": 0.90,      # High factual correctness required  
+    "cultural_sensitivity": 0.70,  # Appropriate for Bangladeshi students
+    "semantic_alignment": 1.00,    # Perfect question-answer alignment
+    "uniqueness_score": 0.50       # Moderate uniqueness requirement
 }
+
+# Cultural sensitivity validation
+cultural_indicators = [
+    r'(?i)\bbangladeshi\s+students?\b',
+    r'(?i)\bfrom\s+bangladesh\b', 
+    r'(?i)\bssc\b', r'(?i)\bhsc\b',
+    r'(?i)\btaka\b', r'(?i)\bbdt\b'
+]
 ```
-### 6. Production Processing Pipeline
+
+### **5. Bengali-English Cultural Integration**
 ```python
-# Main orchestrator pattern in setforge_production.py
-pipeline = ProductionSetForge('config/config.yaml')
-await pipeline.process_files_async(input_paths, output_path)
+# Authentic cultural integration patterns
+multilingual_terms = {
+    "শিক্ষার্থী": "student",
+    "বিশ্ববিদ্যালয়": "university", 
+    "ভর্তি": "admission",
+    "বৃত্তি": "scholarship",
+    "শিক্ষা": "education"
+}
 
-# NEW: Context-enhanced production launcher
-from launch_context_enhanced_production import ContextEnhancedProductionLauncher
-launcher = ContextEnhancedProductionLauncher()
-results = await launcher.run_complete_pipeline()
+# Cultural context markers in generated content
+cultural_patterns = [
+    "for Bangladeshi students",
+    "from Bangladesh", 
+    "SSC/HSC graduates",
+    "in BDT (Bangladeshi Taka)",
+    "যোগাযোগ করুন" # "please contact"
+]
 
-# NEW: Production TXT dataset generator
-from production_txt_dataset_generator import ProductionTxtDatasetGenerator
-txt_generator = ProductionTxtDatasetGenerator()
-dataset = await txt_generator.process_txt_files("data/educational/", "output/dataset.jsonl")
+# Example culturally integrated Q&A:
+question = "আমার HSC এ 4.2 CGPA, কোন scholarship পাবো Sharda University তে?"
+answer = "HSC-তে 4.2 CGPA থাকায় আপনি Sharda University-তে 50% scholarship পাবেন..."
 ```
 
-### 7. Enhanced Data Classes & Validation
+### **6. Template-Based Generation Scaling**
+```python
+# Progressive template complexity across generators
+base_templates = {
+    "scholarship_analysis": [
+        "My {grade_type} is {grade_value}. What scholarship can I get for {program} at {university}?",
+        "With {grade_value} in {grade_type}, am I eligible for merit scholarship?"
+    ],
+    "university_comparison": [
+        "Compare {program} at {university1} vs {university2} for overall value",
+        "Which university offers better ROI for {program}?"
+    ],
+    "edge_case_scenarios": [
+        "What if I fail one subject in my final year?",
+        "Can I change my program after admission?",
+        "What happens if my visa gets rejected?"
+    ]
+}
+
+# Ultra-high volume uses 80+ templates across 8 categories
+# Large-scale uses sophisticated template expansion with entity replacement
+```
+
+### **7. Enhanced Data Classes & Validation**
 - **`ValidationResult`**: Now includes processing_time, confidence_level, diagnostics
 - **`QAPair`**: Extended with source_file, processing_metadata, validation_score
 - **`ContextualQAPair`**: NEW - Extended with university_context, program_context, multilingual_keywords
 - **`ContextMetadata`**: NEW - Comprehensive context tracking for educational content
 - **`CostBreakdown`**: Real-time cost tracking per file/model with efficiency scoring
 
-### 8. Context-Rich Validation Framework (NEW)
+### **8. Context-Rich Validation Framework (NEW)**
 ```python
 # Mandatory context elements (100% compliance required)
 REQUIRED_CONTEXT = [
@@ -197,7 +249,7 @@ cultural_score = validate_cultural_appropriateness(qa_pair, "bangladeshi_student
 source_score = validate_source_attribution(qa_pair, REQUIRED_SOURCE_ATTRIBUTION)
 ```
 
-### 9. Production Validation Scoring
+### **9. Production Validation Scoring**
 ```python
 # ProductionQAValidator weighted scoring with caching:
 overall_score = (
@@ -209,35 +261,25 @@ overall_score = (
 # Results cached for performance, validation stats tracked
 ```
 
-## Development Workflows
+## ⚡ Development Workflows
 
-### Production Testing
+### **Production Testing**
 ```bash
 # Comprehensive production test suite
-python tests/test_production_complete.py    # Full production features test
-python tests/test_production_final.py       # Final validation test
-python tests/test_setforge.py               # Unit tests with unittest
-
-# NEW: Production TXT dataset generator testing
 python test_dataset_generator.py --dry-run --input data/educational/
 python test_enhanced_grade_detection.py     # Grade normalization tests
 python demo_production_system.py            # Interactive demo system
 
 # Set dry run mode for testing without API calls
-SETFORGE_DRY_RUN=true python tests/test_production_final.py
+SETFORGE_DRY_RUN=true python test_dataset_generator.py --input data/educational/
 ```
 
-### CLI Commands (Production-Ready)
+### **CLI Commands (Production-Ready)**
 ```bash
 # Main processing with production orchestrator
 python setforge_cli.py process data/educational/ output/my_dataset.jsonl
 
 # Enhanced CLI with dashboard and resumability
-python setforge_enhanced_cli.py process data/educational output/dataset.jsonl --dashboard
-python setforge_enhanced_cli.py resume data/educational output/dataset.jsonl
-
-# NEW: Production TXT dataset generator CLI
-python production_txt_dataset_generator.py --input data/educational/ --output output/enhanced_dataset.jsonl
 python enhanced_dataset_cli.py --target-size 1000 --config config/config.yaml
 
 # Cost estimation before processing
@@ -246,52 +288,30 @@ python setforge_cli.py estimate data/educational/ --config config/config.yaml
 # Health checks and monitoring
 python setforge_cli.py health-check
 python setforge_cli.py status --config config/config.yaml
-python setforge_enhanced_cli.py status --live
 
 # Configuration management
 python setforge_cli.py create-config config/my_config.yaml
 ```
 
-### Production Launchers (High-Level Workflows)
+### **Generator-Specific Workflows**
 ```bash
-# Complete workflow: test → validate → confirm → produce
-python run_complete_workflow.py
+# Base production generator (1k pairs, highest quality)
+python production_txt_dataset_generator.py --target 1000 --config config/config.yaml
 
-# NEW: Context-enhanced production with 6-phase pipeline
-python launch_context_enhanced_production.py
+# High volume generation (5k pairs, balanced quality)
+python high_volume_qa_generator.py --target 5000 --config config/high_volume_config.yaml
 
-# NEW: Enhanced multi-university production system
-python launch_enhanced_multi_university_production.py
+# Ultra high volume (10k pairs, aggressive templates)
+python ultra_high_volume_generator.py --target 10000 --parallel-workers 8
 
-# Enhanced production with resumability and live monitoring
-python launch_enhanced_production.py
+# Large scale comprehensive (15k pairs, full sophistication)
+python large_scale_qa_dataset_generator.py --target 15000 --config config/large_scale_config.yaml
 
-# Final production with comprehensive reporting
-python launch_final_production.py
-
-# Basic production launcher
-python launch_production.py
+# All generators support resumability and checkpointing
+python <generator>.py --resume --checkpoint-dir output/checkpoints/
 ```
 
-### Context-Enhanced Workflows (NEW)
-```bash
-# Educational data analysis demo
-python demo_context_enhanced_analysis.py
-
-# Context-enhanced system validation
-python test_context_enhanced_setup.py
-
-# Context-rich QA generation for Bangladeshi students
-python launch_context_enhanced_production.py --phase all
-
-# Source attribution validation
-python validate_source_attribution.py --source-check
-
-# Context completeness analysis
-python analyze_context_completeness.py --threshold 0.95
-```
-
-### Quality Analysis & Data Correction
+### **Quality Analysis & Data Correction**
 ```bash
 # Comprehensive quality analysis of generated datasets
 python check_qa_quality.py output/datasets/my_dataset.jsonl
@@ -302,102 +322,104 @@ python check_qa_quality.py dataset.jsonl --threshold 0.85 --output quality_repor
 # Demo quality checker usage patterns
 python demo_qa_quality_checker.py
 
-# Data accuracy analysis and correction tools
-python analyze_lateral_entry_issues.py        # Identify data accuracy issues
-python correct_lateral_entry_dataset.py       # Apply corrections to datasets
-python validate_lateral_entry_corrections.py  # Validate corrections applied
+# Data validation and integrity checks
+python data_validator.py output/my_dataset.jsonl
 ```
 
-### Setup & Dependencies
+### **Setup & Dependencies**
 ```bash
-# Production setup script
-chmod +x scripts/setup.sh && scripts/setup.sh
+# Required environment variables
+export DIGITALOCEAN_API_KEY=your_key_here    # From .env file
+export SETFORGE_ENV=production               # Environment setting
+export SETFORGE_DRY_RUN=false                # Testing mode (bypasses API)
 
-# With example testing
-scripts/setup.sh --run-example
+# Dependencies installation
+pip install -r requirements.txt
 ```
 
-### Environment Setup Patterns
-```bash
-# Essential environment variables (production launchers)
-export DIGITALOCEAN_API_KEY=your_key_here  # Required for API access (from .env file)
-export SETFORGE_ENV=production              # Environment setting
-export SETFORGE_DRY_RUN=true               # Testing mode (bypasses API)
-export SETFORGE_LOG_LEVEL=INFO             # Logging level
+## 🔑 Project-Specific Conventions
 
-# Quick test setup (used in run_complete_workflow.py)
-os.environ['DIGITALOCEAN_API_KEY'] = 'hardcoded-for-testing'
-os.environ['SETFORGE_ENV'] = 'production'
-```
+### **1. Hallucination Prevention**
+- All QA generation uses **extractive-only prompts** with strict source text validation
+- Validation requires **75%+ word overlap** with source text for extractive scoring
+- **Forbidden patterns** detected: "probably", "might be", "in my opinion", "I think"
+- Questions must be directly answerable from source content without inference
 
-## Project-Specific Conventions
+### **2. Cost Management & Optimization**
+- Real-time cost tracking with `DIGITALOCEAN_API_KEY` usage monitoring
+- Budget enforcement: processing stops at configured `max_total_cost_usd`
+- Token estimation: ~4 chars per token for accurate cost prediction
+- **Dynamic optimization**: Batch size adjustment based on performance metrics
+- **Efficiency scoring**: Tracks cost per QA pair generation
 
-### 1. Hallucination Prevention
-- All QA generation uses **extractive-only prompts** (`qa_generator.py:base_system_prompt`)
-- Validation requires **70%+ word overlap** with source text (`config.validation.min_source_overlap`)
-- **Forbidden patterns** detected: "probably", "might be", "in my opinion" (`config.qa.forbidden_patterns`)
-
-### 2. Cost Management & Optimization
-- Real-time cost tracking in `qa_generator.total_cost` and `ProductionMonitor`
-- Budget enforcement: processing stops at `config.cost.max_total_cost_usd`
-- Token estimation: ~4 chars per token (`qa_generator._estimate_cost()`)
-- **Dynamic optimization**: `CostOptimizer` adjusts batch sizes based on performance
-- **Efficiency scoring**: Tracks cost per QA pair and processing efficiency
-
-### 3. Enhanced Error Handling
-- **Exponential backoff**: Retry logic with increasing delays (`qa_generator._make_api_call()`)
+### **3. Enhanced Error Handling**
+- **Exponential backoff**: Retry logic with increasing delays for API failures
 - **Graceful degradation**: Individual file failures don't stop batch processing
-- **Health checks**: Production system includes startup and runtime health validation
+- **Health checks**: Production system includes startup and runtime validation
 - **Graceful shutdown**: SIGINT/SIGTERM handling for clean production stops
 
-### 4. Production Data Flow
+### **4. Production Data Flow**
 - **Chunking**: Section-aware with overlap management for context continuity
 - **Validation**: Multi-stage with caching for performance (1000 result cache limit)
 - **Export**: Quality-based separation, audit trails, data lineage tracking
 - **Monitoring**: Real-time metrics, alerts, structured logging in production mode
 
-### 5. Enhanced Production Features
-- **Resumability**: Checkpoint-based recovery with `launch_enhanced_production.py`
-- **Live Dashboard**: Real-time progress tracking via `setforge_enhanced_cli.py status --live`
+### **5. Enhanced Production Features**
+- **Resumability**: Checkpoint-based recovery with automatic state restoration
+- **Live Dashboard**: Real-time progress tracking via enhanced CLI tools
 - **Quality Trending**: Continuous quality monitoring with alert thresholds
 - **Dynamic Optimization**: Batch size adjustment based on performance metrics
 - **Cost Estimation**: Pre-flight cost analysis with budget validation
 
-### 6. Data Quality & Accuracy Management
-- **Quality Checking**: Comprehensive analysis via `check_qa_quality.py` with extractive validation, hallucination detection, semantic analysis
-- **Data Correction**: Systematic approach to identify and fix accuracy issues using analysis scripts
-- **Validation Workflows**: Multi-stage validation with before/after comparison for data corrections
-- **Content Consistency**: Source files must maintain consistency across educational programs and policies
+### **6. Data Quality & Accuracy Management**
+- **Quality Checking**: Comprehensive analysis via `check_qa_quality.py` with extractive validation
+- **Hallucination detection**: Pattern-based detection of non-extractive content
+- **Semantic analysis**: Question-answer alignment validation with perfect scoring requirement
+- **Content Consistency**: Source files must maintain consistency across educational programs
 
-### 7. Production TXT Dataset Generator (NEW)
-- **Persona-Aware Generation**: Student personas (HIGH_ACHIEVER, VALUE_SEEKER, BUDGET_CONSCIOUS, etc.) drive Q&A generation style
-- **Grade Normalization**: Multi-scale support (GPA/5, CGPA/4, CGPA/10, Percentage) with confidence scoring
-- **University-Specific Logic**: Official 2025-26 scholarship criteria for Sharda, Amity, Galgotias, NIU, G.L. Bajaj
-- **Cultural Integration**: Bengali-English mixed content with transliteration and cultural context
-- **Quality Thresholds**: Extractive score ≥0.75, factual accuracy ≥0.80, cultural sensitivity ≥0.85
-- **Metadata Richness**: Complete traceability with source files, personas, difficulty levels, processing time
+### **7. Production TXT Dataset Generator Patterns**
+- **Student Personas System**: Six personas (HIGH_ACHIEVER, VALUE_SEEKER, BUDGET_CONSCIOUS, GAP_YEAR_STUDENT, DIPLOMA_HOLDER, INTERNATIONAL_FOCUSED) drive content generation
+- **Grade Normalization Engine**: Intelligent detection and conversion across GPA/5, CGPA/4, CGPA/10, Percentage with confidence scoring
+- **University-Specific Intelligence**: Official 2025-26 scholarship criteria, contact information, program details for 5 universities
+- **Cultural Authenticity**: Bengali-English integration with proper transliteration and cultural context understanding
+- **Quality Validation Framework**: Multi-dimensional scoring (extractive, factual, cultural, uniqueness) with threshold enforcement
+- **Metadata Completeness**: Rich metadata including personas, difficulty, processing time, source attribution, audit trails
 
-## Integration Points
+### **8. Enhanced Grade Scale Detection**
+- **Multi-Scale Support**: Automatic detection of percentage (100-mark), GPA/5 (SSC/HSC), CGPA/4 (diploma), CGPA/10 (Indian universities)
+- **Confidence Scoring**: Each conversion includes confidence level (high: 0.9+, medium: 0.7+, low: 0.5+)
+- **University-Specific Conversions**: Sharda, NIU, Amity, Galgotias, G.L. Bajaj specific grade conversion tables
+- **Bangladesh-India Equivalence**: Proper mapping between Bangladesh and Indian educational systems
+- **Warning System**: Automatic detection of low grades with recommendation for university verification
 
-### Environment Configuration
+### **9. Official Scholarship Integration**
+- **Real-Time Calculation**: Official 2025-26 scholarship criteria with exact percentage calculations
+- **Multi-Tier Support**: Tier-based scholarship systems with automatic qualification determination
+- **Cost Analysis**: Complete fee breakdown with scholarship application and net cost calculation
+- **Eligibility Validation**: Automatic checks for program eligibility, citizenship requirements, academic prerequisites
+- **Contact Integration**: Direct integration with university contact information for verification
+
+## 🔧 Integration Points
+
+### **Environment Configuration**
 - **Development**: `debug_mode=true`, reduced retries, minimal batch sizes
 - **Staging**: Balanced settings, metrics enabled, moderate optimization
 - **Production**: Maximum resilience, structured logging, optimized performance
 - **Dry Run**: `SETFORGE_DRY_RUN=true` bypasses API calls for testing
 
-### LLM API (DigitalOcean Serverless)
+### **LLM API (DigitalOcean Serverless)**
 - Uses `aiohttp.ClientSession` with connection pooling
 - Rate limiting: 429 status detection with exponential backoff
 - Cost tracking via `usage.total_tokens` in API response
 - **Session reuse**: Single session per QAGenerator instance for efficiency
 
-### Production Workflow Integration
-- **Complete workflow**: `run_complete_workflow.py` runs test → validate → confirm → produce
-- **Resume capability**: Enhanced launchers can resume from checkpoints automatically
+### **Production Workflow Integration**
+- **Complete workflow**: Test → validate → confirm → produce pipeline
+- **Resume capability**: Checkpoint-based recovery with automatic state restoration
 - **Live monitoring**: Real-time progress tracking with ETA and quality metrics
 - **Health checks**: Automatic system validation before processing starts
 
-### Enhanced Output Format (JSONL with Complete Traceability)
+### **Enhanced Output Format (JSONL with Complete Traceability)**
 ```json
 {
   "question": "What is the annual tuition fee for B.Tech CSE at Sharda University for Bangladeshi students?",
@@ -453,48 +475,38 @@ os.environ['SETFORGE_ENV'] = 'production'
 }
 ```
 
-## Critical Files for Understanding
+## 📚 Critical Files for Understanding
 
-### Core Production System
-- **`src/setforge_production.py`**: Main orchestrator, study for production patterns
-- **`src/monitoring.py`**: Cost tracking, performance metrics, optimization logic
-- **`src/validator_enhanced.py`**: Caching, detailed diagnostics, confidence scoring
-- **`src/exporter_enhanced.py`**: Data lineage, audit trails, quality separation
-
-### Production TXT Dataset Generator System (NEW)
-- **`production_txt_dataset_generator.py`**: Complete TXT-to-QA transformation system (1300+ lines)
+### **Core Production System**
+- **`production_txt_dataset_generator.py`**: Complete TXT-to-QA transformation system (1437 lines)
 - **`enhanced_grade_scale_detection.py`**: Intelligent grade normalization with confidence scoring
 - **`enhanced_production_qa_generator.py`**: Multi-university scholarship calculation engine
 - **`official_sharda_scholarship_integration.py`**: Official Sharda University 2025-26 criteria
 - **`data_validator.py`**: Comprehensive dataset validation with issue categorization
+- **`setforge_cli.py`**: Production CLI interface
+- **`enhanced_dataset_cli.py`**: Enhanced CLI with dashboard and resumability
+
+### **Multi-Tier Generator Architecture**
+- **`high_volume_qa_generator.py`**: Mid-volume balanced approach (5k pairs target)
+- **`ultra_high_volume_generator.py`**: Aggressive template-based generation (10k pairs)
+- **`large_scale_qa_dataset_generator.py`**: Most sophisticated system (15k pairs target)
+
+### **Quality Analysis & Validation**
+- **`check_qa_quality.py`**: Comprehensive QA dataset quality validation tool (850+ lines)
 - **`test_dataset_generator.py`**: CLI testing interface for production system
 - **`demo_production_system.py`**: Interactive demonstration and validation tools
-### Context-Enhanced Educational System (ENHANCED)
-- **`src/context_enhanced_qa_generator.py`**: Context-rich QA generation with mandatory elements
-- **`src/context_rich_prompts.py`**: Context-aware prompt templates and validation
-- **`launch_context_enhanced_production.py`**: 6-phase production pipeline
-- **`demo_context_enhanced_analysis.py`**: System demonstration and validation
 
-### Production Launchers & Workflows
-- **`launch_final_production.py`**: Complete production with comprehensive reporting
-- **`launch_enhanced_production.py`**: Enhanced production with resumability
-- **`run_complete_workflow.py`**: Full test → validate → produce workflow
-- **`launch_production.py`**: Basic production launcher
+### **Educational Data Structure (48 Files)**
+- **`data/educational/`**: 48 source .txt files with authentic university content
+- **`data/educational/common_questions_and_concerns.txt`**: 1000+ real student queries
+- **`data/educational/student_personas_and_scenarios.txt`**: 6 detailed persona profiles
+- **`data/educational/comparative_analysis_*.txt`**: Multi-university comparisons
 
-### Quality Analysis & Data Correction
-- **`check_qa_quality.py`**: Comprehensive QA dataset quality validation tool (850+ lines)
-- **`demo_qa_quality_checker.py`**: Usage examples and integration demonstrations
-- **`analyze_lateral_entry_issues.py`**: Data accuracy analysis for specific content issues
-- **`correct_lateral_entry_dataset.py`**: Systematic data correction with audit trails
-- **`validate_lateral_entry_corrections.py`**: Before/after validation for corrections
+### **Essential Datasets (Post-Cleanup)**
+- **`output/datasets/enhanced_grounded_15k_dataset.jsonl`**: 37.7MB production dataset
+- **`output/datasets/true_15k_unique_dataset.jsonl`**: 22.2MB validated dataset
 
-### Testing Patterns
-- **`tests/test_production_final.py`**: Shows dry_run testing, environment setup
-- **`tests/test_production_complete.py`**: Comprehensive feature validation
-- **`run_complete_workflow.py`**: Complete end-to-end testing and production workflow
-- **Use `SETFORGE_DRY_RUN=true`** for testing without API requirements
-
-### Configuration Patterns
+### **Configuration Patterns**
 ```python
 # Always use from_yaml for production configs
 config = Config.from_yaml('config/config.yaml')
@@ -504,7 +516,7 @@ os.environ['SETFORGE_DRY_RUN'] = 'true'  # For testing
 os.environ['DIGITALOCEAN_API_KEY'] = 'your-key'  # Required for production (stored in .env)
 os.environ['SETFORGE_ENV'] = 'production'  # Environment setting
 
-# NEW: Production TXT dataset generator configuration
+# Production TXT dataset generator configuration
 from production_txt_dataset_generator import ProductionTxtDatasetGenerator
 generator = ProductionTxtDatasetGenerator(config_path="config/config.yaml")
 
@@ -526,73 +538,33 @@ scholarship_config = {
 }
 ```
 
-### Production Launch Patterns
+### **Production Launch Patterns**
 ```python
-# Enhanced production launcher pattern
-from setforge_enhanced import EnhancedSetForgeProduction
-setforge = EnhancedSetForgeProduction()
-results = await setforge.process_directory_enhanced(input_dir, output_path)
+# Multi-tier generator selection based on requirements
+# Tier 1: High quality, smaller volume (1k pairs)
+generator = ProductionTxtDatasetGenerator(target_pairs=1000)
 
-# Resume capability pattern
-checkpoint_file, checkpoint_info = check_resume_capability()
-if checkpoint_file:
-    # Resume from checkpoint or start fresh
-    choice = prompt_resume_choice(checkpoint_info)
+# Tier 2: Balanced quality-volume (5k pairs)
+generator = HighVolumeDatasetGenerator(target_pairs=5000)
+
+# Tier 3: Maximum volume (10k+ pairs)
+generator = UltraHighVolumeGenerator(target_pairs=10000)
+
+# Tier 4: Comprehensive large-scale (15k pairs)
+generator = LargeScaleDatasetGenerator(target_pairs=15000)
+
+# All generators support async processing and checkpointing
+results = await generator.process_directory(input_dir, output_path)
 ```
 
-### Data Consistency Management
-- **Educational content policy**: Lateral entry policies must be consistently applied (B.Tech only)
-- **Source file integrity**: Use `*_corrected_*` scripts to identify and fix data discrepancies
-- **Validation workflows**: Always run quality checks after data modifications
-- **Audit trails**: Maintain full traceability for all data corrections and modifications
-- **Contact information**: All university contact details must match the standardized format (global@sharda.ac.in, +91-8800996151, etc.)
+### **Testing Patterns**
+```python
+# Use SETFORGE_DRY_RUN=true for testing without API requirements
+os.environ['SETFORGE_DRY_RUN'] = 'true'
+python test_dataset_generator.py --input data/educational/
 
-### 7. Context-Rich Educational Data Patterns (NEW)
-- **Mandatory Context Elements**: Every Q&A must include university, program, student background ("Bangladeshi students"), timeline ("2025-26"), academic level, and audience
-- **Cultural Sensitivity**: Bengali-English integration with transliteration and cultural context
-- **Entity Recognition**: Automatic extraction of universities (Sharda, Amity, Galgotias, G.L. Bajaj, NIU), programs (B.Tech CSE, BCA, BBA), and processes
-- **Comparative Analysis**: Multi-university comparisons with context-specific guidance
-
-### 8. Contact Information Standardization (NEW)
-- **Centralized Contact Database**: All university contact info must be consistent across 48 educational files
-- **Standardized Format**: Specific email/phone patterns for each university (see CONTACT_INFORMATION_UPDATE_REPORT.md)
-- **Update Workflow**: Use systematic file updates when contact information changes - update core files first, then propagate
-- **Validation Pattern**: Cross-reference contact info in comparison files, guides, and support documents
-
-### 9. Source Attribution and Verification Framework (NEW)
-- **Complete Source Tracking**: Every Q&A must include data_source_file, original_source, source_url, verification_date, source_type
-- **Source Reliability Scoring**: Official university sources (1.0), government documents (0.9), verified third-party (0.7)
-- **Currency Validation**: All sources must be verified for 2025-26 academic year relevance
-- **Cross-Reference Verification**: Information consistency across multiple source files with attribution tracking
-- **Source Hierarchy**: University brochures > official websites > government guidelines > third-party sources
-
-### 10. Educational Data Structure Patterns (48 Files)
-- **Content Categories**: University profiles (10), fees/scholarships (8), comparative analysis (6), admission processes (4), practical guidance (20)
-- **Source Citation Pattern**: Every file contains "--source:" citations with official URLs and document references
-- **Multilingual Content**: Bengali-English mixed content with cultural context for Bangladeshi students
-- **Hierarchical Structure**: Consistent numbered sections, bullet points, tables for systematic information organization
-- **Real-World Scenarios**: Based on actual student questions, parent concerns, and agent guidance needs
-
-### 11. Production TXT Dataset Generator Patterns (NEW)
-- **Student Personas System**: Six personas (HIGH_ACHIEVER, VALUE_SEEKER, BUDGET_CONSCIOUS, GAP_YEAR_STUDENT, DIPLOMA_HOLDER, INTERNATIONAL_FOCUSED) drive content generation
-- **Grade Normalization Engine**: Intelligent detection and conversion across GPA/5, CGPA/4, CGPA/10, Percentage with confidence scoring
-- **University-Specific Intelligence**: Official 2025-26 scholarship criteria, contact information, program details for 5 universities
-- **Cultural Authenticity**: Bengali-English integration with proper transliteration and cultural context understanding
-- **Quality Validation Framework**: Multi-dimensional scoring (extractive, factual, cultural, uniqueness) with threshold enforcement
-- **Metadata Completeness**: Rich metadata including personas, difficulty, processing time, source attribution, audit trails
-
-### 12. Enhanced Grade Scale Detection (NEW)
-- **Multi-Scale Support**: Automatic detection of percentage (100-mark), GPA/5 (SSC/HSC), CGPA/4 (diploma), CGPA/10 (Indian universities)
-- **Confidence Scoring**: Each conversion includes confidence level (high: 0.9+, medium: 0.7+, low: 0.5+)
-- **University-Specific Conversions**: Sharda, NIU, Amity, Galgotias, G.L. Bajaj specific grade conversion tables
-- **Bangladesh-India Equivalence**: Proper mapping between Bangladesh and Indian educational systems
-- **Warning System**: Automatic detection of low grades with recommendation for university verification
-
-### 13. Official Scholarship Integration (NEW)
-- **Real-Time Calculation**: Official 2025-26 scholarship criteria with exact percentage calculations
-- **Multi-Tier Support**: Tier-based scholarship systems with automatic qualification determination
-- **Cost Analysis**: Complete fee breakdown with scholarship application and net cost calculation
-- **Eligibility Validation**: Automatic checks for program eligibility, citizenship requirements, academic prerequisites
-- **Contact Integration**: Direct integration with university contact information for verification
+# Testing with actual production configuration
+python production_txt_dataset_generator.py --dry-run --config config/config.yaml
+```
 
 ````
