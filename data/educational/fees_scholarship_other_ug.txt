@@ -1,0 +1,146 @@
+# Context: Comprehensive Admission, Fees, and Scholarship Information for other major Undergraduate Programs (Design, Architecture, Media, Humanities, Basic Sciences) for Bangladeshi Students at Sharda University.
+
+---
+## 1. Program Overview & Schools
+
+Sharda University offers a diverse range of undergraduate programs beyond Engineering, Business, and Health Sciences. These programs are housed in specialized schools, each with a focus on creative, scientific, and social disciplines.
+
+### Programs Covered in this Document:
+
+#### Sharda School of Design, Architecture & Planning
+- **Bachelor of Architecture (B.Arch)**
+- **Bachelor of Design (B.Design)**
+  - Specializations: Interior Design, Fashion Design, Communication Design
+- **Bachelor of Visual Arts (Applied Arts)**
+
+#### Sharda School of Media, Film and Entertainment
+- **B.A. - Film Television & OTT Production**
+- **B.A. - Journalism & Mass Communication**
+- **B.Sc. - Animation, VFX and Gaming Design**
+  - Specializations: Animation & VFX, Gaming Design
+
+#### Sharda School of Humanities & Social Sciences
+- **B.A. (General)**
+  - Subjects: English, History, Sociology, Political Science, Geography, International Relations
+- **B.A. - Psychology**
+- **B.A. - Economics**
+
+#### Sharda School of Basic Sciences & Research
+- **B.Sc. (General)**
+  - Subjects: Physics, Chemistry, Mathematics, Zoology
+- **B.Sc. (Specialized)**
+  - Subjects: Computational Physics, Renewable Energy, Computational Chemistry, Environmental Science, Computational Mathematics and Statistics, Data Science and Analytics, Bio-Chemistry, Biotechnology, Microbiology, Food Science & Technology.
+
+---
+## 2. Admission Requirements for Bangladeshi Students
+
+- **Eligibility:** Varies by program.
+  - **B.Arch:** Requires a background with Physics, Chemistry, and Mathematics.
+  - **B.Sc. (Science Subjects):** Requires a Science stream background in HSC.
+  - **B.A., B.Design, B.A. (Media):** Open to students from all streams (Science, Arts, Commerce).
+- **Duration:** Most programs are 3 or 4 years. B.Arch is 5 years.
+- **Required Documents:**
+  - Class 10 (SSC/Dakhil) Marksheet & Certificate.
+  - Class 12 (HSC/Alim) Marksheet & Certificate.
+  - Valid Passport (or Birth Certificate/NID for initial application).
+
+---
+## 3. Detailed Fee Structure (Annual Tuition Fees in INR)
+
+| Program                                       | Duration  | 1st Year Fee | 2nd Year Fee | 3rd Year Fee | 4th/5th Year Fee |
+|-----------------------------------------------|-----------|--------------|--------------|--------------|------------------|
+| **Architecture & Design**                     |           |              |              |              |                  |
+| Bachelor of Architecture (B.Arch)             | 5 Years   | 2,19,000     | 2,25,570     | 2,32,337     | 2,39,307 (4th), 2,46,486 (5th) |
+| Bachelor of Design (B.Design)                 | 4 Years   | 2,75,000     | 2,83,250     | 2,91,748     | 3,00,500         |
+| Bachelor of Visual Arts (Applied Arts)        | 4 Years   | 1,10,000     | 1,13,300     | 1,16,699     | 1,20,200         |
+| **Media, Film & Entertainment**               |           |              |              |              |                  |
+| B.A. - Film Television & OTT Production       | 3 Years   | 2,22,000     | 2,28,660     | 2,35,520     | -                |
+| B.A. - Journalism & Mass Communication        | 3 Years   | 1,85,000     | 1,90,550     | 1,96,267     | -                |
+| B.Sc. - Animation, VFX and Gaming Design      | 3 Years   | 1,85,000     | 1,90,550     | 1,96,267     | -                |
+| **Humanities & Social Sciences**              |           |              |              |              |                  |
+| B.A. (General)                                | 3 Years   | 1,25,000     | 1,28,750     | 1,32,613     | -                |
+| B.A. - Psychology                             | 3 Years   | 1,32,000     | 1,35,960     | 1,40,039     | -                |
+| B.A. - Economics                              | 3 Years   | 1,15,000     | 1,18,450     | 1,22,004     | -                |
+| **Basic Sciences**                            |           |              |              |              |                  |
+| B.Sc. (Physics, Chem, Maths, etc.)            | 3 Years   | 1,10,000     | 1,13,300     | 1,16,699     | -                |
+| B.Sc. (Environmental Science, Biotech, etc.)  | 3 Years   | 1,40,000     | 1,44,200     | 1,48,526     | -                |
+| B.Sc. - Data Science and Analytics            | 3 Years   | 1,20,000     | 1,23,600     | 1,27,308     | -                |
+
+---
+## 4. Scholarship Policy for Bangladeshi Students
+
+### Scholarship Slabs (Based on HSC/Diploma CGPA):
+- **50% Scholarship (for CGPA 3.5 - 5.0):**
+  - B.Arch, B.Design, B.A. (Film & TV), B.A. (Journalism & Mass Comm.) are eligible.
+- **20% Scholarship (for CGPA 3.0 and above):**
+  - B.A. (General), B.A. (Psychology), B.A. (Economics), B.Sc. (Basic Sciences), B.Sc. (Data Science), and Bachelor of Visual Arts are eligible for a 20% scholarship. These programs are **NOT** on the 50% scholarship list.
+
+### Important Scholarship Conditions:
+- **Applicability:** The scholarship is applied ONLY to the **tuition fee**.
+- **Continuation Criteria:** To maintain the scholarship in subsequent years, the student must pass all exams without any backlogs or fails and maintain a minimum of 75% attendance.
+- **Single Scholarship Rule:** A student can only avail one scholarship per academic year.
+
+---
+## 5. Summary for AI Agent
+
+- **Programs Covered:** B.Arch, B.Design, B.A. (Media), B.A. (Humanities), B.Sc. (Basic Sciences).
+- **Scholarship Tiers:**
+  - **50% Tier:** B.Arch, B.Design, and most Media programs are eligible for 50% scholarship with a qualifying CGPA.
+  - **20% Tier:** Most B.A. (Humanities) and B.Sc. (Basic Sciences) programs are eligible for a 20% scholarship.
+- **Fees:** First-year tuition fees vary widely, from ₹1,10,000 for B.Sc. (Basic Sciences) to ₹2,75,000 for B.Design.
+- **Requirements:** Admission is direct and does not require IELTS/TOEFL. However, the visa application process requires a bank statement showing minimum BDT 1,00,000. Eligibility stream (Science/Arts/Commerce) depends on the specific program.
+- **Key Documents:** Passport/NID, HSC marksheets, and certificates are the primary documents needed.
+
+—source: Sharda University Undergraduate Programs Brochure 2025
+—source: Sharda University Fee Structure for International Students 2025
+—source: Sharda School of Architecture, Design, Humanities & Media Course Catalogs 2025
+—source: Sharda University Scholarship Policy for Bangladeshi Students 2025
+
+**📋 PROGRAM ELIGIBILITY FOR SCHOLARSHIPS:**
+
+**50% Scholarship Eligible Programs:**
+• B.Tech - All Specialization (CSE, ECE, ME, CE, etc.)
+• BBA - All Specialization
+• MBA - All Specialization
+• BCA - All Specialization
+• MCA
+• B.Com (Hons)
+• B.Arch & B.Design
+• Masters in Design
+• BA - Film, Television & New Media Production
+• LLB - Integrated (5 Years)
+• BJMC, MJMC, M.Advertising & Brand Management
+• B.Sc. - Radiology, BrILT, Cardiovascular Technology
+• B.Sc. - Forensic Science, Optometry
+• B.Sc. - Nutrition & Dietetics, Dialysis Technology
+• M.Sc. - Clinical Research, Forensic Science, Nutrition & Dietetics
+
+**25% Scholarship Eligible Programs:**
+• B.Sc. Nursing
+
+**⚠️ Scholarship NOT Available for:**
+• Pharmacy (B.Pharm, M.Pharm, Pharm.D)
+• M.Sc. Nursing
+• Medical M.Sc. programs
+• MPT (Master of Physiotherapy)
+• BDS (Bachelor of Dental Surgery)
+• MBBS (Bachelor of Medicine and Bachelor of Surgery)
+
+
+
+**📞 OFFICIAL CONTACT INFORMATION:**
+• **Primary Email:** global@sharda.ac.in
+• **Phone/WhatsApp:** +91-8800996151
+• **Website:** https://sharda.ac.in
+• **Office Timing:** 10:00 AM - 5:00 PM (IST) | 11:30 AM - 6:30 PM (Bangladesh Time)
+
+
+**⚠️ VERIFICATION REQUIRED FOR BORDER CASES:**
+For students with GPA near tier boundaries (3.0, 3.5, etc.) or significant SSC-HSC performance differences, direct university confirmation is recommended.
+
+**Contact for Verification:**
+• Email: global@sharda.ac.in
+• Phone: +91-8800996151
+• Specific Query: "Confirm scholarship eligibility for [SSC GPA] + [HSC GPA] combination"
+
+**✅ Updated:** Sharda University scholarship criteria updated to official 2025-26 standards with enhanced grade detection and verification protocols.

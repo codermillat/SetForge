@@ -1,0 +1,147 @@
+# Context: A Comprehensive Guide to Post-Arrival Legal Formalities in India for Bangladeshi Students: e-FRRO, C-Form, and Address Verification.
+
+---
+## 1. e-FRRO Registration: The Most Critical Post-Arrival Task
+
+### What is e-FRRO?
+- **e-FRRO** stands for electronic Foreigners Regional Registration Office.
+- It is a **mandatory legal requirement** for all foreign nationals, including students, who are staying in India for more than 180 days.
+- The entire process is now done online through the official e-FRRO portal.
+
+### Why is it Important?
+- **Legal Compliance:** Failure to register within the stipulated time can lead to penalties, fines, and complications with visa extensions or future travel to India.
+- **Prerequisite for Other Services:** The FRRO Registration Certificate is often required to:
+  - Open a local bank account (NRO account).
+  - Obtain or renew a local mobile SIM card.
+  - Fulfill other official formalities.
+
+### The Process (Step-by-Step)
+1.  **Timeline:** You must complete your e-FRRO registration **within 14 days of your arrival in India**. This is a strict deadline.
+2.  **Portal:** The process is initiated on the official Indian e-FRRO website: `indianfrro.gov.in`.
+3.  **Account Creation:** Create a user ID and password on the portal.
+4.  **Application Form:** Fill out the online application form (which is essentially the digital version of Form C).
+5.  **Document Upload:** You will need to upload scanned copies of several documents.
+6.  **Fee Payment:** Pay the required registration fee online.
+7.  **Processing:** The application is processed by the FRRO. They may raise queries via email, which must be answered promptly.
+8.  **Certificate Issuance:** Once approved, you can download your digital FRRO Registration Certificate/Permit from the portal.
+
+### Required Documents for e-FRRO Registration:
+- **Passport:** Scanned copy of the photo page.
+- **Indian Visa:** Scanned copy of the student visa sticker on your passport.
+- **Photograph:** A recent passport-size digital photograph.
+- **University Documents:**
+  - **Admission Letter:** The final admission letter from Sharda University.
+  - **Bonafide Certificate:** A certificate issued by the university's International Relations Department (IRD) confirming you are a current student.
+- **Proof of Residence (Crucial Document):**
+  - **C-Form:** A copy of the C-Form submitted by your accommodation provider (hostel or landlord). This is the most important address proof.
+
+---
+## 2. The C-Form: Your Proof of Residence
+
+### What is a C-Form?
+- The C-Form is a mandatory declaration that your accommodation provider (landlord, hostel warden, hotel manager) must submit to the government, stating that a foreign national is residing at their property.
+- It is the legal responsibility of the **accommodation provider**, not the student, to submit this form.
+
+### Why is it Important for the Student?
+- The student **needs a PDF copy** of the submitted C-Form to upload during their own e-FRRO registration. Without it, the e-FRRO application cannot be completed.
+
+### The Process for Getting a C-Form:
+1.  **Provide Details:** Immediately upon moving into your accommodation, provide your landlord or hostel warden with photocopies of your passport and visa.
+2.  **Landlord/Hostel Action:** The accommodation provider will use these details to fill out and submit the C-Form online via the Bureau of Immigration's portal.
+3.  **Request a Copy:** It is the student's responsibility to follow up with their landlord/warden and request a PDF copy of the submitted C-Form for their records and for the e-FRRO application.
+
+---
+## 3. Rent Agreements & Utility Bills: The Foundation for Address Proof
+
+These documents are the primary evidence used by your landlord or hostel to generate the C-Form.
+
+### If Living in a Rented Apartment/Flat:
+- **Rent Agreement:**
+  - **What it is:** A formal, written legal contract between you (the tenant) and the landlord.
+  - **Importance:** This is the most critical document for off-campus students. You **must** insist on a formal rent agreement.
+  - **Key Details:** The agreement should clearly state your full name (as in your passport), passport number, the full address of the property, the rental duration, and be signed by both you and the landlord. A notarized agreement holds more legal weight.
+  - **Process:** The landlord provides this. Do not accept informal or verbal agreements.
+
+### If Living in a University Hostel:
+- **Hostel Allotment Letter:**
+  - **What it is:** An official letter from Sharda University confirming that a specific room in a specific hostel has been allotted to you.
+  - **Function:** This letter serves as your official proof of residence. The university's IRD and hostel office will use this to generate the C-Form on your behalf. The process is much simpler for students living in university-provided accommodation.
+
+### Utility Bills (Electricity, Gas, Postpaid Phone Bill):
+- **Purpose:** These are secondary address verification documents.
+- **For Landlords:** Your landlord will use their own utility bills to verify their ownership and address when submitting your C-Form.
+- **For Students:** If you get a postpaid mobile SIM card in your own name, the bill generated for it can serve as an excellent, independent proof of address for opening a bank account later.
+
+---
+## 4. The Complete Workflow & Connection to NRO Account
+
+The process follows a clear dependency chain:
+
+1.  **Secure Accommodation:** Finalize your hostel room or rented apartment.
+2.  **Get Primary Address Proof:** Obtain the **Hostel Allotment Letter** (if in a hostel) or sign a formal **Rent Agreement** (if renting).
+3.  **Ensure C-Form Submission:** Coordinate with your hostel warden or landlord to ensure they submit the **C-Form** online and provide you with a PDF copy.
+4.  **Complete e-FRRO Registration:** Use the C-Form copy and other documents to complete your **e-FRRO registration** within 14 days of arrival.
+5.  **Open NRO Bank Account:** Take your Passport, Visa, FRRO Certificate, and university Bonafide/Hostel Letter to a local bank to open your **NRO Savings Account**.
+
+---
+## 5. Summary for AI Agent
+
+- **e-FRRO is Mandatory:** All Bangladeshi students must register on the e-FRRO portal within 14 days of arriving in India.
+- **C-Form is the Key:** The C-Form, submitted by the landlord or hostel, is the most critical document for e-FRRO registration. The student must obtain a copy of it.
+- **Address Proof is the Foundation:** A formal Rent Agreement (for off-campus) or a Hostel Allotment Letter (for on-campus) is required to generate the C-Form.
+- **Workflow:** The process is sequential: Rent Agreement/Hostel Letter -> C-Form -> e-FRRO -> Bank Account.
+- **University Support:** The International Relations Department (IRD) at Sharda University assists with providing Bonafide certificates and guiding students through the entire FRRO process.
+
+—source: Foreigners Regional Registration Office (FRRO) Official Portal (indianfrro.gov.in)
+—source: Bureau of Immigration, Government of India Guidelines 2025
+—source: Ministry of Home Affairs, Government of India Foreigners Act 1946
+—source: Sharda University International Student Support Guide 2025
+
+**📋 PROGRAM ELIGIBILITY FOR SCHOLARSHIPS:**
+
+**50% Scholarship Eligible Programs:**
+• B.Tech - All Specialization (CSE, ECE, ME, CE, etc.)
+• BBA - All Specialization
+• MBA - All Specialization
+• BCA - All Specialization
+• MCA
+• B.Com (Hons)
+• B.Arch & B.Design
+• Masters in Design
+• BA - Film, Television & New Media Production
+• LLB - Integrated (5 Years)
+• BJMC, MJMC, M.Advertising & Brand Management
+• B.Sc. - Radiology, BrILT, Cardiovascular Technology
+• B.Sc. - Forensic Science, Optometry
+• B.Sc. - Nutrition & Dietetics, Dialysis Technology
+• M.Sc. - Clinical Research, Forensic Science, Nutrition & Dietetics
+
+**25% Scholarship Eligible Programs:**
+• B.Sc. Nursing
+
+**⚠️ Scholarship NOT Available for:**
+• Pharmacy (B.Pharm, M.Pharm, Pharm.D)
+• M.Sc. Nursing
+• Medical M.Sc. programs
+• MPT (Master of Physiotherapy)
+• BDS (Bachelor of Dental Surgery)
+• MBBS (Bachelor of Medicine and Bachelor of Surgery)
+
+
+
+**📞 OFFICIAL CONTACT INFORMATION:**
+• **Primary Email:** global@sharda.ac.in
+• **Phone/WhatsApp:** +91-8800996151
+• **Website:** https://sharda.ac.in
+• **Office Timing:** 10:00 AM - 5:00 PM (IST) | 11:30 AM - 6:30 PM (Bangladesh Time)
+
+
+**⚠️ VERIFICATION REQUIRED FOR BORDER CASES:**
+For students with GPA near tier boundaries (3.0, 3.5, etc.) or significant SSC-HSC performance differences, direct university confirmation is recommended.
+
+**Contact for Verification:**
+• Email: global@sharda.ac.in
+• Phone: +91-8800996151
+• Specific Query: "Confirm scholarship eligibility for [SSC GPA] + [HSC GPA] combination"
+
+**✅ Updated:** Sharda University scholarship criteria updated to official 2025-26 standards with enhanced grade detection and verification protocols.

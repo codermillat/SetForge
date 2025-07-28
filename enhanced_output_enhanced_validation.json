@@ -1,0 +1,39 @@
+{
+  "generation_timestamp": "2025-07-27T05:43:52.897911",
+  "total_pairs": 19,
+  "quality_distribution": {
+    "excellent": 19,
+    "good": 0,
+    "fair": 0,
+    "poor": 0
+  },
+  "extractive_score_stats": {
+    "average": 0.9235450264537284,
+    "minimum": 0.7647058823529411,
+    "maximum": 1.0,
+    "above_threshold": 100.0
+  },
+  "factual_accuracy_stats": {
+    "average": 0.9210526315789473,
+    "minimum": 0.7,
+    "maximum": 1.0,
+    "above_threshold": 100.0
+  },
+  "cultural_sensitivity_stats": {
+    "average": 0.6736842105263158,
+    "minimum": 0.6,
+    "maximum": 0.8,
+    "above_threshold": 100.0
+  },
+  "high_quality_pairs": 19,
+  "cultural_integration_rate": 0.0,
+  "university_distribution": {
+    "sharda": 16,
+    "gl_bajaj": 1,
+    "multi_university": 2
+  },
+  "question_category_distribution": {
+    "scholarship_analysis": 9,
+    "admission_process": 10
+  }
+}

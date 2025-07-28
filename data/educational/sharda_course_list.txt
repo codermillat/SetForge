@@ -1,0 +1,195 @@
+# Context: A comprehensive list of courses offered at Sharda University, organized by school, with specific notes on scholarship eligibility for Bangladeshi students.
+
+---
+## Sharda School of Engineering & Technology (SET)
+# Note: Most B.Tech and BCA programs are eligible for 50% scholarship with a qualifying CGPA.
+
+### Undergraduate Programs
+- **B.Tech (4 Years)**
+  - Computer Science & Engineering (CSE)
+  - CSE with Specialization in:
+    - Block Chain Technology
+    - Artificial Intelligence & Machine Learning
+    - Augmented & Virtual Reality
+  - CSE-Cyber Security & Forensics (in association with EC-Council)
+  - CSE-Artificial Intelligence for IoT applications (in association with AERIS)
+  - CSE-Cloud Technology & Virtualization (in association with AWS)
+  - CSE-Data Science & Analytics (in association with Oracle)
+  - CSE-Full Stack Development (in association with Xebia Academic Alliance)
+  - Information Technology (IT)
+  - Electrical and Electronics Engineering (EEE)
+  - EEE with Specialization in: Electric Vehicle Technology, Renewable Energy Systems
+  - Electronics & Communication Engg. (ECE)
+  - ECE with Specialization in: Robotics and Automation, VLSI Design and Technology
+  - Electronics & Computer Engineering (IoT/AI and Machine Learning)
+  - Mechanical Engineering (ME)
+  - ME with Specialization in: Automotive Electrical Vehicles, Mechatronics
+  - Civil Engineering
+  - Civil Engineering with minor in CS & Engg.
+  - Biotechnology with Specialization in: Stem Cell & Tissue Engineering, Genetic Engineering
+  - Food Process Technology
+- **Bachelor of Computer Applications (BCA) (3 Years)**
+  - Specializations in: Artificial Intelligence and Machine Learning, Cloud Computing and IoT
+- **B.Sc. - Computer Science / Information Technology (3 Years)**
+
+### Postgraduate Programs
+- **MCA (2 Years)**
+- **M.Sc. (2 Years)**
+  - Computer Science
+  - Genetic Engineering
+- **M.Tech (2 Years)**
+  - Biotechnology
+  - Food Process Technology
+  - Civil Engineering (various specializations)
+  - Computer Science & Engineering (various specializations)
+  - Electrical and Electronics Engg. (various specializations)
+  - Electronics & Communication Engg. (various specializations)
+  - Mechanical Engineering
+- **Ph.D. in all Engineering Branches (Min. 3 Years)**
+
+---
+## Sharda School of Business Studies (SBS)
+# Note: Most BBA, B.Com, and MBA programs are eligible for 50% scholarship with a qualifying CGPA.
+
+### Undergraduate Programs
+- **B.Com (3 Years)**
+- **B.Com (Hons./Research) (4 Years)**
+- **BBA (3 Years)**
+  - Specializations: Banking & Finance, International Business, Marketing Management, Entrepreneurship, HRM, Health Care Management, Supply Chain Management & Logistics.
+- **BBA (Hons./Research) (4 Years)**
+- **BBA - Finance & Accounting (with ACCA, UK) (3 Years)**
+
+### Postgraduate Programs
+- **M.Com (2 Years)**
+- **MBA (2 Years)**
+  - Specializations: Marketing Management, International Business, Business Analytics, Banking & Finance, Human Resources Management, Entrepreneurship & Family Business, Supply Chain Management & Logistics, Health Care & Hospital Administration.
+- **MBA - Dual Specialization (2 Years)**
+- **Executive MBA (2 Years)**
+- **Ph.D. in Management (Min. 3 Years)**
+
+---
+## Sharda School of Law (SOL)
+# Note: Integrated Law programs are eligible for 50% scholarship with a qualifying CGPA.
+
+- **B.B.A. LL.B. (Hons.) Integrated (5 Years)**
+- **B.A. LL.B. (Hons.) Integrated (5 Years)**
+- **LL.M. (1 Year)**
+  - Specializations: Corporate & Commercial Law, Criminal Law, Human Rights Law, International Law.
+- **Ph.D. in Law (Min. 3 Years)**
+
+---
+## Sharda School of Allied Health Sciences
+# Note: Most B.Sc. programs in this school are eligible for 50% scholarship. MPT has NO scholarship.
+
+### Undergraduate Programs
+- **Bachelor of Physiotherapy (BPT) (4.5 Years)**
+- **B.Sc. (Various Durations)**
+  - Radiological Imaging Techniques (Radiology/CT/MRI) (3.5 Years)
+  - Medical Laboratory Technology (BMLT) (3.5 Years)
+  - Cardiovascular Technology (4 Years)
+  - Forensic Science (3 Years)
+  - Nutrition & Dietetics (3 Years)
+- **Bachelor of Optometry (4 Years)**
+
+### Postgraduate Programs
+- **Master of Physiotherapy (MPT) (2 Years)** - **NO SCHOLARSHIP**
+- **M.Sc. (2 Years)**
+  - Clinical Research
+  - Forensic Science
+  - Nutrition & Dietetics
+- **Ph.D. in Allied Sciences (Min. 3 Years)**
+
+---
+## Sharda School of Nursing Science & Research
+- **B.Sc. (Nursing) (4 Years)** - **Note:** Special 25% scholarship for this program.
+- **Post Basic B.Sc. (Nursing) (2 Years)**
+- **M.Sc. (Nursing) (2 Years)** - **Note:** NO SCHOLARSHIP
+- **Ph.D. in Nursing (Min. 3 Years)**
+
+---
+## School of Pharmacy
+# Note: NO SCHOLARSHIP is offered for any Pharmacy programs for Bangladeshi students.
+
+- **Bachelor of Pharmacy (B.Pharm) (4 Years)**
+- **Diploma in Pharmacy (D.Pharm) (2 Years)**
+- **Pharm.D (6 Years)**
+- **M.Pharm (2 Years)**
+- **Ph.D. in Pharmacy (Min. 3 Years)**
+
+---
+## School of Medical Sciences & Research (SMSR)
+# Note: NO SCHOLARSHIP is offered for MBBS and Medical M.Sc. programs.
+
+- **Bachelor of Medicine & Bachelor of Surgery (MBBS) (4.5 + 1 Year)**
+- **MD/MS (Clinical & Non-Clinical Branches) (3 Years)**
+- **M.Sc. (Medical Subjects) (3 Years)**
+- **Ph.D. in Medical (Min. 3 Years)**
+
+---
+## School of Dental Sciences (SDS)
+# Note: NO SCHOLARSHIP is offered for the BDS program.
+
+- **Bachelor of Dental Surgery (BDS) (4 + 1 Year)**
+- **Master of Dental Surgery (MDS) (3 Years)**
+- **Ph.D. in Dental (3 Years)**
+
+---
+## Other Major Schools
+- **Sharda School of Humanities & Social Sciences:** B.A. and M.A. in English, History, Sociology, Psychology, Economics, etc.
+- **Sharda School of Design, Architecture & Planning:** B.Arch, B.Design (Fashion, Interior, Communication), M.Design.
+- **Sharda School of Media, Film and Entertainment:** B.A. and B.Sc. in Journalism, Film & TV, Animation, VFX, and Gaming.
+- **Sharda School of Basic Sciences & Research:** B.Sc. and M.Sc. in Physics, Chemistry, Mathematics, Environmental Science, Biotechnology, etc.
+
+—source: Sharda University Academic Prospectus 2025-26
+—source: Sharda University Course Catalog and Fee Structure 2025
+—source: Sharda University Scholarship Policy for International Students 2025
+—source: Sharda University Official Website Course Listings (www.sharda.ac.in/academics)
+
+**📋 PROGRAM ELIGIBILITY FOR SCHOLARSHIPS:**
+
+**50% Scholarship Eligible Programs:**
+• B.Tech - All Specialization (CSE, ECE, ME, CE, etc.)
+• BBA - All Specialization
+• MBA - All Specialization
+• BCA - All Specialization
+• MCA
+• B.Com (Hons)
+• B.Arch & B.Design
+• Masters in Design
+• BA - Film, Television & New Media Production
+• LLB - Integrated (5 Years)
+• BJMC, MJMC, M.Advertising & Brand Management
+• B.Sc. - Radiology, BrILT, Cardiovascular Technology
+• B.Sc. - Forensic Science, Optometry
+• B.Sc. - Nutrition & Dietetics, Dialysis Technology
+• M.Sc. - Clinical Research, Forensic Science, Nutrition & Dietetics
+
+**25% Scholarship Eligible Programs:**
+• B.Sc. Nursing
+
+**⚠️ Scholarship NOT Available for:**
+• Pharmacy (B.Pharm, M.Pharm, Pharm.D)
+• M.Sc. Nursing
+• Medical M.Sc. programs
+• MPT (Master of Physiotherapy)
+• BDS (Bachelor of Dental Surgery)
+• MBBS (Bachelor of Medicine and Bachelor of Surgery)
+
+
+
+**📞 OFFICIAL CONTACT INFORMATION:**
+• **Primary Email:** global@sharda.ac.in
+• **Phone/WhatsApp:** +91-8800996151
+• **Website:** https://sharda.ac.in
+• **Office Timing:** 10:00 AM - 5:00 PM (IST) | 11:30 AM - 6:30 PM (Bangladesh Time)
+
+
+**⚠️ VERIFICATION REQUIRED FOR BORDER CASES:**
+For students with GPA near tier boundaries (3.0, 3.5, etc.) or significant SSC-HSC performance differences, direct university confirmation is recommended.
+
+**Contact for Verification:**
+• Email: global@sharda.ac.in
+• Phone: +91-8800996151
+• Specific Query: "Confirm scholarship eligibility for [SSC GPA] + [HSC GPA] combination"
+
+**✅ Updated:** Sharda University scholarship criteria updated to official 2025-26 standards with enhanced grade detection and verification protocols.

@@ -1,0 +1,76 @@
+# Context: Comprehensive BCA Admission, Fees, and Scholarship Information for Bangladeshi Students at Sharda University, including details for HSC and Diploma (Lateral Entry) applicants.
+
+---
+## 1. BCA Program Overview & Specializations
+
+Sharda University offers a modern, industry-aligned Bachelor of Computer Applications (BCA) program. The curriculum is designed to equip students with the necessary skills for the IT industry.
+
+### Program and Specializations:
+- **Program Name:** Bachelor of Computer Applications (BCA)
+- **Available Specializations:**
+  - Artificial Intelligence and Machine Learning
+  - Cloud Computing and IoT
+
+---
+## 2. Admission Requirements for Bangladeshi Students
+
+### For HSC (12th Grade) Graduates:
+- **Duration:** The BCA program is **3 years** long.
+- **Required Documents:**
+  - Class 10 (SSC/Dakhil) Marksheet & Certificate.
+  - Class 12 (HSC/Alim) Marksheet & Certificate.
+  - Valid Passport (or Birth Certificate/NID for initial application).
+
+### For Diploma Holders:
+- **Lateral Entry Status:** **Lateral entry is NOT available for BCA programs.** BCA is a computer applications program that follows a comprehensive 3-year curriculum structure that cannot be shortened through lateral entry.
+- **Alternative Path:** Diploma holders must apply for admission to the **1st year** of the BCA program and complete the full 3-year duration.
+- **Required Documents:**
+  - Class 10 (SSC/Dakhil) Marksheet & Certificate.
+  - Diploma Transcripts & Final Certificate.
+  - Valid Passport (or Birth Certificate/NID for initial application).
+
+---
+## 3. Detailed Fee Structure (Annual Tuition Fees in INR)
+
+The following table shows the year-wise tuition fees for the BCA program. Note the slight annual increase.
+
+| BCA Program (All Specializations) | 1st Year Fee | 2nd Year Fee | 3rd Year Fee |
+|-----------------------------------|--------------|--------------|--------------|
+| Bachelor of Computer Applications | 1,80,000     | 1,85,400     | 1,90,962     |
+
+**Note:** All students, including diploma holders, pay the standard 3-year fee structure starting from the 1st year.
+
+---
+## 4. Scholarship Policy for Bangladeshi BCA Students
+
+A specific scholarship policy is available for students from recognized Bangladeshi education boards. The BCA program is eligible for the highest scholarship tier.
+
+### Scholarship Slabs (Based on HSC/Diploma CGPA):
+- **CGPA 3.5 - 5.0:** **50% scholarship** on the tuition fee.
+- **CGPA 3.0 - 3.4:** **20% scholarship** on the tuition fee.
+
+### Example Calculation (50% Scholarship):
+- **Course:** Bachelor of Computer Applications (BCA)
+- **1st Year Tuition Fee:** ₹1,80,000
+- **Scholarship Amount (50%):** ₹90,000
+- **Payable 1st Year Tuition Fee:** **₹90,000**
+
+### Important Scholarship Conditions:
+- **Applicability:** The scholarship is applied ONLY to the **tuition fee**. It does not cover other charges like admission fees, hostel fees, or examination fees.
+- **Continuation Criteria:** To maintain the scholarship in subsequent years (from 2nd year onwards), the student must pass all exams without any backlogs or fails and maintain a minimum of 75% attendance.
+- **Single Scholarship Rule:** A student can only avail one scholarship per year.
+
+---
+## 5. Summary for AI Agent
+
+- **Program Duration:** BCA is a 3-year course for all students (HSC graduates and diploma holders).
+- **Fees:** The tuition fee for the first year is ₹1,80,000, with a slight increase in subsequent years.
+- **Scholarships:** The BCA program is eligible for a **50% scholarship** for students with a CGPA of 3.5 or higher, and a 20% scholarship for those with a CGPA between 3.0 and 3.4.
+- **Requirements:** Admission is direct and does not require IELTS/TOEFL. However, the visa application process requires a bank statement showing minimum BDT 1,00,000.
+- **Key Documents:** Passport/NID, HSC/Diploma marksheets, and certificates are the primary documents needed for application.
+
+—source: Sharda University Computer Applications Program Brochure 2025
+—source: Sharda University Fee Structure for International Students 2025
+—source: Sharda School of Engineering & Technology (SET) Course Information 2025
+—source: Sharda University Scholarship Policy for Bangladeshi Students 2025
+—source: Sharda University Academic Regulations and Admission Policies 2025

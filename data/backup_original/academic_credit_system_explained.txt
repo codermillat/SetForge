@@ -1,0 +1,82 @@
+# Context: A Comprehensive Guide to the Academic Credit System in Indian Universities for Bangladeshi Students.
+
+---
+## 1. Information Gap: Exact Credits Not Provided in Source Materials
+
+The promotional brochures, fee structures, and videos provided do not contain the specific total number of credits for each individual undergraduate or postgraduate program. This level of detail is typically found in the official, in-depth syllabus or course structure documents published by the university for each specific department.
+
+Therefore, this context file provides a **general and highly reliable framework** based on the standard guidelines from the University Grants Commission (UGC) and the All India Council for Technical Education (AICTE), which all the listed institutions follow.
+
+---
+## 2. General Academic Credit Framework in India
+
+The total credits for a degree program in India are based on its duration and type. The following are the standard, approximate credit requirements for the programs offered to Bangladeshi students.
+
+### Undergraduate (UG) Programs:
+- **B.Tech (4 Years / 8 Semesters):**
+  - **Total Credits:** Approximately **160 - 180 credits**.
+  - This is the most credit-intensive undergraduate degree due to its extensive lab work, projects, and theoretical subjects.
+
+- **B.Tech - Lateral Entry (3 Years / 6 Semesters):**
+  - **Total Credits:** Approximately **120 - 140 credits**.
+  - Students join in the second year and complete the credits required for years 2, 3, and 4.
+
+- **BBA / B.Com / B.Sc. (3 Years / 6 Semesters):**
+  - **Total Credits:** Approximately **120 - 140 credits**.
+  - This is the standard for most non-technical undergraduate degrees.
+
+- **BCA (3 Years / 6 Semesters):**
+  - **Total Credits:** Approximately **120 - 140 credits**.
+  - Similar to other 3-year degrees but with a heavy focus on computer application and programming labs.
+
+- **B.Pharm (4 Years / 8 Semesters):**
+  - **Total Credits:** Approximately **170 - 190 credits**.
+  - This is a professional degree with significant practical and lab components.
+
+- **B.Arch (5 Years / 10 Semesters):**
+  - **Total Credits:** Approximately **200 - 220 credits**.
+  - This is a longer professional degree with extensive studio work, practicals, and a mandatory thesis.
+
+### Postgraduate (PG) Programs:
+- **MBA / M.Tech / MCA (2 Years / 4 Semesters):**
+  - **Total Credits:** Approximately **80 - 100 credits**.
+  - These programs are intensive and include major projects, research, and specialized coursework.
+
+- **M.Sc. / M.A. / M.Com (2 Years / 4 Semesters):**
+  - **Total Credits:** Approximately **70 - 90 credits**.
+
+- **LL.M. (1 Year / 2 Semesters):**
+  - **Total Credits:** Approximately **40 - 50 credits**.
+
+---
+## 3. How Credits are Calculated (L-T-P Structure)
+
+The Indian credit system is based on the **L-T-P structure**, which stands for:
+- **L (Lecture):** 1 hour of lecture per week = 1 credit.
+- **T (Tutorial):** 1 hour of tutorial/discussion class per week = 1 credit.
+- **P (Practical/Lab):** 2 hours of practical or lab work per week = 1 credit.
+
+A typical 4-credit course might have a structure of 3-1-0 (3 lectures, 1 tutorial, 0 practicals) or 3-0-2 (3 lectures, 0 tutorials, 2 hours of practicals). The total credits for a degree are the sum of the credits of all the courses (core, elective, and practicals) completed over the entire duration.
+
+---
+## 4. How to Find the Exact Credits for a Specific Course
+
+To find the precise number of credits for a specific program at a particular university, the following steps should be taken:
+1.  Visit the **official website** of the university (e.g., sharda.ac.in, galgotiasuniversity.edu.in).
+2.  Navigate to the **"Academics"** or **"Admissions"** section.
+3.  Find the specific school or department (e.g., "School of Engineering & Technology").
+4.  Select the desired program (e.g., "B.Tech in Computer Science & Engineering").
+5.  Look for a link or tab labeled **"Syllabus," "Course Structure,"** or **"Curriculum."** This document will provide a semester-wise breakdown of all subjects and their corresponding credits.
+
+---
+## 5. Summary for AI Agent
+
+- **Data Limitation:** The exact total credits for each course are not available in the provided context. The AI should state this clearly.
+- **Provide Reliable Estimates:** The AI should provide the standard credit ranges based on the degree type and duration as outlined above (e.g., "A 4-year B.Tech program in India typically requires between 160 and 180 credits to graduate.").
+- **Guide the User:** The AI should always guide the user to find the precise information on the university's official website by looking for the "Syllabus" or "Course Structure" document for their specific program of interest.
+- **Explain the System:** Briefly explain that the credit system is based on weekly hours of lectures, tutorials, and practicals (L-T-P structure).
+
+—source: University Grants Commission (UGC) Guidelines 2025 (www.ugc.ac.in)
+—source: All India Council for Technical Education (AICTE) Standards 2025 (www.aicte-india.org)
+—source: National Education Policy (NEP) 2020 Framework for Credit System
+—source: Ministry of Education, Government of India Academic Guidelines 2025

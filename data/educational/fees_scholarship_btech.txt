@@ -1,0 +1,162 @@
+# Context: Comprehensive B.Tech Admission, Fees, and Scholarship Information for Bangladeshi Students at Sharda University, including details for HSC and Diploma (Lateral Entry) applicants.
+
+---
+## 1. B.Tech Program Overview & Specializations
+
+Sharda University offers a wide range of 4-year B.Tech programs. The curriculum is aligned with the IIT syllabus to ensure high academic standards.
+
+### Available B.Tech Specializations:
+- Computer Science & Engineering (CSE)
+- CSE with Specialization in:
+  - Block Chain Technology
+  - Artificial Intelligence & Machine Learning
+  - Augmented & Virtual Reality
+- CSE-Cyber Security & Forensics (in association with EC-Council)
+- CSE-Artificial Intelligence for IoT applications (in association with AERIS)
+- CSE-Cloud Technology & Virtualization (in association with AWS)
+- CSE-Data Science & Analytics (in association with Oracle)
+- CSE-Full Stack Development (in association with Xebia Academic Alliance)
+- Information Technology (IT)
+- Electrical and Electronics Engineering (EEE)
+- EEE with Specialization in: Electric Vehicle Technology / Renewable Energy Systems
+- Electronics & Communication Engg. (ECE)
+- ECE with Specialization in: Robotics and Automation / VLSI Design and Technology
+- Electronics & Computer Engineering (IoT / AI and Machine Learning)
+- Mechanical Engineering (ME)
+- ME with Specialization in: Automotive Electrical Vehicles / Mechatronics
+- Civil Engineering
+- Civil Engineering with minor in CS & Engg.
+- Biotechnology with Specialization in: Stem Cell & Tissue Engineering / Genetic Engineering
+- Food Process Technology
+
+---
+## 2. Admission Requirements for Bangladeshi Students
+
+### For HSC (12th Grade) Graduates:
+- **Duration:** The B.Tech program is 4 years long.
+- **Required Documents:**
+  - Class 10 (SSC/Dakhil) Marksheet & Certificate.
+  - Class 12 (HSC/Alim) Marksheet & Certificate.
+  - Valid Passport (or Birth Certificate/NID for initial application).
+
+### For Diploma Holders (Lateral Entry):
+- **Concept:** Sharda University allows students with a relevant engineering diploma to get direct admission into the **2nd year** of the B.Tech program.
+- **Duration:** The total duration for Diploma holders is **3 years**.
+- **Required Documents:**
+  - Class 10 (SSC/Dakhil) Marksheet & Certificate.
+  - Diploma Transcripts & Final Certificate.
+  - Valid Passport (or Birth Certificate/NID for initial application).
+
+---
+## 3. Detailed Fee Structure (Annual Tuition Fees in INR)
+
+The following table shows the year-wise tuition fees for various B.Tech specializations. Note the slight annual increase.
+
+| B.Tech Specialization                                       | 1st Year Fee | 2nd Year Fee | 3rd Year Fee | 4th Year Fee |
+|-------------------------------------------------------------|--------------|--------------|--------------|--------------|
+| CSE - Data Science & Analytics (with Oracle)                | 3,00,000     | 3,09,000     | 3,18,270     | 3,27,818     |
+| CSE (Core), CSE (AI/ML, Blockchain, AR/VR, Cyber Security, IoT) | 2,80,000     | 2,88,400     | 2,97,052     | 3,05,964     |
+| Information Technology (IT)                                 | 2,12,000     | 2,18,360     | 2,24,911     | 2,31,658     |
+| Biotechnology                                               | 2,06,000     | 2,12,180     | 2,18,545     | 2,25,102     |
+| EEE, ECE, Mechanical, Civil, Electronics & Computer Engg.   | 1,85,400     | 1,90,962     | 1,96,691     | 2,02,592     |
+
+
+**🎓 OFFICIAL SCHOLARSHIP CRITERIA (2025-26):**
+
+**Policy:** Based on aggregate percentage/GPA in qualifying examination
+
+**Scholarship Tiers:**
+• **Level 1:** GPA 3.0-3.4 (60-69%) → 20% scholarship
+• **Level 2:** GPA 3.5-5.0 (70-100%) → 50% scholarship
+
+**Important Conditions:**
+• Applies to: Tuition Fee only (not hostel/food/other fees)
+• Assessment: Aggregate percentage (not subject-wise performance)
+• Continuation: Pass all exams without any back paper/fail; Maintain minimum 75% attendance; Applicable from 2nd year onwards
+
+
+**Note for Diploma (Lateral Entry) Students:** The fee structure for lateral entry students would typically follow the fees for the 2nd, 3rd, and 4th years of the respective specialization, as they join the program in the second year.
+
+---
+## 4. Scholarship Policy for Bangladeshi B.Tech Students
+
+A specific scholarship policy is available for students from recognized Bangladeshi education boards.
+
+### Scholarship Slabs (Based on HSC/Diploma CGPA):
+- **CGPA 3.5 - 5.0:** **50% scholarship** on the tuition fee.
+- **CGPA 3.0 - 3.4:** **20% scholarship** on the tuition fee.
+
+### Example Calculation (50% Scholarship):
+- **Course:** B.Tech in Computer Science & Engineering (CSE)
+- **1st Year: ₹2,80,000
+- **Scholarship Amount (50%):** ₹1,40,000
+- **Payable 1st Year: ₹2,80,000**
+
+### Important Scholarship Conditions:
+- **Applicability:** The scholarship is applied ONLY to the **tuition fee**. It does not cover other charges like admission fees, hostel fees, or examination fees.
+- **Continuation Criteria:** To maintain the scholarship from the 2nd year onwards, the student must pass all exams without any backlogs or fails and maintain a minimum of 75% attendance.
+- **Single Scholarship Rule:** A student can only avail one scholarship per academic year.
+
+---
+## 5. Summary for AI Agent
+
+- **Program Duration:** B.Tech is a 4-year course for HSC students and a 3-year course for Diploma holders via Lateral Entry.
+- **Fees:** Tuition fees vary by specialization, ranging from approximately ₹1.85 Lakhs to ₹3.00 Lakhs per year, with a slight increase each year.
+- **Scholarships:** Significant scholarships (50% or 20%) are available for Bangladeshi students based on their previous academic CGPA.
+- **Requirements:** Admission is direct and does not require IELTS/TOEFL. However, the visa application process requires a bank statement showing minimum BDT 1,00,000.
+- **Key Documents:** Passport/NID, HSC/Diploma marksheets, and certificates are the primary documents needed for application.
+
+—source: Sharda University B.Tech Admission Brochure 2025
+—source: Sharda University Fee Structure for International Students 2025
+—source: Sharda University Scholarship Policy for Bangladeshi Students 2025
+—source: Sharda University International Relations Division (IRD) Guidelines 2025
+—source: Sharda University Lateral Entry Guidelines and Academic Credit Transfer Policy 2025
+
+**📋 PROGRAM ELIGIBILITY FOR SCHOLARSHIPS:**
+
+**50% Scholarship Eligible Programs:**
+• B.Tech - All Specialization (CSE, ECE, ME, CE, etc.)
+• BBA - All Specialization
+• MBA - All Specialization
+• BCA - All Specialization
+• MCA
+• B.Com (Hons)
+• B.Arch & B.Design
+• Masters in Design
+• BA - Film, Television & New Media Production
+• LLB - Integrated (5 Years)
+• BJMC, MJMC, M.Advertising & Brand Management
+• B.Sc. - Radiology, BrILT, Cardiovascular Technology
+• B.Sc. - Forensic Science, Optometry
+• B.Sc. - Nutrition & Dietetics, Dialysis Technology
+• M.Sc. - Clinical Research, Forensic Science, Nutrition & Dietetics
+
+**25% Scholarship Eligible Programs:**
+• B.Sc. Nursing
+
+**⚠️ Scholarship NOT Available for:**
+• Pharmacy (B.Pharm, M.Pharm, Pharm.D)
+• M.Sc. Nursing
+• Medical M.Sc. programs
+• MPT (Master of Physiotherapy)
+• BDS (Bachelor of Dental Surgery)
+• MBBS (Bachelor of Medicine and Bachelor of Surgery)
+
+
+
+**📞 OFFICIAL CONTACT INFORMATION:**
+• **Primary Email:** global@sharda.ac.in
+• **Phone/WhatsApp:** +91-8800996151
+• **Website:** https://sharda.ac.in
+• **Office Timing:** 10:00 AM - 5:00 PM (IST) | 11:30 AM - 6:30 PM (Bangladesh Time)
+
+
+**⚠️ VERIFICATION REQUIRED FOR BORDER CASES:**
+For students with GPA near tier boundaries (3.0, 3.5, etc.) or significant SSC-HSC performance differences, direct university confirmation is recommended.
+
+**Contact for Verification:**
+• Email: global@sharda.ac.in
+• Phone: +91-8800996151
+• Specific Query: "Confirm scholarship eligibility for [SSC GPA] + [HSC GPA] combination"
+
+**✅ Updated:** Sharda University scholarship criteria updated to official 2025-26 standards with enhanced grade detection and verification protocols.

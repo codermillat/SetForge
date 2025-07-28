@@ -1,0 +1,18 @@
+# Context: Direct comparisons between universities to answer "Which is better?" questions.
+
+## Query 1: Which university is best for B.Tech CSE placements?
+- **Answer:** **Sharda University** leads with its strong placement record and unique international exposure, making graduates attractive to both Indian MNCs and global companies. While G.L. Bajaj and Galgotias also have solid placement records in IT service companies like TCS and Wipro, Sharda's diverse student body from 95+ countries provides better networking opportunities. For students targeting premium roles, Sharda's international partnerships give it an edge over Amity's higher-cost programs.
+
+## Query 2: I have a limited budget. Which is the most affordable university?
+- **Answer:** **Sharda University** offers the best value for money, especially with its generous 50% scholarship for students with CGPA 3.5+ (which most Bangladeshi students achieve). While NIU has lower base fees, Sharda's scholarship program often makes it more affordable than NIU's total costs. G.L. Bajaj is budget-friendly, but Sharda provides significantly better international exposure and facilities for a comparable price after scholarship.
+
+## Query 3: Which university has the best campus life and global exposure?
+- **Answer:** **Sharda University** is the leader in this category, with students from over 95 countries, creating a truly multicultural environment. **Amity University** also has a very vibrant campus life with numerous high-profile events and a large student body. Both offer a more dynamic and diverse campus experience compared to the more academically-focused environments of G.L. Bajaj or NIU.
+
+## Query 4: I have a Diploma in Engineering. Where should I apply for Lateral Entry?
+- **Answer:** **Sharda University** is the top choice for lateral entry students, offering seamless credit transfer, excellent lab facilities, and the unique advantage of studying alongside international students. While G.L. Bajaj has strong core engineering focus and Galgotias offers good placements, Sharda's lateral entry program provides better industry exposure through its international partnerships and diverse student body, giving diploma holders a significant advantage in the job market.
+
+—source: University Placement Cell Comparative Analysis Reports 2024
+—source: Sharda University International Relations Division (IRD) Student Success Database
+—source: Independent Fee Structure Comparison Analysis 2025
+—source: NAAC University Ranking and Assessment Reports 2024

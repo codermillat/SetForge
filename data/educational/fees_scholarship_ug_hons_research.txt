@@ -1,0 +1,132 @@
+# Context: Comprehensive Admission, Fees, and Scholarship Information for Undergraduate (Hons./Research) Programs for Bangladeshi Students at Sharda University.
+
+---
+## 1. Program Overview & Concept
+
+Sharda University offers 4-year (Hons./Research) undergraduate programs as an advanced alternative to the standard 3-year degrees. These programs are aligned with India's New Education Policy (NEP) and are designed for students who wish to pursue deeper research, specialized knowledge, or a direct pathway to a Ph.D.
+
+### Programs Covered in this Document:
+
+#### Sharda School of Media, Film and Entertainment
+- **B.A. (Hons./Research) - Film Television & OTT Production**
+- **B.A. (Hons./Research) - Journalism & Mass Communication**
+- **B.Sc. (Hons./Research) - Animation, VFX and Gaming Design**
+
+#### Sharda School of Humanities & Social Sciences
+- **B.A. (Hons./Research) - General** (English, History, Sociology, Political Science, etc.)
+- **B.A. (Hons./Research) - Psychology**
+- **B.A. (Hons./Research) - Economics**
+
+#### Sharda School of Basic Sciences & Research
+- **B.Sc. (Hons./Research) - General** (Physics, Chemistry, Mathematics, Zoology)
+- **B.Sc. (Hons./Research) - Specialized** (Environmental Science, Biotechnology, etc.)
+- **B.Sc. (Hons./Research) - Data Science and Analytics**
+
+---
+## 2. Admission Requirements for Bangladeshi Students
+
+- **Eligibility:** The eligibility criteria are the same as their 3-year counterparts. A relevant background in HSC/12th grade is required (e.g., Science stream for B.Sc. Hons.).
+- **Duration:** All Hons./Research programs are **4 years** long.
+- **Required Documents:**
+  - Class 10 (SSC/Dakhil) Marksheet & Certificate.
+  - Class 12 (HSC/Alim) Marksheet & Certificate.
+  - Valid Passport (or Birth Certificate/NID for initial application).
+
+---
+## 3. Detailed Fee Structure (Annual Tuition Fees in INR)
+
+The fee structure for Hons./Research programs mirrors that of the first three years of the standard degree, with an additional fee for the fourth year.
+
+| Program                                       | 1st Year Fee | 2nd Year Fee | 3rd Year Fee | 4th Year Fee (Hons.) |
+|-----------------------------------------------|--------------|--------------|--------------|----------------------|
+| **Media, Film & Entertainment**               |              |              |              |                      |
+| B.A. (Hons./Research) - Film & TV             | 2,22,000     | 2,28,660     | 2,35,520     | 2,42,585             |
+| B.A. (Hons./Research) - Journalism            | 1,85,000     | 1,90,550     | 1,96,267     | 2,02,154             |
+| B.Sc. (Hons./Research) - Animation/VFX        | 1,85,000     | 1,90,550     | 1,96,267     | 2,02,154             |
+| **Humanities & Social Sciences**              |              |              |              |                      |
+| B.A. (Hons./Research) - General               | 1,25,000     | 1,28,750     | 1,32,613     | 1,36,591             |
+| B.A. (Hons./Research) - Psychology            | 1,32,000     | 1,35,960     | 1,40,039     | 1,44,240             |
+| B.A. (Hons./Research) - Economics             | 1,15,000     | 1,18,450     | 1,22,004     | 1,25,664             |
+| **Basic Sciences**                            |              |              |              |                      |
+| B.Sc. (Hons./Research) - General              | 1,10,000     | 1,13,300     | 1,16,699     | 1,20,200             |
+| B.Sc. (Hons./Research) - Specialized          | 1,40,000     | 1,44,200     | 1,48,526     | 1,52,982             |
+| B.Sc. (Hons./Research) - Data Science         | 1,20,000     | 1,23,600     | 1,27,308     | 1,31,127             |
+
+---
+## 4. Scholarship Policy for Bangladeshi Students
+
+The scholarship policy for Hons./Research programs is identical to their standard 3-year counterparts.
+
+### Scholarship Slabs (Based on HSC/Diploma CGPA):
+- **50% Scholarship (for CGPA 3.5 - 5.0):**
+  - B.A. (Hons./Research) in Film & TV and Journalism are eligible.
+- **20% Scholarship (for CGPA 3.0 and above):**
+  - B.Sc. (Hons./Research) in Animation/VFX, all B.A. (Hons./Research) in Humanities, and all B.Sc. (Hons./Research) in Basic Sciences are eligible for a 20% scholarship.
+
+### Important Scholarship Conditions:
+- **Applicability:** The scholarship is applied ONLY to the **tuition fee** for all four years.
+- **Continuation Criteria:** To maintain the scholarship throughout the 4-year duration, the student must pass all exams without any backlogs or fails and maintain a minimum of 75% attendance each year.
+- **Single Scholarship Rule:** A student can only avail one scholarship per academic year.
+
+---
+## 5. Summary for AI Agent
+
+- **Programs:** 4-year Hons./Research degrees in Media, Humanities, and Basic Sciences.
+- **Purpose:** These programs offer a deeper, research-focused curriculum as an alternative to the 3-year standard degrees.
+- **Fees:** Fees for the first three years are the same as the standard degree, with a specific fee for the fourth year.
+- **Scholarships:** Scholarship eligibility (50% or 20%) is the same as the corresponding 3-year program and applies to all four years, subject to continuation criteria.
+- **Requirements:** Admission is direct and does not require IELTS/TOEFL. However, the visa application process requires a bank statement showing minimum BDT 1,00,000.
+
+—source: Sharda University Honors/Research Programs Brochure 2025
+—source: Sharda University Fee Structure for International Students 2025
+—source: Sharda University Research and Higher Education Course Catalog 2025
+—source: Sharda University Scholarship Policy for Bangladeshi Students 2025
+
+**📋 PROGRAM ELIGIBILITY FOR SCHOLARSHIPS:**
+
+**50% Scholarship Eligible Programs:**
+• B.Tech - All Specialization (CSE, ECE, ME, CE, etc.)
+• BBA - All Specialization
+• MBA - All Specialization
+• BCA - All Specialization
+• MCA
+• B.Com (Hons)
+• B.Arch & B.Design
+• Masters in Design
+• BA - Film, Television & New Media Production
+• LLB - Integrated (5 Years)
+• BJMC, MJMC, M.Advertising & Brand Management
+• B.Sc. - Radiology, BrILT, Cardiovascular Technology
+• B.Sc. - Forensic Science, Optometry
+• B.Sc. - Nutrition & Dietetics, Dialysis Technology
+• M.Sc. - Clinical Research, Forensic Science, Nutrition & Dietetics
+
+**25% Scholarship Eligible Programs:**
+• B.Sc. Nursing
+
+**⚠️ Scholarship NOT Available for:**
+• Pharmacy (B.Pharm, M.Pharm, Pharm.D)
+• M.Sc. Nursing
+• Medical M.Sc. programs
+• MPT (Master of Physiotherapy)
+• BDS (Bachelor of Dental Surgery)
+• MBBS (Bachelor of Medicine and Bachelor of Surgery)
+
+
+
+**📞 OFFICIAL CONTACT INFORMATION:**
+• **Primary Email:** global@sharda.ac.in
+• **Phone/WhatsApp:** +91-8800996151
+• **Website:** https://sharda.ac.in
+• **Office Timing:** 10:00 AM - 5:00 PM (IST) | 11:30 AM - 6:30 PM (Bangladesh Time)
+
+
+**⚠️ VERIFICATION REQUIRED FOR BORDER CASES:**
+For students with GPA near tier boundaries (3.0, 3.5, etc.) or significant SSC-HSC performance differences, direct university confirmation is recommended.
+
+**Contact for Verification:**
+• Email: global@sharda.ac.in
+• Phone: +91-8800996151
+• Specific Query: "Confirm scholarship eligibility for [SSC GPA] + [HSC GPA] combination"
+
+**✅ Updated:** Sharda University scholarship criteria updated to official 2025-26 standards with enhanced grade detection and verification protocols.
