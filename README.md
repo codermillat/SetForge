@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Quality: Production](https://img.shields.io/badge/quality-production-green.svg)](https://github.com/your-repo/setforge)
+[![Quality: Production](https://img.shields.io/badge/quality-production-green.svg)](https://github.com/codermillat/SetForge)
 
 SetForge is a comprehensive suite of tools designed to generate high-quality, extractive question-answer pairs from educational content, specifically optimized for Bangladeshi students seeking admission to Indian universities. The system ensures zero hallucinations through strict extractive validation and multi-stage quality checks.
 
@@ -82,7 +82,7 @@ SetForge/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/setforge.git
+git clone https://github.com/codermillat/SetForge.git
 cd setforge
 
 # Install dependencies
@@ -613,10 +613,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **SetForge** - Transforming educational content into high-quality, extractive QA datasets with zero hallucinations and cultural authenticity. Perfect for training ML models, creating educational applications, and supporting student guidance systems.
 
-[![GitHub stars](https://img.shields.io/github/stars/your-repo/setforge.svg?style=social&label=Star)](https://github.com/your-repo/setforge)
-[![GitHub forks](https://img.shields.io/github/forks/your-repo/setforge.svg?style=social&label=Fork)](https://github.com/your-repo/setforge/fork)
-[![GitHub issues](https://img.shields.io/github/issues/your-repo/setforge.svg)](https://github.com/your-repo/setforge/issues)
+[![GitHub stars](https://img.shields.io/github/stars/codermillat/SetForge.svg?style=social&label=Star)](https://github.com/codermillat/SetForge)
+[![GitHub forks](https://img.shields.io/github/forks/codermillat/SetForge.svg?style=social&label=Fork)](https://github.com/codermillat/SetForge/fork)
+[![GitHub issues](https://img.shields.io/github/issues/codermillat/SetForge.svg)](https://github.com/codermillat/SetForge/issues)
 
 ---
 
-**📧 Contact**: For questions, support, or collaboration opportunities, please reach out through our [GitHub Issues](https://github.com/your-repo/setforge/issues) or [Discussions](https://github.com/your-repo/setforge/discussions).
+**📧 Contact**: For questions, support, or collaboration opportunities, please reach out through our [GitHub Issues](https://github.com/codermillat/SetForge/issues) or [Discussions](https://github.com/codermillat/SetForge/discussions).
