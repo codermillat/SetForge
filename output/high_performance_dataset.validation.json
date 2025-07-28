@@ -1,0 +1,15 @@
+{
+  "generation_timestamp": "2025-07-28T11:53:29.945297",
+  "total_pairs": 5,
+  "processing_time": 0.0313568115234375,
+  "quality_distribution": {
+    "good": 5
+  },
+  "average_quality_scores": {
+    "extractive_score": 0.8,
+    "factual_accuracy": 0.85,
+    "cultural_sensitivity": 0.75,
+    "uniqueness_score": 0.7,
+    "semantic_alignment": 0.9
+  }
+}

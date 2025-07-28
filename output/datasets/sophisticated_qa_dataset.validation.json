@@ -1,0 +1,15 @@
+{
+  "generation_timestamp": "2025-07-28T11:48:12.685808",
+  "total_pairs": 0,
+  "quality_distribution": {},
+  "average_quality_scores": {},
+  "generation_strategies_used": {},
+  "processing_time": 0.03954601287841797,
+  "quality_assurance_stats": {
+    "total_generated": 0,
+    "total_validated": 0,
+    "total_rejected": 144,
+    "validation_rate": 0.0,
+    "average_quality": 0.0
+  }
+}
