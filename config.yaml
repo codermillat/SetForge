@@ -1,0 +1,189 @@
+# SetForge Production Configuration
+# ================================
+# Core settings for production-scale Bangladeshi educational Q&A generation
+
+# API Configuration - Core parameters only
+api_key: "${DIGITALOCEAN_API_KEY}"
+api_url: "https://inference.do-ai.run/v1/chat/completions"
+model: "llama3-8b-instruct"
+
+# Generation Parameters - Compatible with GenerationConfig
+target_pairs: 50000
+max_tokens: 600
+temperature: 0.7
+batch_size: 10
+
+# Budget & Cost Control
+max_cost_usd: 200.0
+
+# Additional Configuration (not used by GenerationConfig but kept for reference)
+# These parameters are used by other parts of the system
+additional_config:
+  cost_per_token: 0.0000002  # DigitalOcean Llama 3.1 8B Instruct: $0.20 per million tokens
+  budget_warning_threshold: 0.9
+
+# Quality Thresholds
+quality_thresholds:
+  overall_quality: 0.70
+  cultural_focus: 0.60
+  extractive_score: 0.60
+  specific_details: 0.70
+  bangladeshi_terminology: 0.50
+  minimum_answer_length: 50
+  maximum_answer_length: 1000
+  minimum_question_length: 20
+  maximum_question_length: 200
+
+# Bangladeshi Educational Context
+bangladeshi_context:
+  required_terminology:
+    - "SSC"
+    - "HSC" 
+    - "Bachelor"
+    - "Masters"
+    - "Honours"
+    - "Diploma"
+    - "CGPA"
+    - "GPA"
+    - "Bangladeshi"
+    - "Bangladesh"
+  
+  cultural_indicators:
+    - "bangladeshi students"
+    - "students from bangladesh"
+    - "ssc results"
+    - "hsc results"
+    - "bangladeshi qualifications"
+    - "taka"
+    - "dhaka"
+    - "chittagong"
+    - "sylhet"
+
+# Question Templates (Optimized for Bangladeshi Context)
+question_templates:
+  scholarship:
+    - "What scholarship opportunities are available at {university} for Bangladeshi students with {grade_context}?"
+    - "How can a Bangladeshi student with {grade_context} apply for financial aid at {university}?"
+    - "Can a student with {bangladeshi_qualification}: {grade} get a scholarship at {university}?"
+    - "What documents do Bangladeshi students need for scholarship applications at {university}?"
+  
+  fees:
+    - "What is the total annual cost for a Bangladeshi student studying {program} at {university}?"
+    - "How much does {university} charge per year for {program} including accommodation for Bangladeshi students?"
+    - "Can Bangladeshi students pay {university} fees in installments?"
+    - "How much should a Bangladeshi family budget for sending their child to study {program} at {university}?"
+  
+  admission:
+    - "What are the admission requirements for Bangladeshi students applying to {program} at {university}?"
+    - "How is a Bangladeshi {qualification} grade of {grade} evaluated for admission to {university}?"
+    - "What documents are required from Bangladeshi students for {university} admission?"
+    - "What is the application process for Bangladeshi students seeking admission to {university}?"
+
+# Entity Lists
+entities:
+  universities:
+    - "Sharda University"
+    - "Amity University"
+    - "Galgotias University"
+    - "Noida International University"
+    - "G.L. Bajaj Institute"
+  
+  programs:
+    - "B.Tech CSE"
+    - "B.Tech Civil"
+    - "BBA"
+    - "B.Com"
+    - "MBA"
+    - "M.Tech"
+
+# Student Personas
+student_personas:
+  budget_conscious:
+    description: "Focus on scholarships, costs, affordable options"
+    weight: 0.4
+  
+  high_achiever:
+    description: "Focus on top universities, research opportunities"
+    weight: 0.3
+  
+  average_student:
+    description: "Focus on general admission, practical guidance"
+    weight: 0.3
+
+# Monitoring
+monitoring:
+  checkpoint_interval: 1000
+  progress_update_interval: 100
+  real_time_monitoring: true
+max_answer_length: 1000
+
+# Bangladeshi Grading System Configuration
+grading_system:
+  enabled: true
+  
+  # Grade Scale Mappings
+  scales:
+    ssc_dakhil: 5.0      # SSC/Dakhil GPA scale
+    hsc_alim: 5.0        # HSC/Alim GPA scale
+    diploma: 4.0         # Diploma CGPA scale
+    bachelor: 4.0        # Bachelor/Honours CGPA scale
+    masters: 4.0         # Masters CGPA scale
+    
+  # Grade Conversion Parameters
+  conversion:
+    gpa_5_to_percentage:
+      5.0: 95.0
+      4.0: 85.0
+      3.5: 78.0
+      3.0: 70.0
+      2.5: 60.0
+      2.0: 50.0
+      1.0: 40.0
+    
+    percentage_to_indian_cgpa_10: 9.5  # Divisor for conversion
+    
+  # Scholarship Thresholds (Indian CGPA 10-point scale)
+  scholarship_thresholds:
+    merit_100: 9.0   # 100% scholarship
+    merit_75: 8.5    # 75% scholarship
+    merit_50: 8.0    # 50% scholarship
+    merit_25: 7.5    # 25% scholarship
+    
+  # Performance Categories
+  performance_categories:
+    excellent: 4.5    # GPA threshold for "Excellent"
+    very_good: 4.0    # GPA threshold for "Very Good"
+    good: 3.5         # GPA threshold for "Good"
+    average: 3.0      # GPA threshold for "Average"
+    
+  # Grade Generation Settings
+  generation:
+    realistic_distributions:
+      excellent: 0.15   # 15% excellent students
+      very_good: 0.25   # 25% very good students
+      good: 0.35        # 35% good students
+      average: 0.20     # 20% average students
+      below_average: 0.05  # 5% below average students
+      
+    qualification_weights:
+      SSC: 0.20
+      HSC: 0.25
+      Diploma: 0.15
+      Bachelor: 0.25
+      Honours: 0.10
+      Masters: 0.05
+
+# Cultural Context Settings
+cultural_context:
+  bangladeshi_focus:
+    required_keywords: ['Bangladeshi', 'Bangladesh', 'Dhaka', 'HSC', 'SSC', 'Taka']
+    minimum_percentage: 60  # At least 60% of content should be Bangladeshi-focused
+    
+  indian_context:
+    universities: ['Sharda', 'Amity', 'Galgotias', 'Noida International']
+    currencies: ['₹', 'rupees', 'INR']
+    
+  embassy_processes:
+    visa_requirements: true
+    documentation_guidance: true
+    timeline_information: true

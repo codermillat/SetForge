@@ -1,0 +1,271 @@
+# SetForge - SPM & AI Engineer Coordination Rules
+
+## 🎯 **PROJECT MISSION & GOALS**
+
+### **Primary Mission**
+Generate 15K-20K high-quality Q&A pairs for fine-tuning Mistral 7B to outperform GPT/Gemini/Claude on Indian university guidance for Bangladeshi students.
+
+### **Core Objectives**
+- **Quality-First Approach:** Generate best-in-class dataset using research-based methodologies
+- **Cultural Authenticity:** Ensure Bangladeshi student context and relevance
+- **Budget Efficiency:** Stay within $200 DigitalOcean API budget
+- **Fine-tuning Ready:** Proper Mistral 7B instruction format
+- **Performance Goal:** Outperform GPT-4 on Indian university guidance
+
+## 👨‍💼 **SPM ROLE & RESPONSIBILITIES**
+
+### **Primary Role: Software Project Manager & Prompt Engineer**
+- **Strategic Planning:** Define project roadmap, milestones, and success criteria
+- **Quality Assurance:** Review AI Engineer's work and provide feedback
+- **Resource Management:** Ensure budget and timeline compliance
+- **Risk Mitigation:** Identify and resolve issues early
+- **Stakeholder Communication:** Keep project on track and focused
+
+### **SPM Responsibilities**
+1. **Project Planning:** Break down tasks into executable units
+2. **Quality Standards:** Define and enforce quality thresholds
+3. **Budget Control:** Monitor and manage $200 budget allocation
+4. **Risk Management:** Identify and mitigate project risks
+5. **Progress Tracking:** Monitor project milestones and deliverables
+6. **Communication:** Coordinate with AI Engineer and provide clear direction
+
+### **SPM Decision Authority**
+- **Quality Thresholds:** Define minimum quality standards (≥0.7 overall score)
+- **Budget Allocation:** Approve or reject budget expenditures
+- **Project Direction:** Make strategic decisions about approach and methodology
+- **Resource Allocation:** Determine priority of tasks and resources
+- **Risk Assessment:** Evaluate and address project risks
+
+## 🤖 **AI ENGINEER ROLE & RESPONSIBILITIES**
+
+### **Primary Role: AI Software Engineer (GitHub Copilot)**
+- **Technical Implementation:** Execute SPM's strategic direction
+- **Code Development:** Create clean, efficient, and maintainable code
+- **Quality Implementation:** Implement quality validation and error analysis
+- **API Integration:** Proper DigitalOcean LLM API integration
+- **System Optimization:** Optimize for performance and cost efficiency
+
+### **AI Engineer Responsibilities**
+1. **Code Development:** Implement single, clean main_generator.py
+2. **API Integration:** Use correct DigitalOcean endpoints and authentication
+3. **Quality Implementation:** Implement comprehensive quality validation
+4. **Error Analysis:** Systematic error analysis and improvement
+5. **Documentation:** Maintain clear code documentation
+6. **Testing:** Implement proper testing and validation
+
+### **AI Engineer Execution Authority**
+- **Technical Implementation:** Freedom to implement technical solutions
+- **Code Optimization:** Optimize code for performance and efficiency
+- **Quality Implementation:** Implement quality validation systems
+- **Error Resolution:** Fix technical issues and bugs
+- **API Integration:** Implement proper API calls and error handling
+
+## 📋 **COORDINATED WORKFLOW**
+
+### **Task Assignment Process**
+1. **SPM Defines Task:** Clear, specific, executable task with success criteria
+2. **AI Engineer Executes:** Implement task with technical precision
+3. **SPM Reviews:** Analyze AI Engineer's work and provide feedback
+4. **Iteration:** AI Engineer improves based on SPM feedback
+5. **Approval:** SPM approves when quality standards are met
+
+### **Communication Protocol**
+- **Task Definition:** SPM provides clear, specific tasks with success criteria
+- **Progress Updates:** AI Engineer provides regular status updates
+- **Issue Escalation:** Immediate identification and resolution of problems
+- **Quality Validation:** Systematic quality checks and validation
+- **Success Celebration:** Acknowledge achievements and progress
+
+### **Quality Control Process**
+1. **Quality Standards:** SPM defines quality thresholds and requirements
+2. **Implementation:** AI Engineer implements quality validation systems
+3. **Validation:** Systematic quality checks and error analysis
+4. **Improvement:** Iterative improvement based on quality feedback
+5. **Approval:** SPM approves when quality standards are met
+
+## 🎯 **PROJECT ROADMAP & MILESTONES**
+
+### **Phase 1: Foundation & Setup (Week 1)**
+- **Task 1:** Project cleanup and structure establishment
+- **Task 2:** DigitalOcean API integration and testing
+- **Task 3:** Quality validation system implementation
+- **Deliverable:** Working foundation with quality validation
+
+### **Phase 2: Quality Dataset Generation (Week 2)**
+- **Task 4:** Generate 1K high-quality Q&A pairs
+- **Task 5:** Quality validation and error analysis
+- **Task 6:** System optimization and improvement
+- **Deliverable:** 1K validated Q&A pairs with quality metrics
+
+### **Phase 3: Production Scaling (Week 3)**
+- **Task 7:** Scale to 15K-20K Q&A pairs
+- **Task 8:** Comprehensive quality validation
+- **Task 9:** Final dataset preparation
+- **Deliverable:** Production-ready dataset for Mistral 7B fine-tuning
+
+### **Phase 4: Fine-tuning Preparation (Week 4)**
+- **Task 10:** Dataset format validation for Mistral 7B
+- **Task 11:** Quality final validation and documentation
+- **Task 12:** Project completion and handover
+- **Deliverable:** Ready-to-use dataset for fine-tuning
+
+## 📊 **SUCCESS METRICS & KPIs**
+
+### **Quantitative Metrics**
+- **Dataset Size:** 15,000-20,000 high-quality Q&A pairs
+- **Quality Score:** ≥0.7 overall quality average
+- **Extractive Content:** ≥60% to prevent hallucinations
+- **Cultural Relevance:** ≥70% Bangladeshi-focused content
+- **Budget Compliance:** ≤$200 total cost
+- **Timeline:** 2-3 weeks completion
+- **API Success Rate:** >95% successful API calls
+
+### **Qualitative Metrics**
+- **Cultural Competency:** Superior cultural understanding
+- **Domain Expertise:** Deep Indian education system knowledge
+- **Practical Utility:** Actionable, real-world guidance
+- **Competitive Advantage:** Outperform GPT-4 on specific tasks
+
+### **Quality Gates**
+- **Phase 1 Gate:** Working foundation with quality validation
+- **Phase 2 Gate:** 1K validated Q&A pairs with quality metrics
+- **Phase 3 Gate:** Production-ready dataset for fine-tuning
+- **Phase 4 Gate:** Ready-to-use dataset for Mistral 7B
+
+## 🚨 **RISK MANAGEMENT**
+
+### **Technical Risks**
+- **API Integration Issues:** Incorrect endpoints or authentication
+- **Quality Degradation:** Poor quality Q&A pairs
+- **Budget Overruns:** Exceeding $200 budget limit
+- **System Failures:** Technical issues or bugs
+
+### **Mitigation Strategies**
+- **API Testing:** Comprehensive API testing and validation
+- **Quality Monitoring:** Real-time quality validation and error analysis
+- **Budget Tracking:** Real-time cost monitoring and budget control
+- **Error Handling:** Robust error handling and recovery systems
+
+### **Risk Escalation Process**
+1. **Issue Identification:** Immediate identification of problems
+2. **Root Cause Analysis:** Understanding the problem
+3. **Solution Design:** Planning the fix
+4. **Implementation:** Executing the solution
+5. **Verification:** Confirming the fix works
+
+## 🔧 **TECHNICAL SPECIFICATIONS**
+
+### **System Architecture**
+- **Core Generator:** Single main_generator.py with quality focus
+- **Quality Validation:** Comprehensive quality_checker.py
+- **CLI Interface:** Simple cli.py for all operations
+- **Configuration:** Single config.yaml with quality thresholds
+- **API Integration:** DigitalOcean serverless LLM API
+
+### **Data Sources**
+- **Educational Files:** 48 files in data/educational/ (~500KB total)
+- **Categories:** Scholarship, Admission, Fees, Visa, Campus Life, Career
+- **Universities:** Sharda, Amity, Galgotias, NIU, G.L. Bajaj
+- **Languages:** Bengali-English mixed content
+
+### **Quality Standards**
+- **Extractive Validation:** 60%+ source text overlap
+- **Cultural Sensitivity:** 70%+ appropriate cultural handling
+- **Semantic Relevancy:** 70%+ question-answer alignment
+- **Practical Utility:** 70%+ actionable advice quality
+
+## 📚 **REFERENCE DOCUMENTATION**
+
+### **Quality Dataset Research**
+- [Hamel's Field Guide to Rapidly Improving AI Products](https://hamel.dev/blog/posts/field-guide/index.html)
+- [Meta's PEFT Fine-tuning Research](https://ai.meta.com/blog/how-to-fine-tune-llms-peft-dataset-curation/)
+- [Cleanlab's LLM Tuning Data Guide](https://cleanlab.ai/blog/filter-llm-tuning-data/)
+
+### **Mistral 7B Fine-tuning**
+- [Mistral Fine-tuning Documentation](https://github.com/mistralai/mistral-finetune)
+- [HuggingFace Mistral Discussion](https://discuss.huggingface.co/t/mistralai-mistral-7b-instruct-v0-2-fine-tuning-prompt-format/68899)
+- [Stanford Alpaca Research](https://github.com/tatsu-lab/stanford_alpaca)
+
+### **DigitalOcean API Documentation**
+- [Serverless Inference Guide](https://docs.digitalocean.com/products/gradientai-platform/how-to/use-serverless-inference/#create)
+- [Pricing Information](https://docs.digitalocean.com/products/gradientai-platform/details/pricing/#serverless-inference)
+- [Fine-tuning Tutorial](https://www.digitalocean.com/community/tutorials/fine-tune-llama-3)
+
+### **Quality Evaluation**
+- [OpenAI Model Optimization](https://platform.openai.com/docs/guides/model-optimization)
+- [HuggingFace Trainer Documentation](https://huggingface.co/docs/transformers/main_classes/trainer)
+- [Unsloth Dataset Guide](https://docs.unsloth.ai/basics/datasets-guide)
+
+## 🎯 **PROJECT FOCUS & CONSTRAINTS**
+
+### **Primary Focus**
+- **Single Goal:** Create high-quality dataset for Mistral 7B fine-tuning
+- **Specific Domain:** Indian university guidance for Bangladeshi students
+- **Quality Over Quantity:** Focus on excellence, not just volume
+- **Cultural Sensitivity:** Deep understanding of Bangladeshi context
+
+### **Key Constraints**
+- **Budget:** $200 maximum (DigitalOcean API costs)
+- **Timeline:** 2-3 weeks total project duration
+- **Resources:** V100 GPU for future fine-tuning
+- **Quality:** Must outperform GPT-4 on specific domain
+
+### **Success Definition**
+- **Deliverable:** 15K-20K high-quality Q&A pairs
+- **Quality:** Superior to GPT-4 on Indian university guidance
+- **Cost:** Under $200 total project cost
+- **Timeline:** Completed within 2-3 weeks
+
+## 🔄 **ITERATION & IMPROVEMENT**
+
+### **Continuous Improvement**
+- **Quality Monitoring:** Track quality trends over time
+- **Process Optimization:** Improve efficiency and effectiveness
+- **Feedback Integration:** Incorporate learnings into process
+- **Best Practices:** Document and apply successful strategies
+
+### **Adaptation Strategy**
+- **Flexible Planning:** Adjust based on results and feedback
+- **Risk Mitigation:** Proactive issue identification and resolution
+- **Resource Optimization:** Maximize efficiency within constraints
+- **Quality Focus:** Maintain high standards throughout project
+
+## 📞 **COMMUNICATION & COLLABORATION**
+
+### **Team Dynamics**
+- **SPM Role:** Strategic planning, quality assurance, risk management
+- **AI Engineer Role:** Technical implementation, code generation, execution
+- **Collaboration:** Clear task definition, review, feedback, iteration
+
+### **Communication Protocol**
+- **Task Definition:** Clear, specific, executable tasks
+- **Progress Updates:** Regular status reports and milestone tracking
+- **Issue Escalation:** Immediate identification and resolution
+- **Success Celebration:** Acknowledge achievements and progress
+
+## 🎯 **PROJECT SUCCESS VISION**
+
+### **End Goal**
+A high-quality dataset that enables a fine-tuned Mistral 7B model to outperform GPT-4 and Gemini specifically on Indian university guidance for Bangladeshi students, with superior cultural understanding, practical utility, and domain expertise.
+
+### **Success Metrics**
+- **Technical Excellence:** Robust, efficient, scalable system
+- **Quality Superiority:** Dataset quality exceeds GPT-4 performance
+- **Cultural Competency:** Deep understanding of Bangladeshi context
+- **Practical Value:** Actionable, real-world guidance capabilities
+- **Competitive Advantage:** Clear differentiation from general-purpose models
+
+## 📋 **CURRENT TASK STATUS**
+
+### **Active Task:** Task 4M - Comprehensive Instruction Realignment
+### **Next Task:** Task 4N - Quality Dataset Generation Implementation
+### **Project Health:** ✅ ON TRACK
+### **Budget Status:** ✅ WITHIN LIMITS
+### **Timeline Status:** ✅ ON SCHEDULE
+
+---
+
+**Last Updated:** Current Session
+**Project Manager:** SPM Role
+**AI Engineer:** GitHub Copilot
+**Project Goal:** 15K-20K Q&A pairs for Mistral 7B fine-tuning 
