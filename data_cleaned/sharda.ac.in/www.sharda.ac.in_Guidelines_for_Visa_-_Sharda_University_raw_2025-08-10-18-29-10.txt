@@ -1,0 +1,109 @@
+• Programme 2025-26
+• School of Dental Sciences
+School of Medical Sciences & Research
+Sharda School of Nursing Science & Research
+• School of Medical Sciences & Research
+• Sharda School of Nursing Science & Research
+Examination Annual Report
+Academic Bank of Credits (ABC)
+Curricula Feedback
+University Brochure
+• Examination Annual Report
+• Academic Bank of Credits (ABC)
+• Curricula Feedback
+• University Brochure
+Programme Fee
+Hostel Fee
+Transportation Fee
+Scholarship
+Innovative Idea Scholarship
+• Programme Fee
+• Hostel Fee
+• Transportation Fee
+• Scholarship
+• Innovative Idea Scholarship
+• Fee Structure for Previous Year Students
+• SUAT 2025
+Sample Papers
+• Sample Papers
+Global Knowledge Seekers
+• Global Knowledge Seekers
+Our Recruiters
+• Our Recruiters
+Banking And Postal Services
+• Banking And Postal Services
+Perspective Plan
+Leadership
+History
+Statutory Bodies of the University
+Sharda Tenders
+Act, Statutes and Ordinances
+COVID19
+Family & Couple Counselling Services(FCCS)
+Capacity Development & Skill Enhancement
+Language and Communication Skill Initiatives: Sharda Skills
+Soft Skill Initiatives : Career Counseling and Development Center
+Awareness of Trends in Technology : IIC
+Entrepreneurship
+Innovation and Entrepreneurship
+• Get to know sharda
+• Perspective Plan
+• Leadership
+• History
+• Statutory Bodies of the University
+• Sharda Tenders
+• Act, Statutes and Ordinances
+• COVID19
+• Family & Couple Counselling Services(FCCS)
+• Capacity Development & Skill Enhancement
+• Language and Communication Skill Initiatives: Sharda Skills
+• Soft Skill Initiatives : Career Counseling and Development Center
+• Awareness of Trends in Technology : IIC
+• Entrepreneurship
+• Innovation and Entrepreneurship
+FM Radio: Suno Sharda-90.8FM
+• FM Radio: Suno Sharda-90.8FM
+Accommodation Fee
+Guidelines for Visa and FRO/FRRO
+Guidelines for Medical Insurance
+Observership Programmes
+• Accommodation Fee
+• Guidelines for Visa and FRO/FRRO
+• Guidelines for Medical Insurance
+• Observership Programmes
+Paramarsh- Our Mentoring Portal
+• Paramarsh- Our Mentoring Portal
+• Chat with a Student Ambassador
+Chat with a Student Ambassador
+• Once Admission Letter / Visa Letter has been issued student should immediately apply for Student Visa at Indian Embassy / High Commission.
+• Make sure that your Student Visa is endorsed to Sharda University.
+• Make sure that you have applied for Visa well in advance and time. It generally takes 3-8 weeks to get the Indian Visa thus it is advisable to apply for the visa accordingly and consult the Indian High Commission/Embassy, if required.
+• Change of University or Institution cannot be considered. In this case you would be required to go back to your home country and apply for a new visa.
+• Make sure, if you have entered India on basis of Student Visa endorsed to Sharda University, then it is your responsibility to ensure that you directly join and report to the University. The Visa endorsed on the name of the University or obtained on the basis of University documents cannot be used for any other purpose like employment , admission to any other university/college/institute/academy etc. or for non-regular (distance/online) mode of education.
+• After reaching the University Campus, students have to get the visa verified by the University and have to deposit a copy of the valid visa at International Relations Division. It is the responsibility of the student to ensure that throughout his/her study period student is on valid visa.
+Guidelines for Visa Extension and FRO/FRRO
+• It is a mandatory for all International students except those from Nepal and Bhutan to get their Student Visa registered at FRRO/FRO Noida or New Delhi within 14 days of arrival in India.
+• International Relations Department of Sharda University will guide and assist Student with all the required processes needed for FRO/FRRO Registration.
+• All International students except those from Nepal and Bhutan have to fill online application for Registration Certificate (RC) & Residential Permit (RP) on arrival to India.
+• In case the initial visa is not endorsed for the complete duration of the program or student has to extend the stay because he/she is not able to complete the program in the stipulated time then the student should apply for the extension of the visa before visa expires.
+• visa Extension for stay visa, Residence permit Extension (RP Extension), change of address, change of course & change of Institution and OFF LINE for No Objection Certificate (NOC) for travelling outside India in Foreigners Registration Office (FRO) in Noida and Foreigners Regional Registration Office (FRRO) in New Delhi.
+• Course Fee
+• Recruiters
+• Covid 19 Updates
+• Sharda University Uzbekistan
+• Sharda University Agra
+• Courses on Human Values and Professional ethics
+• National Cyber Crime Reporting Portal
+• International Credit Transfer Programme
+85924453
++91-120-4570000
+• +91-120-4570000
++91-9205586066
++91-8800998881
+• window.fbAsyncInit = function() {
+version : 'v5.0'
+(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+js = d.createElement(s); js.id = id;
+js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+Source: https://www.sharda.ac.in/international/guidelines-for-visa

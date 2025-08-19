@@ -1,0 +1,9 @@
+{
+  "source_file": "www.sharda.ac.in_Pre_Arrival_Information_for_International_Students_raw_2025-08-10-18-29-09.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This text appears to be a snippet of JavaScript code related to Facebook's asynchronous initialization and SDK, specifically referencing the XFBML Customer Chat plugin. It also includes a URL pointing to pre-arrival information for international students on the Sharda University website.",
+      "raw_content": "• window.fbAsyncInit = function() {\nversion : 'v5.0'\n(function(d, s, id) {\nvar js, fjs = d.getElementsByTagName(s)[0];\njs = d.createElement(s); js.id = id;\njs.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';\nSource: https://www.sharda.ac.in/international/pre-arrival-information"
+    }
+  }
+}

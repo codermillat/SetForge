@@ -1,0 +1,288 @@
+• Programme 2025-26
+• School of Dental Sciences
+School of Medical Sciences & Research
+Sharda School of Nursing Science & Research
+• School of Medical Sciences & Research
+• Sharda School of Nursing Science & Research
+Examination Annual Report
+Academic Bank of Credits (ABC)
+Curricula Feedback
+University Brochure
+• Examination Annual Report
+• Academic Bank of Credits (ABC)
+• Curricula Feedback
+• University Brochure
+Programme Fee
+Hostel Fee
+Transportation Fee
+Scholarship
+Innovative Idea Scholarship
+• Programme Fee
+• Hostel Fee
+• Transportation Fee
+• Scholarship
+• Innovative Idea Scholarship
+• Fee Structure for Previous Year Students
+• SUAT 2025
+Sample Papers
+• Sample Papers
+Global Knowledge Seekers
+• Global Knowledge Seekers
+Our Recruiters
+• Our Recruiters
+Banking And Postal Services
+• Banking And Postal Services
+Perspective Plan
+Leadership
+History
+Statutory Bodies of the University
+Sharda Tenders
+Act, Statutes and Ordinances
+COVID19
+Family & Couple Counselling Services(FCCS)
+Capacity Development & Skill Enhancement
+Language and Communication Skill Initiatives: Sharda Skills
+Soft Skill Initiatives : Career Counseling and Development Center
+Awareness of Trends in Technology : IIC
+Entrepreneurship
+Innovation and Entrepreneurship
+• Get to know sharda
+• Perspective Plan
+• Leadership
+• History
+• Statutory Bodies of the University
+• Sharda Tenders
+• Act, Statutes and Ordinances
+• COVID19
+• Family & Couple Counselling Services(FCCS)
+• Capacity Development & Skill Enhancement
+• Language and Communication Skill Initiatives: Sharda Skills
+• Soft Skill Initiatives : Career Counseling and Development Center
+• Awareness of Trends in Technology : IIC
+• Entrepreneurship
+• Innovation and Entrepreneurship
+FM Radio: Suno Sharda-90.8FM
+• FM Radio: Suno Sharda-90.8FM
+Accommodation Fee
+Guidelines for Visa and FRO/FRRO
+Guidelines for Medical Insurance
+Observership Programmes
+• Accommodation Fee
+• Guidelines for Visa and FRO/FRRO
+• Guidelines for Medical Insurance
+• Observership Programmes
+Paramarsh- Our Mentoring Portal
+• Paramarsh- Our Mentoring Portal
+M.Tech. CSE-Networking & Cyber Security
+SET0130
+2 Years
+• Course Fee
+M.Tech CSE Networking & Cyber Security is a two-year post-graduate programme that deals with the study of network computing, troubleshoot, cryptography and laws. The objective of the programme is to provide expertise in overseeing and keeping up the security and system structure. This programme is useful to learn how to actively monitor and defend the network and, furthermore, make fundamental security approach and methods.
+This programme helps students to utilise cybersecurity measures to protect the data and manage the personal conduct in relation to protecting the data and information. In addition, this post-graduate programme train students to scale up the demand from multiple industrial areas on the cyber world to promote effective methods practices and tools to counter the cybercrime.
+Few of the subjects under this specialisation are as follows:
+• Analysis and Design of Algorithms
+• Penetration testing and vulnerability Analysis.
+• Cloud Services in Mobile Application Computing
+Programme Educational Objectives (PEO)
+• PEO-1 The graduates will establish themselves as professionals by solving real-life problems using exploratory and analytical skills acquired in the field of Computer Science and Engineering.
+• PEO-2 The graduates will provide sustainable solutions to ever changing interdisciplinary global problems through their Research & Innovation capabilities.
+• PEO-3 The graduates will become employable, successful entrepreneur as an outcome of Industry-Academia collaboration.
+• PEO-4 The graduates will embrace professional code of ethics while providing solution to multidisciplinary social problems in industrial, entrepreneurial and research environment to demonstrate leadership qualities.
+• PO1: Advanced Technical Knowledge Ability to apply advanced knowledge of mathematical, scientific and computing to carry out independent research and investigate complex problems of global benchmark.
+• PO2: Research and Development Achieve and understand research-based solutions for problems in industry and academia using contemporary research methods.
+• PO3: Pedagogy Enables academic adherence by practice of method and environment for teaching which is incorporated within the curriculum enabling life-long learning and professional development through self-study, continuing education, professional and doctoral level studies.
+• PO4: Innovation and Entrepreneurial Inculcate innovative approaches to develop solutions towards existing real-world problem(s) to create value and wealth for the betterment of the individual and society at large.
+• PO5: Societal Values Inculcating the human, social and business context while knowledge discovery by providing exposure to global view and diversity in the world and will utilize their engineering skills.
+• PO6: Personal and Professional Ethics Recognize the need of ethical, legal and societal implications to engage in self-governing and lifelong learning by making use of professional principles.
+• PO7: Communication Skills Ability to develop communication skills so that they are able to express ideas clearly and persuasively, in written and oral forms in a substantial technical manner.
+• PO8: Life-long learning Ability to engage in independent and life-long learning in the broadest context of research and technological change with the aim to educate the society and peers.
+• PSO1: Software Engineering To apply the software engineering principles and practices to provide high quality software solutions using state of art technologies.
+• PSO2: Data Science & Analytics To develop research solutions in the field of data engineering by using modern tools to provide innovative solutions for complex data science problems.
+• PSO3: Networking and Cyber Security To apply networking principles to understand cyber security issues and provides solutions to real world security problems
+This course is for individuals who...
+are interested in compreheningd the various security threats and vulnerabilities of the cyber world keeping in line with industry trends.
+Students who are looking for...
+architect designing and implementing the reliable & effective product line in the field of cybersecurity are an ideal fit for the programme.
+Course Fee
+• Yearly Fee
+• Semester Fee
+1st Year
+113000: 2nd Year
+116390
+1st Sem
+58000: 3rd Sem
+59695
+2nd Sem
+58000: 4th Sem
+Fee Per Semester: Fee Per Year
+NA: 5000*
+Semester 1
+School of Engineering & Technology
+Department of Computer Science & Engineering
+M. Tech. (CSE) Networking and Cyber Security
+Batch: 2023 Onwards: TERM: I (Spring-II)
+S. No. | Course Code | Course | Teaching Load | Credits | Pre-Requisite/Co Requisite
+1 | CSE611 | Analysis and Design of Algorithms | 3 | 1 | 0 | 4
+2 | CSE613 | Mathematical and Statistical Techniques in Computer Science | 3 | 1 | 0 | 4
+3 | Departmental Elective-1 | 3 | 0 | 0 | 3
+CSE630: Advanced Computer Network
+CSE670: Vehicular Communication Network
+4: Departmental Elective-2
+CSE642 | Soft Computing Techniques | 3 | 0 | 0 | 3
+5 | Departmental Elective-3 | 3 | 0 | 0 | 3
+CSE671: Advanced Mobile computing
+CSE632: Advanced Network Security
+6 | CSP611 | Analysis and Design of Algorithms Lab | 0 | 0 | 2 | 1
+7 | Departmental Elective-1 | 0 | 0 | 2 | 1
+CSP630: Advanced Computer Network
+CSP670: Vehicular Communication Network
+8 | MRM001 | Research Methodology | 0 | 1 | 2 | 2
+9 | RBL001 | RBL-1 | 0 | RBL-1 used as Implementation of RM
+TOTAL CREDITS: 21
+Batch: 2023 Onwards
+Course Code
+Course
+CSE611
+Analysis and Design of Algorithms
+CSE613
+Mathematical and Statistical Techniques in Computer Science
+Departmental Elective-1
+CSE630
+CSE670
+Departmental Elective-2
+CSE642
+Departmental Elective-3
+CSE671
+CSE632
+CSP611
+Analysis and Design of Algorithms Lab
+CSP630
+CSP670
+MRM001
+RBL001
+RBL-1 used as Implementation of RM
+Semester 2
+Batch: 2023 Onwards: TERM: II (Spring-I)
+1 | CSE650 | Pattern Recognition | 3 | 1 | 0 | 4
+2 | CSE605 | Machine Learning | 3 | 0 | 0 | 3
+3 | Departmental Elective-4 | 3 | 0 | 0 | 3
+CSE646: Wireless Sensor Network
+CSE616: Intrusion Detection & Prevention
+CSE606: Cloud Services in Mobile
+CSE672: Applications Programming
+4 | Departmental Elective-5 | 2 | 0 | 0 | 2
+CSE673: Grid Computing
+CSE629: Performance Modeling of Computer Communication network
+5 | Departmental Elective-6 | 3 | 0 | 0 | 3
+CSE628: Ad Hoc Wireless Networks
+CSE674: Advanced Wireless Communication
+6 | Departmental Elective-7 | 3 | 0 | 0 | 3
+CSE641: Malware Analysis, Detection & Prevention
+CSE675: Advanced Cryptography
+7 | CSP650 | Pattern Recognition Lab | 0 | 0 | 2 | 1
+8 | Departmental Elective-4 | 0 | 0 | 2 | 1
+CSP646: Wireless Sensor Network
+CSP616: Intrusion Detection & Prevention
+CSP606: Cloud Services in Mobile
+CSP672: Applications Programming
+9 | Departmental Elective-5 | 0 | 0 | 2 | 1
+CSP673: Grid Computing
+CSP629: Performance Modeling of Computer Communication network
+10 | RBL002 | RBL-2 | 0 | Continuity of RBL-1
+11 | CCU101 | Community Connect | 2
+TOTAL CREDITS: 23
+CSE650
+CSE605
+Departmental Elective-4
+CSE646
+CSE616
+Intrusion Detection & Prevention
+CSE606
+Cloud Services in Mobile
+CSE672
+Departmental Elective-5
+CSE673
+CSE629
+Performance Modeling of Computer Communication network
+Departmental Elective-6
+CSE628
+Ad Hoc Wireless Networks
+CSE674
+Departmental Elective-7
+CSE641
+Malware Analysis, Detection & Prevention
+CSE675
+CSP650
+CSP646
+CSP616
+CSP606
+CSP672
+CSP673
+CSP629
+RBL002
+CCU101
+Semester 3
+Batch: 2023 Onwards: TERM: III
+1 | CSP681 | Seminar | 2
+2 | CSP691 | Dissertation 1 | 10 | RBL-3
+TOTAL CREDITS: 12
+CSP681
+Seminar
+CSP691
+Semester 4
+Batch: 2023 Onwards: TERM: IV
+1. | CSP692 | Dissertation-II | 16 | RBL-4
+TOTAL CREDITS: 16
+CSP692
+S.No. | Academic year | Curricula Link
+1 | 2023-24 | View Details
+2 | 2021-22 | View Details
+3 | 2020-21 | View Details
+4 | 2019-20 | View Details
+5 | 2018-19 | View Details
+For National Students: B.Tech. in Computer Science IT Electronics & Communication Electronics & Instrumentation and Electrical & Electronics with minimum 60% marks. MCA/M.Sc. (Computer Sc.) with minimum 60% marks.
+GATE/NET Qualified students shall be preferred.
+*:not(input):not(textarea):not([contenteditable=""]):not(
+user-select: text important
+pointer-events: initial important
+html body *:not(input):not(textarea)::selection,
+body *:not(input):not(textarea)::selection,
+html body div *:not(input):not(textarea)::selection,
+html body span *:not(input):not(textarea)::selection,
+html body p *:not(input):not(textarea)::selection,
+html body h1 *:not(input):not(textarea)::selection,
+html body h2 *:not(input):not(textarea)::selection,
+html body h3 *:not(input):not(textarea)::selection,
+html body h4 *:not(input):not(textarea)::selection,
+html body h5 *:not(input):not(textarea)::selection {
+background-color: 3297fd important
+color: ffffff important
+width: 40px
+.bp-doc .pdfViewer .page:not(.bp-is-invisible):before {
+.ladno_ru [style*="position: absolute left: 0 right: 0 top: 0 bottom: 0 "] {
+display: none important
+z-index: -1 important
+.www_newvision_co_ug .v-snack:not(.v-snack--absolute) {
+/*derstarih_com*/
+.derstarih_com .bs-sks {
+For International Students: The eligibility criterion for all programs for international applicants is minimum 50% in the qualifying examination and having studied the pre-requisite subjects for admission in to the desired program.
+• B.Tech. in Computer Science IT Electronics & Communication Electronics & Instrumentation and Electrical & Electronics with minimum 60% marks. MCA/M.Sc. (Computer Sc.) with minimum 60% marks.
+• GATE/NET Qualified students shall be preferred.
+How to apply for the course?
+Career path you can choose after the course
+Students of this programme are placed in companies with an average annual package of 4.50 LPA to 12.00 LPA
+Take the next step towards a career in engineering.
+• Recruiters
+• Covid 19 Updates
+• Sharda University Uzbekistan
+• Sharda University Agra
+• Courses on Human Values and Professional ethics
+• National Cyber Crime Reporting Portal
+• International Credit Transfer Programme
+85922638
++91-120-4570000
+• +91-120-4570000
++91-9205586066
++91-8800998881
+
+Source: https://www.sharda.ac.in/programmes/mtech-networking-and-cyber-security

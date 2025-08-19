@@ -1,0 +1,34 @@
+{
+  "title": "Admission Requirements Schema",
+  "description": "Schema for capturing admission requirements for a program.",
+  "type": "object",
+  "properties": {
+    "eligibility_criteria": {
+      "type": "object",
+      "description": "Eligibility criteria for admission.",
+      "properties": {
+        "national_students": {
+          "type": "string",
+          "description": "Eligibility criteria for national students."
+        },
+        "international_students": {
+          "type": "string",
+          "description": "Eligibility criteria for international students."
+        }
+      }
+    },
+    "application_process": {
+      "type": "string",
+      "description": "Description of the application process."
+    },
+    "required_tests": {
+      "type": "array",
+      "description": "A list of required admission tests.",
+      "items": {
+        "type": "string",
+        "description": "The name of the required test (e.g., 'SUAT', 'JEE')."
+      }
+    }
+  },
+  "required": ["eligibility_criteria"]
+}

@@ -1,0 +1,9 @@
+{
+  "source_file": "www.sharda.ac.in_Global_Payment_Procedure_-_Sharda_University_raw_2025-08-10-18-29-09.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "The provided text snippet appears to be a fragment of JavaScript code intended to load the Facebook Customer Chat SDK, along with a version indicator and a source URL pointing to information about global payment procedures on the Sharda University website.",
+      "raw_content": "version : 'v5.0'\n(function(d, s, id) {\nvar js, fjs = d.getElementsByTagName(s)[0];\njs = d.createElement(s); js.id = id;\njs.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';\nSource: https://www.sharda.ac.in/international/global-payment-procedure\n"
+    }
+  }
+}

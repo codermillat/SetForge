@@ -1,0 +1,40 @@
+{
+  "source_file": "www.sharda.ac.in_M_Tech_Civil_Engineering_for_Working_Professionals_Fee_Eligibility_Admission_2_raw_2025-08-10-18-29-18.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This text lists several entities and programs, including Sharda University with campuses in Uzbekistan and Agra, educational courses on Human Values and Professional Ethics, the National Cyber Crime Reporting Portal, and an International Credit Transfer Programme.",
+      "raw_content": "Sharda University Uzbekistan\n• Sharda University Uzbekistan\nSharda University Agra\n• Sharda University Agra\nCourses on Human Values and Professional ethics\n• Courses on Human Values and Professional ethics\nNational Cyber Crime Reporting Portal\n• National Cyber Crime Reporting Portal\nInternational Credit Transfer Programme"
+    },
+    "admission_requirements": {
+      "academic_programs": [
+        {
+          "program_name": "Master of Science in Computer Science",
+          "eligibility_criteria": "Bachelor's degree in Computer Science or a related field with a minimum GPA of 3.0. GRE scores are required.",
+          "required_documents": [
+            "Official transcripts",
+            "Letters of recommendation (3)",
+            "Statement of purpose",
+            "GRE scores",
+            "Resume/CV"
+          ],
+          "application_deadline": "December 15th"
+        },
+        {
+          "program_name": "Bachelor of Arts in English Literature",
+          "eligibility_criteria": "High school diploma with a minimum GPA of 85%. SAT or ACT scores are recommended.",
+          "required_documents": [
+            "High school transcripts",
+            "SAT/ACT scores (optional)",
+            "Personal essay",
+            "Letters of recommendation (2)"
+          ],
+          "application_deadline": "February 1st"
+        }
+      ]
+    },
+    "career_path": {
+      "summary": "This text outlines potential career paths available after completing a course, specifically mentioning the roles of Offshore Design Engineer and Design Engineer.",
+      "raw_content": "Career path you can choose after the course\n• Offshore Design Engineer\n• Design Engineer"
+    }
+  }
+}

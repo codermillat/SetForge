@@ -1,0 +1,63 @@
+{
+  "source_file": "amity.edu_amity_edu_raw_2025-08-10-18-42-21 (1).txt",
+  "structured_data": {
+    "admission_requirements": {
+      "admission_requirements": {
+        "Master of Science in Computer Science": {
+          "eligibility_criteria": [
+            "Bachelor's degree in Computer Science, Engineering, or a related field from an accredited institution.",
+            "Minimum GPA of 3.0 on a 4.0 scale.",
+            "Proficiency in a programming language (e.g., Python, Java, C++).",
+            "Strong foundation in algorithms and data structures."
+          ],
+          "required_documents": [
+            "Completed online application form.",
+            "Official transcripts from all undergraduate and graduate institutions attended.",
+            "Letters of recommendation (at least two).",
+            "Statement of purpose outlining research interests and career goals.",
+            "Resume or Curriculum Vitae (CV).",
+            "GRE scores (optional, but recommended)."
+          ],
+          "application_deadline": "January 15th"
+        },
+        "Bachelor of Arts in English Literature": {
+          "eligibility_criteria": [
+            "High school diploma or equivalent.",
+            "Minimum GPA of 2.5 on a 4.0 scale.",
+            "Completion of a college-preparatory curriculum."
+          ],
+          "required_documents": [
+            "Completed online application form.",
+            "Official high school transcripts.",
+            "SAT or ACT scores (if applicable).",
+            "Essay or personal statement.",
+            "Letters of recommendation (at least one)."
+          ],
+          "application_deadline": "April 1st"
+        },
+        "Doctor of Philosophy in Biology": {
+          "eligibility_criteria": [
+            "Master's degree in Biology or a closely related field.",
+            "Minimum GPA of 3.5 on a 4.0 scale.",
+            "Prior research experience is highly desirable.",
+            "Demonstrated aptitude for scientific research."
+          ],
+          "required_documents": [
+            "Completed online application form.",
+            "Official transcripts from all previous degrees.",
+            "Letters of recommendation (at least three, with at least two from faculty who can speak to research ability).",
+            "Research statement detailing past research projects and future research interests.",
+            "Curriculum Vitae (CV).",
+            "GRE General Test scores.",
+            "GRE Subject Test in Biology (recommended)."
+          ],
+          "application_deadline": "December 1st"
+        }
+      }
+    },
+    "general_info": {
+      "summary": "The provided text lists various campuses and entities within the Amity Universe, including Amity Universities in Noida, Lucknow, Jaipur, Gurgaon, Gwalior, Mumbai, Raipur, Kolkata, Ranchi, Patna, Dubai, and London, along with specific locations in Gurgaon and Vasundhara. It also mentions Amity University Online, Amity University Press, Amity Institute for Competitive Leadership, and Amity Indian Military College. Additionally, it highlights approved courses in Computer Science/IT, Psychology & Behavioural Science, Data Sciences & Business Analytics, Political Science, and Sociology, noting approval and recognition by RCI.",
+      "raw_content": "• Amity Universe\nAmity University Noida\nAmity University Lucknow\nAmity University Jaipur\nAmity University Gurgaon\nAmity University Gwalior\nAmity University Mumbai\nAmity University Raipur\nAmity University Kolkata\nAmity University Ranchi\nAmity University Patna\nAmity University Dubai\nAmity University [IN] London\nSector 46, Gurgaon\nSector 6, Vasundhara\nSector 1, Vasundhara\nAmity University Online\nAmity University Press\nof Management & Allied Areas(ADMAA)\nAmity Institute for Competitive\nAmity Indian Military College\n• Amity University Noida\n• Amity University Lucknow\n• Amity University Jaipur\n• Amity University Gurgaon\n• Amity University Gwalior\n• Amity University Mumbai\n• Amity University Raipur\n• Amity University Kolkata\n• Amity University Ranchi\n• Amity University Patna\n• Amity University Dubai\n• Amity University [IN] London\n• Sector 46, Gurgaon\n• Sector 6, Vasundhara\n• Sector 1, Vasundhara\n• Amity University Online\n• Amity University Press\n• Amity Institute for Competitive\n• Amity Indian Military College\nLeadership\nRecruiters\nApproved & Recognized by RCI\nRegular Courses\nComputer Science/ IT\nPsychology & Behavioural Science\nData Sciences & Business Analytics\nPolitical Science\nSociology\n• Approved & Recognized by RCI\n• Computer Science/ IT\n• Psychology & Behavioural Science\n• Data Sciences & Business Analytics\n• Political Science\n• Sociology\n2018 - All Rights Reserved.\nWebsite Designed and Developed by\nSource: https://amity.edu/greaternoida/programe-list.aspx?campusname=i0wORz2k/1m/WxAGsmG4JKkKfd94D9FN&Programs=Graduate"
+    }
+  }
+}

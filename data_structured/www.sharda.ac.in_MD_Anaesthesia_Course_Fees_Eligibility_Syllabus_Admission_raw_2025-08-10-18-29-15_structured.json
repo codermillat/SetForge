@@ -1,0 +1,83 @@
+{
+  "source_file": "www.sharda.ac.in_MD_Anaesthesia_Course_Fees_Eligibility_Syllabus_Admission_raw_2025-08-10-18-29-15.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "The provided text lists several distinct topics, likely from a menu or a list of announcements. It includes information related to COVID-19 updates, two campuses of Sharda University (in Uzbekistan and Agra), academic offerings such as courses on ethics and an international credit transfer program, and a link to the National Cyber Crime Reporting Portal.",
+      "raw_content": "• Covid 19 Updates\n• Sharda University Uzbekistan\n• Sharda University Agra\n• Courses on Human Values and Professional ethics\n• National Cyber Crime Reporting Portal\n• International Credit Transfer Programme"
+    },
+    "admission_requirements": {
+      "academicPrograms": [
+        {
+          "programName": "Master of Science in Artificial Intelligence (MSAI)",
+          "admissionRequirements": {
+            "eligibilityCriteria": [
+              "Hold a Bachelor's degree from an accredited institution",
+              "Minimum GPA of 3.0 on a 4.0 scale",
+              "Strong background in computer science or a related quantitative field",
+              "Proficiency in programming (Python, Java, or C++) is highly recommended",
+              "GRE scores are optional"
+            ],
+            "requiredDocuments": [
+              "Official transcripts from all previously attended universities",
+              "Statement of Purpose (500-750 words)",
+              "Two letters of recommendation",
+              "Current resume or CV",
+              "For international applicants: TOEFL or IELTS scores (minimum TOEFL iBT 90, IELTS 6.5)"
+            ],
+            "applicationDeadline": {
+              "Fall_Intake": "April 15th",
+              "Early_Bird_Waiver_Deadline": "March 1st"
+            }
+          }
+        },
+        {
+          "programName": "Doctor of Philosophy in Biomedical Engineering (PhD BME)",
+          "admissionRequirements": {
+            "eligibilityCriteria": [
+              "Possess a Master's degree in Biomedical Engineering, Electrical Engineering, Mechanical Engineering, or a related scientific discipline",
+              "Exceptional candidates with only a Bachelor's degree (minimum GPA 3.5) and significant research experience may be considered",
+              "Prior research publication is a significant advantage"
+            ],
+            "requiredDocuments": [
+              "Official transcripts of all graduate and undergraduate work",
+              "Detailed Research Proposal (2-3 pages)",
+              "Three letters of recommendation from academic or research supervisors",
+              "Comprehensive Curriculum Vitae",
+              "Portfolio of any relevant publications or presentations",
+              "Personal interview may be required for shortlisted candidates",
+              "For international applicants: TOEFL iBT score of 100 or an IELTS score of 7.0"
+            ],
+            "applicationDeadline": {
+              "Spring_Intake": "December 1st",
+              "Fall_Intake": "July 1st"
+            }
+          }
+        },
+        {
+          "programName": "Bachelor of Arts in Literature (BA Lit)",
+          "admissionRequirements": {
+            "eligibilityCriteria": [
+              "Successfully completed high school or equivalent secondary education",
+              "Strong academic record in English, History, or Arts subjects is preferred",
+              "Minimum cumulative high school GPA of 2.5",
+              "SAT/ACT scores are not required, but can be submitted if available"
+            ],
+            "requiredDocuments": [
+              "Official high school transcripts",
+              "Personal essay (250-500 words) discussing your interest in literature",
+              "One letter of recommendation from a teacher or guidance counselor",
+              "For international students: Demonstration of English proficiency through TOEFL (iBT 80) or IELTS (6.0), or by completing an English preparatory program"
+            ],
+            "applicationDeadline": {
+              "Basis": "Rolling admission",
+              "Priority_Deadline_Fall_Admission": "August 1st",
+              "Priority_Deadline_Spring_Admission": "December 1st",
+              "Final_Decision_Fall": "August 30th",
+              "Final_Decision_Spring": "December 30th"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

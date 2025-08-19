@@ -1,0 +1,32 @@
+{
+  "source_file": "www.sharda.ac.in_Best_College_for_BBA_BBA_Entrance_Exam_-_Sharda_University_raw_2025-08-10-18-29-18.txt",
+  "structured_data": {
+    "admission_requirements": {
+      "academic_programs": [
+        {
+          "program_name": "Example Program Name (e.g., Master of Science in Data Science)",
+          "admission_requirements": {
+            "eligibility_criteria": [
+              "Criterion 1 (e.g., Bachelor's degree in a quantitative field)",
+              "Criterion 2 (e.g., Minimum GPA of 3.0 on a 4.0 scale)"
+            ],
+            "required_documents": [
+              "Document 1 (e.g., Official Transcripts)",
+              "Document 2 (e.g., Two Letters of Recommendation)",
+              "Document 3 (e.g., Statement of Purpose)"
+            ],
+            "application_deadline": "YYYY-MM-DD"
+          }
+        }
+      ]
+    },
+    "recruiter_info": {
+      "summary": "The provided text consists of a highly repetitive list of phrases, primarily \"Global Knowledge Seekers\" and variations of \"Our Recruiters\" or \"Recruiters\", each repeated multiple times, often prefixed with a bullet point. The content lacks additional context or unique information beyond these repeated terms.",
+      "raw_content": "Global Knowledge Seekers\n• Global Knowledge Seekers\nOur Recruiters\n• Our Recruiters\nRecruiters\n• Recruiters"
+    },
+    "general_info": {
+      "summary": "The provided text appears to be a list or directory of various services, initiatives, and informational categories, predominantly associated with an institution named \"Sharda.\" It covers a wide range of topics including banking and postal services, leadership, history, statutory bodies, tenders, legal frameworks (Acts, Statutes, Ordinances), COVID-19 information, counselling services (Family & Couple, Career), capacity building, language and soft skill development, technology awareness, entrepreneurship and innovation, an FM radio station (\"Suno Sharda\"), observership programs, a mentoring portal (\"Paramarsh\"), and updates related to Sharda University's international campuses (Uzbekistan, Agra), human values courses, and international credit transfer programs.",
+      "raw_content": "Banking And Postal Services\n• Banking And Postal Services\nPerspective Plan\nLeadership\nHistory\nStatutory Bodies of the University\nSharda Tenders\nAct, Statutes and Ordinances\nCOVID19\nFamily & Couple Counselling Services(FCCS)\nCapacity Development & Skill Enhancement\nLanguage and Communication Skill Initiatives: Sharda Skills\nSoft Skill Initiatives : Career Counseling and Development Center\nAwareness of Trends in Technology : IIC\nEntrepreneurship\nInnovation and Entrepreneurship\n• Get to know sharda\n• Perspective Plan\n• Leadership\n• History\n• Statutory Bodies of the University\n• Sharda Tenders\n• Act, Statutes and Ordinances\n• COVID19\n• Family & Couple Counselling Services(FCCS)\n• Capacity Development & Skill Enhancement\n• Language and Communication Skill Initiatives: Sharda Skills\n• Soft Skill Initiatives : Career Counseling and Development Center\n• Awareness of Trends in Technology : IIC\n• Entrepreneurship\n• Innovation and Entrepreneurship\nFM Radio: Suno Sharda-90.8FM\n• FM Radio: Suno Sharda-90.8FM\nObservership Programmes\nParamarsh- Our Mentoring Portal\n• Paramarsh- Our Mentoring Portal\n• Covid 19 Updates\n• Sharda University Uzbekistan\n• Sharda University Agra\n• Courses on Human Values and Professional ethics\n• National Cyber Crime Reporting Portal\n• International Credit Transfer Programme"
+    }
+  }
+}

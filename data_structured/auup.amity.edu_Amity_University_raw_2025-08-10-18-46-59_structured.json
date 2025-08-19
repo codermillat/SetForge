@@ -1,0 +1,13 @@
+{
+  "source_file": "auup.amity.edu_Amity_University_raw_2025-08-10-18-46-59.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This text appears to be a partial organizational or event listing, mentioning sections for \"Recruiters\" and \"Sponsorships and Awards,\" along with a specific reference to a \"360° VIEW Amity Radio Live\" feature or event.",
+      "raw_content": "Recruiters\nSponsorships and Awards\nRecruiters Section\n• Recruiters Section\n360° VIEW Amity Radio Live"
+    },
+    "admission_requirements": {
+      "summary": "This text appears to be the title of a committee responsible for managing admissions based on sports quotas within a university setting.",
+      "raw_content": "University Sports Quota Admission Committee"
+    }
+  }
+}

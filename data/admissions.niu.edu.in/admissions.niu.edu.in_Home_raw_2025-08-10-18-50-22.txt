@@ -1,0 +1,24 @@
+For your security, we need to verify your identity. we have sent an OTP on registered email id and mobile number. Please enter the OTP below and proceed for password change.
+• Noida International University Query Management System:Applicants are strongly advised to use the Query Management System (NIU-QMS), rather than an email, to get a quick response.
+Register and verify your email IDClick on [Any Queries? Ask US] in your dashboardSelect the query category and submit your query
+• Register and verify your email ID
+• Click on [Any Queries? Ask US] in your dashboard
+• Select the query category and submit your query
+Fill Application Form Online
+Please check your inbox we have sent you a link,Click on it to reset your password
+Do you want to copy the form Form-name.
+You have filtered Paid Applicants
+Resubmission Logic added successfully !
+This will result in :
+• Re-assignment of any upcoming follow-ups.
+Are you sure you want to proceed?
+Download As CSV Excel
+This Lead/Applicant is unsubscribed from your mailing list hence not receiving any Emails that you send. Do you want to Re-Subscribe this Lead/Applicant?
+You are about to swap to . Are you sure you want to proceed?
+You are about to swap to .Are you sure you want to proceed?
+All the Below mentioned data points will be along with the {{module}}.
+Note: These Data Points will also be from the Publisher Panel.
+Please note that the data once deleted is not recoverable.
+Please Note : These records once archived will only be accessible in your archival directory.
+
+Source: https://admissions.niu.edu.in/?_gl=1*1kdgkjg*_gcl_au*MTE2ODc1NDgyLjE3NTQ3NjQ2NjE.*_ga*ODY0ODk3MTk2LjE3NTQ3NjQ2NjA.*_ga_4XRL39YV04*czE3NTQ4MjcxODckbzYkZzEkdDE3NTQ4MjkwNTEkajU4JGwwJGgw&_ga=2.61514476.1901837692.1754764660-864897196.1754764660

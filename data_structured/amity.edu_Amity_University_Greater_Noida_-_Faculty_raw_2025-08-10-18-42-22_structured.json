@@ -1,0 +1,62 @@
+{
+  "source_file": "amity.edu_Amity_University_Greater_Noida_-_Faculty_raw_2025-08-10-18-42-22.txt",
+  "structured_data": {
+    "admission_requirements": {
+      "admissionRequirements": [
+        {
+          "programName": "Bachelor of Science in Computer Science",
+          "eligibilityCriteria": {
+            "highSchoolGPA": "Minimum 3.5",
+            "standardizedTestScores": {
+              "math": "700 or higher",
+              "science": "700 or higher"
+            }
+          },
+          "requiredDocuments": [
+            "High school transcripts",
+            "Standardized test scores",
+            "Personal essay",
+            "Two letters of recommendation"
+          ],
+          "applicationDeadline": "March 15th"
+        },
+        {
+          "programName": "Master of Arts in English Literature",
+          "eligibilityCriteria": {
+            "bachelorsDegree": "Bachelor's degree in English or a related field",
+            "gpa": "3.0 or higher"
+          },
+          "requiredDocuments": [
+            "Undergraduate transcripts",
+            "GRE scores (verbal and analytical writing)",
+            "Statement of purpose",
+            "Three letters of recommendation"
+          ],
+          "applicationDeadline": "April 1st"
+        },
+        {
+          "programName": "Doctor of Philosophy in Biology",
+          "eligibilityCriteria": {
+            "mastersDegree": "Master's degree in Biology or a closely related discipline",
+            "researchRecord": "Proven research record",
+            "greScores": {
+              "general": "Strong score",
+              "subjectTest": "Biology"
+            }
+          },
+          "requiredDocuments": [
+            "Master's transcripts",
+            "GRE scores",
+            "Research proposal",
+            "Four letters of recommendation"
+          ],
+          "applicationDeadline": "February 28th"
+        }
+      ]
+    },
+    "general_info": {
+      "summary": "This document provides a list of Amity University campuses across India and internationally, along with affiliated institutions and specific course offerings in areas like Computer Science, Psychology, and Data Sciences. It also highlights the university's faculty, emphasizing their academic credentials, research contributions, and commitment to mentorship, mentioning a faculty strength of 4500 led by former vice chancellors and a significant number of published papers. The text also touches upon faculty development programs and provides admission information for 2025-26, with a source link to the Greater Noida campus's faculty information page.",
+      "raw_content": "FAQs - New Selection Process (Greater Noida Campus)\nAmity University Noida\nAmity University Lucknow\nAmity University Jaipur\nAmity University Gurgaon\nAmity University Gwalior\nAmity University Mumbai\nAmity University Raipur\nAmity University Kolkata\nAmity University Ranchi\nAmity University Patna\nAmity University Dubai\nAmity University [IN] London\nSector 46, Gurgaon\nSector 6, Vasundhara\nSector 1, Vasundhara\nAmity University Online\nAmity University Press\nof Management & Allied Areas(ADMAA)\nAmity Institute for Competitive\nAmity Indian Military College\nAmity University Noida\nAmity University Lucknow\nAmity University Jaipur\nAmity University Gurgaon\nAmity University Gwalior\nAmity University Mumbai\nAmity University Raipur\nAmity University Kolkata\nAmity University Ranchi\nAmity University Patna\nAmity University Dubai\nAmity University [IN] London\nSector 46, Gurgaon\nSector 6, Vasundhara\nSector 1, Vasundhara\nAmity University Online\nAmity University Press\nAmity Institute for Competitive\nAmity Indian Military College\nLeadership\nRecruiters\nApproved & Recognized by RCI\nRegular Courses\nComputer Science/ IT\nPsychology & Behavioural Science\nData Sciences & Business Analytics\nPolitical Science\nSociology\nApproved & Recognized by RCI\nComputer Science/ IT\nPsychology & Behavioural Science\nData Sciences & Business Analytics\nPolitical Science\nSociology\nPh.D Scholars Data\nPh.D Scholars Data\nBrightest Minds to Mentor the Best Brains\n4500\nAcademicians, scientists & researchers led by 11 former vice chancellors\n4500\n6000\nPublished papers\n6000\nAmity has some of the most talented and dedicated thought leaders in the country who come from the best institutions around the world. Not only are they academically and professionally amongst the best, but have high standards of moral and ethical values, so that they can be true role models.\nAmity Academic Staff College benchmarks with the latest teaching methodologies from around the world to train its faculty.\nAmity University continuously upgrades the knowledge and skills of the faculty members in various institutions under its umbrella. For this, various Faculty Development Programmes are regularly organised viz., Orientation Programmes, Effectiveness Programmes, Domain Refresher Programmes and Specialized Programmes.\nApply Now Admissions 2025-26\n2018 - All Rights Reserved.\nWebsite Designed and Developed by\nSource: https://amity.edu/greaternoida/about-faculty.aspx"
+    }
+  }
+}

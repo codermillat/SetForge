@@ -1,0 +1,21 @@
+{
+  "type": "object",
+  "properties": {
+    "school_of_allied_health_sciences": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          }
+        },
+        "required": ["title", "description"]
+      }
+    }
+  },
+  "required": ["school_of_allied_health_sciences"]
+}

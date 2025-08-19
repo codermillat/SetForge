@@ -1,0 +1,146 @@
+• About UsAbout UsPreviousAbout MEAProfilesOrganization StructureInternship with UsDisclosure of Gifts received in ToshakhanaImmovable Property Returns of IFS Officers
+• Disclosure of Gifts received in Toshakhana
+• Immovable Property Returns of IFS Officers
+• VisitsVisitsPreviousOutgoing VisitsOutgoing VisitsPreviousPresident VisitsVice President VisitsPrime Minister VisitsEAM VisitsVisit of All Party Delegations (OPERATION SINDOOR)sub linksIncoming VisitsVirtual Meetings
+• Visit of All Party Delegations (OPERATION SINDOOR)
+• Media CenterMedia CenterPreviousSpokesperson's OfficeSpokesperson's OfficePreviousPersonnelFacilitation of Foreign MediaMedia AccreditationDocumentary Filming in IndiaMEA Media Campaignssub linksSpeeches & StatementsPress ReleasesBilateral/Multilateral DocumentsResponse to Media QueriesMedia BriefingsPhoto GalleryVideo BriefingsMedia AdvisoryInterviewsParliament Q & AParliament Q & APreviousLok SabhaRajya Sabhasub linksIndian Treaties DatabasePublicationsPublicationsPreviousIndia in BusinessAnnual ReportsAnnual ReportsPreviousMEAOther Officessub linksOther PublicationsOIA PublicationsBharat Matterssub linksOther DocumentsOther DocumentsPreviousArchivesNAI Archivessub links
+• Personnel
+• Facilitation of Foreign Media
+• Documentary Filming in India
+• Response to Media Queries
+• Bharat Matters
+• Foreign PolicyForeign PolicyPreviousBilateral RelationsMultilateral RelationsMultilateral RelationsPreviousDevelopment PartnershipsVoice of Global South SummitIndia and the United NationsDisarmament and International Security AffairsIndian Treaties DatabaseISA Founding ConferenceIndia’s G20 Presidencysub linksBriefs on Foreign Relations
+• Development Partnerships
+• Voice of Global South Summit
+• India and the United Nations
+• Disarmament and International Security Affairs
+• India’s G20 Presidency
+• Briefs on Foreign Relations
+• Consular ServicesConsular ServicesPreviousConsular ServicesConsular ServicesPreviousGuide to Consular ServicesAttestation/ApostilleBachelorhood / Single Status CertificateNORIConsular AccessTransfer of Sentenced PersonsMutual Legal Assistance Treaty (MLAT)sub linksPassport ServicesVisa ServicesVisa ServicesPreviousOnline Indian VisaDiplomatic / Official VisaVerify Foreign Visa / Permit / CDCsVisa Facility for Indian Nationals (Ordinary Passports)Visa Exemption / Waiver AgreementsVisa Facilitation AgreementsVisa Services Provided By FRROsOutsourced CPV Servicessub linksDiaspora and migration issuesDiaspora and migration issuesPreviousDialogues & AgreementsDialogues & AgreementsPreviousMultilateral Co-operationModel ContractsNotificationSocial Security AgreementsLabour Mobility Partnership (LMPA)Memorandum of Understanding (MOUs)sub linksAutonomous BodiesAutonomous BodiesPreviousCentre for Migration, Mobility and Diaspora Studies, ICWAsub linksContactArchivesPopulation of Overseas Indianssub linksFAQs
+• Guide to Consular Services
+• Bachelorhood / Single Status Certificate
+• Transfer of Sentenced Persons
+• Mutual Legal Assistance Treaty (MLAT)
+• Diplomatic / Official Visa
+• Verify Foreign Visa / Permit / CDCs
+• Visa Facility for Indian Nationals (Ordinary Passports)
+• Visa Exemption / Waiver Agreements
+• Visa Services Provided By FRROs
+• Labour Mobility Partnership (LMPA)
+• Memorandum of Understanding (MOUs)
+• Centre for Migration, Mobility and Diaspora Studies, ICWA
+• Population of Overseas Indians
+• Public DiplomacyPublic DiplomacyPreviousDistinguished LecturesDocumentariesIndia PerspectivesBharat Ek Parichay
+• India Perspectives
+• Useful LinksUseful LinksPreviousOther MEA PortalsOther MEA PortalsPreviouseVisa HelpdeskPassport SevaMadad HelplineConference Clearance SystemPravasi Bharatiya DiwasProtocol DivisionITECIndia in BusinessHindi at United NationsICCRMEA Librarysub linksGOI websitesGOI websitesPreviousThe President of IndiaVice President of IndiaPrime Minister of IndiaIndian ParliamentPress Information BureauDirectory (State & UT)India Investment GridUtsav PortalPrime Minister's National Relief FundPublic GrievancesSurvey of Indiasub linksForeign PolicyForeign PolicyPreviousI2U2Mekong- Ganga CooperationIORAsub linksDocuments/ DownloadsDocuments/ DownloadsPreviousSubordinate legislation & rules, MEAEmergency No. Missions/Post24/7 Helpline In Gulf countries & MalaysiaBooklet: Making it easy to travelInformation regarding Apostille/AttestationNGOs and LAW firms to assist distressed NRIsGlossary (MEA)sub linksHelplineHelplinePreviousHelpline for Women in DistressSHE-Box Portalsub links
+• Hindi at United Nations
+• The President of India
+• Vice President of India
+• Prime Minister of India
+• Directory (State & UT)
+• Prime Minister's National Relief Fund
+• Subordinate legislation & rules, MEA
+• 24/7 Helpline In Gulf countries & Malaysia
+• Booklet: Making it easy to travel
+• NGOs and LAW firms to assist distressed NRIs
+• Helpline for Women in Distress
+• CareersCareersPreviousInternshipVacancies
+• Feedback
+• Skip to main content
+let previousValue = $("#ContentPlaceHolder1_UserLanguageDropdown1_ddlLanguage").val(); // Store initial value
+$("#ContentPlaceHolder1_UserLanguageDropdown1_ddlLanguage").change(function (event) {
+var newValue = $(this).val();
+if (confirm("You are about to proceed to translating language. Click YES to proceed.")) {
+// Proceed with forwarding request
+previousValue = newValue; // Update previous value
+var selectedValue = $(this).val();
+if (selectedValue !== "#") {
+//var queryParams = window.location.search.substring(1).split("&");
+var queryParams = window.location.search.substring(1);
+var queryParts = getCustomQueryParts();
+var params = queryParams.split("&");
+url: '/LanguageChangeMethod.aspx/ChangeLang', // Actual ASPX page name
+//data: JSON.stringify({ languageValue: selectedValue, queryParams: queryParams }),
+data: JSON.stringify({ selectedValue: selectedValue, queryStrings: queryParts }),
+contentType: "application/json; charset=utf-8",
+success: function (response) {
+error: function (xhr, status, error) {
+console.error("Error changing language:", error);
+// Revert to previous selection
+const rawQuery = window.location.search.substring(1); // removes '?'
+return rawQuery ? rawQuery.split('/') : [];
+java script is required for this page
+Ministry of External Affairs Government of India
+• About UsAbout MEAProfilesOrganization StructureInternship with UsDisclosure of Gifts received in ToshakhanaImmovable Property Returns of IFS Officers
+• VisitsOutgoing VisitsPresident VisitsVice President VisitsPrime Minister VisitsEAM VisitsVisit of All Party Delegations (OPERATION SINDOOR)sub linksIncoming VisitsVirtual Meetings
+• Media CenterSpokesperson's OfficePersonnelFacilitation of Foreign MediaMedia AccreditationDocumentary Filming in IndiaMEA Media Campaignssub linksSpeeches & StatementsPress ReleasesBilateral/Multilateral DocumentsResponse to Media QueriesMedia BriefingsPhoto GalleryVideo BriefingsMedia AdvisoryInterviewsParliament Q & ALok SabhaRajya Sabhasub linksIndian Treaties DatabasePublicationsIndia in BusinessAnnual ReportsMEAOther Officessub linksOther PublicationsOIA PublicationsBharat Matterssub linksOther DocumentsArchivesNAI Archivessub links
+• Foreign PolicyBilateral RelationsMultilateral RelationsDevelopment PartnershipsVoice of Global South SummitIndia and the United NationsDisarmament and International Security AffairsIndian Treaties DatabaseISA Founding ConferenceIndia’s G20 Presidencysub linksBriefs on Foreign Relations
+• Consular ServicesConsular ServicesGuide to Consular ServicesAttestation/ApostilleBachelorhood / Single Status CertificateNORIConsular AccessTransfer of Sentenced PersonsMutual Legal Assistance Treaty (MLAT)sub linksPassport ServicesVisa ServicesOnline Indian VisaDiplomatic / Official VisaVerify Foreign Visa / Permit / CDCsVisa Facility for Indian Nationals (Ordinary Passports)Visa Exemption / Waiver AgreementsVisa Facilitation AgreementsVisa Services Provided By FRROsOutsourced CPV Servicessub linksDiaspora and migration issuesDialogues & AgreementsMultilateral Co-operationModel ContractsNotificationSocial Security AgreementsLabour Mobility Partnership (LMPA)Memorandum of Understanding (MOUs)sub linksAutonomous BodiesCentre for Migration, Mobility and Diaspora Studies, ICWAsub linksContactArchivesPopulation of Overseas Indianssub linksFAQs
+• Public DiplomacyDistinguished LecturesDocumentariesIndia PerspectivesBharat Ek Parichay
+• Useful LinksOther MEA PortalseVisa HelpdeskPassport SevaMadad HelplineConference Clearance SystemPravasi Bharatiya DiwasProtocol DivisionITECIndia in BusinessHindi at United NationsICCRMEA Librarysub linksGOI websitesThe President of IndiaVice President of IndiaPrime Minister of IndiaIndian ParliamentPress Information BureauDirectory (State & UT)India Investment GridUtsav PortalPrime Minister's National Relief FundPublic GrievancesSurvey of Indiasub linksForeign PolicyI2U2Mekong- Ganga CooperationIORAsub linksDocuments/ DownloadsSubordinate legislation & rules, MEAEmergency No. Missions/Post24/7 Helpline In Gulf countries & MalaysiaBooklet: Making it easy to travelInformation regarding Apostille/AttestationNGOs and LAW firms to assist distressed NRIsGlossary (MEA)sub linksHelplineHelpline for Women in DistressSHE-Box Portalsub links
+• CareersInternshipVacancies
+Checklist for FRRO Registration Formalities
+• About UsOfficers and Work DistributionOrganogram
+• Officers and Work Distribution
+• ConsularGuide to Consular ServicesMADADAttestationNORIConsular AccessBachelorhood/Single Status Certificate
+• VisaDiplomatic/Official VisaIndian Visa OnlineE-VisaVerify Foreign Visa/Permit/CDCsVisa Waiver AgreementsVisa Facilitation AgreementsVisa noteVisa facility for Indian Nationals
+• Visa facility for Indian Nationals
+• Visa Services by FRROs/FROsVisa Related Services Provided by FRROs/FROsChecklist for FRRO/FRO Registration Formalities
+• Visa Related Services Provided by FRROs/FROs
+• Checklist for FRRO/FRO Registration Formalities
+• Transfer of Sentenced PersonsList of countries with which India has an Agreement on transfer of sentenced persons.
+• List of countries with which India has an Agreement on transfer of sentenced persons.
+• PQs & RTIsLok SabhaRajya Sabha RTIs
+• Acts/Rules/CircularsMEA related Acts, Legislations & RulesMHA related Acts & rulesPassport related notifications
+• MEA related Acts, Legislations & Rules
+• MHA related Acts & rules
+• Travel Advisory during Covid-19
+Checklist for FRRO/FRO Registration Formalities
+• Registration is essential for all foreigners having visas for a period exceeding 6 months except the exempted categories and should be done within 14 days of first arrival at the nearest office of the Foreigners Registration Officer, list of documents that
+are required at the time of registration is given below:
+Original passport on which visa is endorsedPhotocopy of the passport and initial visaFour photographs of the applicant.Details of residence in IndiaHIV test report from one of the WHO recognized Institutions from people in the age group 15 to 60 years, if the foreigner is visiting India on a visa for more than one year.Copy of the marriage certificate in case of those seeking extension of stay on grounds of being spouse of an Indian national.Bonafide certificate from the University/College/Institution in case of student visa.Accreditation certificate from Press Information Bureau in case of journalist visa.Approval of the Department of Company Affairs in case of Board level appointments in Public Limited Companies.Copy of the approval from Government of India in case of a joint venture or collaboration (in duplicate)Copy of permission from the RBI in case of contract or agreement, in case of Employment visa.Undertaking from the concerned Indian company on the following lines in case of Employment/Business visas:
+FORMAT OF UNDERTAKING:
+We take full responsibility for the activities and conduct of Mr/Mrs/Ms __________ national of _________ during his/her stay in India. If anything adverse comes to notice during this period, we undertake to repatriate him/her at our cost. Date/Seal __________
+Signature of competent authority.
+• Original passport on which visa is endorsed
+• Photocopy of the passport and initial visa
+• Four photographs of the applicant.
+• Details of residence in India
+• HIV test report from one of the WHO recognized Institutions from people in the age group 15 to 60 years, if the foreigner is visiting India on a visa for more than one year.
+• Copy of the marriage certificate in case of those seeking extension of stay on grounds of being spouse of an Indian national.
+• Bonafide certificate from the University/College/Institution in case of student visa.
+• Accreditation certificate from Press Information Bureau in case of journalist visa.
+• Approval of the Department of Company Affairs in case of Board level appointments in Public Limited Companies.
+• Copy of the approval from Government of India in case of a joint venture or collaboration (in duplicate)
+• Copy of permission from the RBI in case of contract or agreement, in case of Employment visa.
+• Undertaking from the concerned Indian company on the following lines in case of Employment/Business visas:
+• Addresses of Registration Offices:
+FRRO, Hans Bhavan, Bahadur Shah Zafar Marg, New Delhi. Tel: 0091-11-319 489FRRO, 237, AJC Bose Road, Calcutta, Tel: 0091-33-247 0549FRRO, Tata Press Building, 414, S.V. Marg, Mumbai. Tel: 0091-22-621 169CHIO, 26, Haddows Road, Chennai, Tel: 0091-44-827 7036At other places, The Superintendent of Police of the Districts are Foreigners Registration Officers
+• FRRO, Hans Bhavan, Bahadur Shah Zafar Marg, New Delhi. Tel: 0091-11-319 489
+• FRRO, 237, AJC Bose Road, Calcutta, Tel: 0091-33-247 0549
+• FRRO, Tata Press Building, 414, S.V. Marg, Mumbai. Tel: 0091-22-621 169
+• CHIO, 26, Haddows Road, Chennai, Tel: 0091-44-827 7036
+• At other places, The Superintendent of Police of the Districts are Foreigners Registration Officers
+• Certificates of registration will be issued by the registration officers.
+The foreigners should surrender their certificates of registration to the Registration Officer of the place where they are registered or at the place from where they intend to depart or to the Immigration Office at the post/check post of exit from India. If
+the certificates are surrendered to someone other than the Immigration officer at the post/check post of exit, then the foreigners should produce the receipt indicating such surrender to the Immigration officer at the post/check posts of exit.
+• Registration is required to be done only once during the validity of a visa irrespective of the number of times the foreigner leaves/re-enters India on a multi-entry facility.
+• Following categories of foreigners are exempted from registration:
+US nationals holding ten-year Tourist/Business Visas provided their continuous stay during each visit does not exceed six months.Foreigners of Indian origin holding five-year multiple entry X visa with an endorsement that "stay should not exceed six months during each visit”.Foreigners holding five-year Tourist Visas, who are actively engaged in tourist/travel trade, desirous of visiting India frequently over extended periods for promotion of tourism, etc., provided that their visa contains an endorsement that "continuous stay
+should not exceed six months”.Foreigners below the age of 16 years.
+• US nationals holding ten-year Tourist/Business Visas provided their continuous stay during each visit does not exceed six months.
+• Foreigners of Indian origin holding five-year multiple entry X visa with an endorsement that "stay should not exceed six months during each visit”.
+• Foreigners holding five-year Tourist Visas, who are actively engaged in tourist/travel trade, desirous of visiting India frequently over extended periods for promotion of tourism, etc., provided that their visa contains an endorsement that "continuous stay
+should not exceed six months”.
+• Foreigners below the age of 16 years.
+• Foreigners can visit restricted/prohibited areas only after getting a valid permit as visa alone is not enough to visit such places.
+• Foreigners coming from or through yellow fever countries must come with valid vaccination certificate.
+• On arrival/departure, foreigners should fill up Disembarkation/Embarkation forms.
+• Acts/Rules/Circulars
+• Tenders
+Website content managed by XPD Division, Ministry of External Affairs; Designed & developed by M/s Silver Touch Technologies Limited; Hosted by National Informatics Centre.
+Visitors: 224104753
+Page last updated on: 22/10/2024
+Working hours at Headquarters 9:00 A.M. To 5:30 P.M.
+
+Source: https://www.mea.gov.in/checklist-for-FRRO-FRO-Registration-Formalities-menu.htm

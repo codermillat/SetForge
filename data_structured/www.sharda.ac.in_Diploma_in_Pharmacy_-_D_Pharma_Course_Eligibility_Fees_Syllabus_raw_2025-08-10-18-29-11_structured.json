@@ -1,0 +1,69 @@
+{
+  "source_file": "www.sharda.ac.in_Diploma_in_Pharmacy_-_D_Pharma_Course_Eligibility_Fees_Syllabus_raw_2025-08-10-18-29-11.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This document outlines various academic programs, administrative functions, and student support services offered by Sharda University for the 2025-26 academic year. It lists different schools, examination reports, financial information such as scholarships and fee structures, and career development resources. Additionally, it includes operational aspects like banking services, university policies, and health and well-being initiatives, alongside specific program details for the School of Pharmacy and other university-wide offerings.",
+      "raw_content": "• Programme 2025-26\n• School of Dental Sciences\nSchool of Medical Sciences & Research\nSharda School of Nursing Science & Research\n• School of Medical Sciences & Research\n• Sharda School of Nursing Science & Research\nExamination Annual Report\nAcademic Bank of Credits (ABC)\nCurricula Feedback\nUniversity Brochure\n• Examination Annual Report\n• Academic Bank of Credits (ABC)\n• Curricula Feedback\n• University Brochure\nScholarship\nInnovative Idea Scholarship\n• Scholarship\n• Innovative Idea Scholarship\n• Fee Structure for Previous Year Students\nSUAT 2025\nSample Papers\n• Sample Papers\nGlobal Knowledge Seekers\n• Global Knowledge Seekers\nOur Recruiters\n• Our Recruiters\nBanking And Postal Services\n• Banking And Postal Services\nPerspective Plan\nLeadership\nHistory\nStatutory Bodies of the University\nSharda Tenders\nAct, Statutes and Ordinances\nCOVID19\nFamily & Couple Counselling Services(FCCS)\nCapacity Development & Skill Enhancement\nLanguage and Communication Skill Initiatives: Sharda Skills\nSoft Skill Initiatives : Career Counseling and Development Center\nAwareness of Trends in Technology : IIC\nEntrepreneurship\nInnovation and Entrepreneurship\n• Get to know sharda\n• Perspective Plan\n• Leadership\n• History\n• Statutory Bodies of the University\n• Sharda Tenders\n• Act, Statutes and Ordinances\n• COVID19\n• Family & Couple Counselling Services(FCCS)\n• Capacity Development & Skill Enhancement\n• Language and Communication Skill Initiatives: Sharda Skills\n• Soft Skill Initiatives : Career Counseling and Development Center\n• Awareness of Trends in Technology : IIC\n• Entrepreneurship\n• Innovation and Entrepreneurship\nFM Radio: Suno Sharda-90.8FM\n• FM Radio: Suno Sharda-90.8FM\nGuidelines for Visa and FRO/FRRO\nGuidelines for Medical Insurance\nObservership Programmes\n• Guidelines for Visa and FRO/FRRO\n• Guidelines for Medical Insurance\n• Observership Programmes\nParamarsh- Our Mentoring Portal\n• Paramarsh- Our Mentoring Portal\nSchool of Pharmacy (SOP)\nSOP0102\n2 Years\nCareer path you can choose after the course\nTake the next step towards a career in pharmacy.\n• Recruiters\n• Covid 19 Updates\n• Sharda University Uzbekistan\n• Sharda University Agra\n• Courses on Human Values and Professional ethics\n• National Cyber Crime Reporting Portal\n• International Credit Transfer Programme"
+    },
+    "admission_requirements": {
+      "admissionRequirements": [
+        {
+          "programName": "Bachelor of Science in Computer Science",
+          "eligibilityCriteria": {
+            "highSchoolDiploma": true,
+            "minimumGPA": 3.0,
+            "prerequisiteCourses": [
+              "Calculus I",
+              "Introduction to Programming"
+            ],
+            "standardizedTests": {
+              "SAT": {
+                "required": true,
+                "minimumScore": 1200
+              },
+              "ACT": {
+                "required": true,
+                "minimumScore": 25
+              }
+            }
+          },
+          "requiredDocuments": [
+            "Official High School Transcript",
+            "SAT/ACT Score Report",
+            "Two Letters of Recommendation",
+            "Personal Essay (500-750 words)",
+            "Application Fee"
+          ],
+          "applicationDeadline": "2024-01-15"
+        },
+        {
+          "programName": "Master of Business Administration (MBA)",
+          "eligibilityCriteria": {
+            "bachelor'sDegree": true,
+            "workExperience": {
+              "required": true,
+              "minimumYears": 2
+            },
+            "gMAT_GRE": {
+              "required": true,
+              "preferredTest": "GMAT"
+            }
+          },
+          "requiredDocuments": [
+            "Official Undergraduate Transcript",
+            "GMAT/GRE Score Report",
+            "Resume",
+            "Two Letters of Recommendation (one professional)",
+            "Statement of Purpose (750-1000 words)",
+            "Application Fee"
+          ],
+          "applicationDeadline": "2024-04-01"
+        }
+      ]
+    },
+    "description": {
+      "summary": "This course is designed for individuals curious about the chemical formulations of drugs used to treat diseases and promote healthy lifestyles. It is also suited for students seeking a fulfilling career in medication development, particularly those with strong research skills who aim to learn techniques for creating safe and effective medications.",
+      "raw_content": "This course is for individuals who...\nAre curious to know about the chemical formulation of drugs that treat various diseases and help in maintaining a healthy lifestyle.\nStudents who are looking for...\nA fulfilling career by learning the techniques to develop safe and effective medication. Students who wish to apply their strong research skills are the best fit for the programme."
+    }
+  }
+}

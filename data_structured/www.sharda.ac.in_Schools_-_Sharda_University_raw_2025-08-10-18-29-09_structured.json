@@ -1,0 +1,67 @@
+{
+  "source_file": "www.sharda.ac.in_Schools_-_Sharda_University_raw_2025-08-10-18-29-09.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "The provided text appears to be a heading or title for an \"International Credit Transfer Programme,\" with the phrase repeated for emphasis.",
+      "raw_content": "International Credit Transfer Programme\n• International Credit Transfer Programme"
+    },
+    "admission_requirements": {
+      "academic_programs": [
+        {
+          "program_name": "Bachelor of Science in Computer Science",
+          "level": "Undergraduate",
+          "eligibility_criteria": "High school diploma with a minimum GPA of 3.5. Must have completed advanced mathematics and science courses.",
+          "required_documents": [
+            "Completed application form",
+            "Official high school transcripts",
+            "Standardized test scores (SAT/ACT)",
+            "Two letters of recommendation",
+            "Personal essay"
+          ],
+          "application_deadline": "March 1st"
+        },
+        {
+          "program_name": "Bachelor of Arts in English Literature",
+          "level": "Undergraduate",
+          "eligibility_criteria": "High school diploma with a minimum GPA of 3.2. Strong written and verbal communication skills.",
+          "required_documents": [
+            "Completed application form",
+            "Official high school transcripts",
+            "SAT/ACT scores (optional)",
+            "One letter of recommendation",
+            "Writing sample"
+          ],
+          "application_deadline": "April 15th"
+        },
+        {
+          "program_name": "Master of Business Administration (MBA)",
+          "level": "Graduate",
+          "eligibility_criteria": "Bachelor's degree from an accredited institution with a minimum GPA of 3.0. At least 2 years of relevant work experience. GMAT/GRE scores required.",
+          "required_documents": [
+            "Completed application form",
+            "Official transcripts from all post-secondary institutions",
+            "GMAT/GRE scores",
+            "Resume",
+            "Two professional letters of recommendation",
+            "Statement of purpose"
+          ],
+          "application_deadline": "February 1st (Fall intake)"
+        },
+        {
+          "program_name": "Master of Science in Data Science",
+          "level": "Graduate",
+          "eligibility_criteria": "Bachelor's degree in a quantitative field (e.g., computer science, statistics, mathematics) with a minimum GPA of 3.3. Prior programming experience is essential.",
+          "required_documents": [
+            "Completed application form",
+            "Official transcripts",
+            "GRE scores (recommended)",
+            "Resume",
+            "Two letters of recommendation (academic preferred)",
+            "Statement of purpose"
+          ],
+          "application_deadline": "March 15th (Fall intake)"
+        }
+      ]
+    }
+  }
+}

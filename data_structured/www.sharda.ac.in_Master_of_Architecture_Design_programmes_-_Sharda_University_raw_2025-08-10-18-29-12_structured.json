@@ -1,0 +1,32 @@
+{
+  "source_file": "www.sharda.ac.in_Master_of_Architecture_Design_programmes_-_Sharda_University_raw_2025-08-10-18-29-12.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This text provides a direct link to the Sharda University admissions page for postgraduate programs in Architecture and Design.",
+      "raw_content": "Source: https://www.sharda.ac.in/admissions/post-graduate/architecture-and-design"
+    },
+    "admission_requirements": {
+      "admission_requirements": [
+        {
+          "program": "Master of Science in Computer Science",
+          "eligibility_criteria": "Bachelor's degree in Computer Science or a related field with a minimum GPA of 3.0.",
+          "required_documents": [
+            "Resume",
+            "Statement of Purpose",
+            "Two letters of recommendation"
+          ],
+          "application_deadline": "March 15th"
+        },
+        {
+          "program": "Bachelor of Arts in English Literature",
+          "eligibility_criteria": "High school graduates with a minimum GPA of 2.5.",
+          "required_documents": [
+            "High school transcripts",
+            "Personal essay"
+          ],
+          "application_deadline": "May 1st"
+        }
+      ]
+    }
+  }
+}

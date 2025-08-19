@@ -1,0 +1,53 @@
+{
+  "source_file": "www.sharda.ac.in_Best_School_of_Humanities_Social_Sciences_in_Delhi_NCR_raw_2025-08-10-18-29-10.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "The provided text consists of a heading and a subheading, both stating \"Observership Programmes\". This suggests a document or section focused on programs where individuals observe activities, likely in a professional or educational setting.",
+      "raw_content": "Observership Programmes\n• Observership Programmes"
+    },
+    "admission_requirements": {
+      "admissionRequirements": [
+        {
+          "programName": "Master of Science in Computer Science",
+          "eligibilityCriteria": {
+            "degree": "Bachelor's degree in Computer Science or a related field",
+            "minimumGPA": "3.0 on a 4.0 scale",
+            "prerequisites": [
+              "Data Structures and Algorithms",
+              "Operating Systems",
+              "Computer Architecture"
+            ]
+          },
+          "requiredDocuments": [
+            "Official transcripts from all previous institutions",
+            "Two letters of recommendation",
+            "Statement of Purpose",
+            "GRE scores (optional but recommended)",
+            "Resume/CV"
+          ],
+          "applicationDeadline": "2024-03-15"
+        },
+        {
+          "programName": "Doctor of Philosophy in Physics",
+          "eligibilityCriteria": {
+            "degree": "Master's degree in Physics or a closely related discipline",
+            "minimumGPA": "3.5 on a 4.0 scale",
+            "researchExperience": "Demonstrated research experience through publications or significant projects"
+          },
+          "requiredDocuments": [
+            "Official transcripts from all previous institutions",
+            "Three letters of recommendation",
+            "Research statement",
+            "Curriculum Vitae (CV)",
+            "TOEFL/IELTS scores (for non-native English speakers)"
+          ],
+          "applicationDeadline": "2024-01-01"
+        }
+      ]
+    },
+    "accommodation_info": {
+      "summary": "The provided text consists of a heading and a bullet point, both stating \"Accommodation Fee.\" This suggests the document is likely related to the cost or details associated with accommodation.",
+      "raw_content": "Accommodation Fee\n• Accommodation Fee\n"
+    }
+  }
+}

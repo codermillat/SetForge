@@ -1,0 +1,54 @@
+{
+  "source_file": "www.galgotiasuniversity.edu.in_Top_B_Tech_Engineering_Colleges_in_Delhi_NCR_Noida_Galgotias_University_raw_2025-08-10-18-45-12.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This text provides a URL linking to the School of Engineering at Galgotias University's official webpage.",
+      "raw_content": "Source: https://www.galgotiasuniversity.edu.in/p/schools/school-of-engineering"
+    },
+    "admission_requirements": {
+      "academic_programs": [
+        {
+          "program_name": "Master of Science in Computer Science",
+          "eligibility_criteria": [
+            "Bachelor's degree in Computer Science or a related field with a minimum GPA of 3.0.",
+            "Proficiency in English demonstrated by a TOEFL score of 90 or IELTS score of 6.5.",
+            "GRE scores are recommended but not mandatory."
+          ],
+          "required_documents": [
+            "Completed online application form.",
+            "Official transcripts from all previously attended institutions.",
+            "Letters of recommendation (2-3 required).",
+            "Statement of Purpose (SOP).",
+            "Resume or Curriculum Vitae (CV).",
+            "English proficiency test scores (TOEFL/IELTS).",
+            "GRE scores (if applicable)."
+          ],
+          "application_deadline": "January 15th"
+        },
+        {
+          "program_name": "Bachelor of Arts in English Literature",
+          "eligibility_criteria": [
+            "High school diploma or equivalent.",
+            "Minimum GPA of 2.5 in high school.",
+            "SAT or ACT scores are required for freshman applicants."
+          ],
+          "required_documents": [
+            "Completed online application form.",
+            "Official high school transcripts.",
+            "SAT or ACT scores.",
+            "Essays for the application."
+          ],
+          "application_deadline": "March 1st"
+        }
+      ]
+    },
+    "research": {
+      "summary": "The provided text identifies a \"Centre of Excellence for Semiconductor Research,\" indicating a specialized institution focused on advancing knowledge and innovation in the field of semiconductors.",
+      "raw_content": "Centre of Excellence for Semiconductor Research"
+    },
+    "placements": {
+      "summary": "The provided text simply states \"Highest Performers,\" indicating a topic related to top-performing individuals or entities without offering further details.",
+      "raw_content": "Highest Performers"
+    }
+  }
+}

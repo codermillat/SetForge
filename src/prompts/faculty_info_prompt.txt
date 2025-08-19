@@ -1,0 +1,3 @@
+You are an expert in parsing educational documents. Your task is to extract a list of faculty information from the following text content. Each faculty member should have a name, title, and a brief description of their qualifications and experience.
+
+{text_content}

@@ -1,0 +1,13 @@
+{
+  "source_file": "bdhcdelhi.org_MRP_against_Lost_Passport_raw_2025-08-10-18-34-50.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This text is a simple instruction for users to access their accounts by logging in.",
+      "raw_content": "Login to your account"
+    },
+    "admission_requirements": {
+      "summary": "The provided text outlines several requirements for an applicant, including attending an interview at the High Commission, obtaining a police certificate for a lost passport, submitting photocopies of old passports (either handwritten or MRP), and providing a digital Bangladeshi birth certificate.",
+      "raw_content": "a) The applicant needs to face an interview at the High Commission.\nb) Police certificate from local police station against the lost passport (if possible).\nc) Photocopy of old Handwritten passport (page 1-7)/ Photocopy of MRP (page 2-3)\nd) Digital Bangladeshi Birth Certificate."
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "source_file": "www.sharda.ac.in_MDS_in_Prosthodontics_and_Crown_Bridge_Course_Syllabus_raw_2025-08-10-18-29-16.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "The provided text announces \"Paramarsh\" as their mentoring portal.",
+      "raw_content": "Paramarsh- Our Mentoring Portal\n• Paramarsh- Our Mentoring Portal"
+    },
+    "admission_requirements": {
+      "programs": [
+        {
+          "program_name": "Master of Science in Computer Science",
+          "eligibility_criteria": {
+            "academic_background": "Bachelor's degree in Computer Science, Engineering, or a related field with a minimum GPA of 3.0 on a 4.0 scale.",
+            "prerequisites": "Courses in data structures, algorithms, operating systems, and discrete mathematics are required.",
+            "english_proficiency": "TOEFL score of 100 iBT or IELTS score of 7.0 is required for international applicants."
+          },
+          "required_documents": [
+            "Completed online application form",
+            "Official transcripts from all previous institutions",
+            "Letters of recommendation (3)",
+            "Statement of purpose",
+            "Resume or Curriculum Vitae",
+            "GRE scores (optional, but recommended)",
+            "English proficiency test scores (if applicable)"
+          ],
+          "application_deadline": "February 15, 2025"
+        },
+        {
+          "program_name": "Bachelor of Arts in English Literature",
+          "eligibility_criteria": {
+            "academic_background": "High school diploma or equivalent with a minimum GPA of 3.5 on a 4.0 scale.",
+            "standardized_tests": "SAT or ACT scores are required. Minimum SAT score of 1200 or ACT score of 25.",
+            "english_proficiency": "TOEFL score of 80 iBT or IELTS score of 6.5 is required for international applicants."
+          },
+          "required_documents": [
+            "Completed online application form",
+            "Official high school transcripts",
+            "SAT or ACT scores",
+            "Essay or personal statement",
+            "Letters of recommendation (2)",
+            "English proficiency test scores (if applicable)"
+          ],
+          "application_deadline": "January 15, 2025"
+        }
+      ]
+    }
+  }
+}

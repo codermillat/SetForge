@@ -1,0 +1,49 @@
+{
+  "source_file": "amity.edu_Admissions_Procedure_AMITY_Amity_University_Noida_raw_2025-08-10-18-42-21.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "Students seeking an Equivalence Certificate from the Association of Indian Universities (AIU) must submit authenticated degree/certificate and academic transcripts, along with the university's accreditation status and copies of academic certificates from Higher Secondary onwards. A service charge, payable by Demand Draft to \"Association of Indian Universities, New Delhi,\" is also required. The responsibility for obtaining this equivalence certification lies with the candidate, and applications will only be processed upon submission of the Equivalence Certificate.",
+      "raw_content": "The students are advised to send the following documents to the Association of Indian Universities (Click Here) for obtaining Equivalence Certificate:\n• Degree/Certificate together with the year-wise Academic Transcript duly authenticated by the Indian Embassy in the Country or its concerned Foreign Mission in India.\n• Accreditation status of the University/Institute which the student has last attended.\n• Copies of the academic Certificates from Higher Secondary onwards (where necessary)\nThe SERVICE CHARGE for issue of Equivalence Certificate as applicable is payable through Demand Draft in favour of “Association of Indian Universities, New Delhi”.\nThe onus of Certification for Equivalence from AIU is on the candidate and application will be considered only after the Equivalence Certificate is submitted."
+    },
+    "admission_requirements": {
+      "academicPrograms": [
+        {
+          "programName": "Master of Science in Computer Science",
+          "eligibilityCriteria": {
+            "academic": "Bachelor's degree in Computer Science or a related field with a minimum GPA of 3.0 out of 4.0.",
+            "standardizedTests": "GRE General Test scores required. Minimum score of 155 verbal, 160 quantitative.",
+            "languageProficiency": "TOEFL score of 100 (internet-based) or IELTS score of 7.0.",
+            "other": "At least two letters of recommendation."
+          },
+          "requiredDocuments": [
+            "Official transcripts from all previous institutions",
+            "GRE scores report",
+            "TOEFL/IELTS scores report",
+            "Two letters of recommendation",
+            "Statement of Purpose",
+            "Curriculum Vitae (CV)"
+          ],
+          "applicationDeadline": "2024-01-15"
+        },
+        {
+          "programName": "Doctor of Philosophy in Physics",
+          "eligibilityCriteria": {
+            "academic": "Master's degree in Physics or a closely related field.",
+            "researchExperience": "Demonstrated research potential through publications or thesis work.",
+            "languageProficiency": "TOEFL score of 105 (internet-based) or IELTS score of 7.5.",
+            "other": "Three letters of recommendation, including at least one from a faculty member familiar with the applicant's research."
+          },
+          "requiredDocuments": [
+            "Official transcripts from all previous institutions",
+            "Master's thesis or equivalent research paper",
+            "Three letters of recommendation",
+            "Statement of Research Interests",
+            "Curriculum Vitae (CV)",
+            "Publications (if any)"
+          ],
+          "applicationDeadline": "2023-12-01"
+        }
+      ]
+    }
+  }
+}

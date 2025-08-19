@@ -1,0 +1,45 @@
+{
+  "source_file": "www.sharda.ac.in_B_Sc_Hons_By_Research_Chemistry_-_Computational_Chemistry_raw_2025-08-10-18-29-21.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This document outlines various aspects of Sharda University's offerings and operations, including academic programs for the 2025-26 period across its Schools of Dental Sciences, Medical Sciences & Research, and Nursing Science & Research. It also lists key university documents such as examination reports, the Academic Bank of Credits, curricula feedback, and the university brochure. Furthermore, it highlights aspects of university life and development, such as leadership, history, statutory bodies, tenders, university acts, COVID-19 information, counseling services, skill enhancement initiatives in languages and soft skills, innovation and entrepreneurship, FM radio, accommodation, visa and insurance guidelines, and observership programs. The document also touches upon student support like the Paramarsh Mentoring Portal, course application details, career paths, recruiters, and mentions international campuses in Uzbekistan and Agra, along with specific courses and portals related to cyber crime reporting and credit transfer.",
+      "raw_content": "• Programme 2025-26\n• School of Dental Sciences\nSchool of Medical Sciences & Research\nSharda School of Nursing Science & Research\n• School of Medical Sciences & Research\n• Sharda School of Nursing Science & Research\nExamination Annual Report\nAcademic Bank of Credits (ABC)\nCurricula Feedback\nUniversity Brochure\n• Examination Annual Report\n• Academic Bank of Credits (ABC)\n• Curricula Feedback\n• University Brochure\n• Get to know sharda\n• Perspective Plan\n• Leadership\n• History\n• Statutory Bodies of the University\n• Sharda Tenders\n• Act, Statutes and Ordinances\n• COVID19\n• Family & Couple Counselling Services(FCCS)\n• Capacity Development & Skill Enhancement\n• Language and Communication Skill Initiatives: Sharda Skills\n• Soft Skill Initiatives : Career Counseling and Development Center\n• Awareness of Trends in Technology : IIC\n• Entrepreneurship\n• Innovation and Entrepreneurship\nFM Radio: Suno Sharda-90.8FM\n• FM Radio: Suno Sharda-90.8FM\nAccommodation Fee\nGuidelines for Visa and FRO/FRRO\nGuidelines for Medical Insurance\nObservership Programmes\n• Accommodation Fee\n• Guidelines for Visa and FRO/FRRO\n• Guidelines for Medical Insurance\n• Observership Programmes\nParamarsh- Our Mentoring Portal\n• Paramarsh- Our Mentoring Portal\nHow to apply for the course?\nCareer path you can choose after the course\nTake the next step towards a career in basic sciences.\n• Recruiters\n• Covid 19 Updates\n• Sharda University Uzbekistan\n• Sharda University Agra\n• Courses on Human Values and Professional ethics\n• National Cyber Crime Reporting Portal\n• International Credit Transfer Programme\nSource: https://www.sharda.ac.in/programmes/bsc-hons-with-research-chemistry-computational-chemistry"
+    },
+    "admission_requirements": {
+      "admissionRequirements": [
+        {
+          "programName": "Example Bachelor of Science in Computer Science",
+          "eligibilityCriteria": {
+            "academicQualifications": "High school diploma or equivalent with a minimum GPA of 3.5. Strong foundation in mathematics (Calculus I and II, Linear Algebra) is required.",
+            "otherRequirements": "Successful completion of a standardized test (e.g., SAT, ACT) with minimum scores of 1300 (SAT) or 28 (ACT)."
+          },
+          "requiredDocuments": [
+            "Completed online application form",
+            "Official high school transcripts",
+            "Standardized test scores (SAT/ACT)",
+            "Letters of recommendation (2)",
+            "Personal essay (500-750 words)",
+            "Copy of government-issued ID"
+          ],
+          "applicationDeadline": "2024-03-15"
+        },
+        {
+          "programName": "Example Master of Arts in English Literature",
+          "eligibilityCriteria": {
+            "academicQualifications": "Bachelor's degree in English or a related field with a minimum GPA of 3.7. Demonstrated proficiency in literary analysis.",
+            "otherRequirements": "GRE General Test scores are recommended but not mandatory."
+          },
+          "requiredDocuments": [
+            "Completed online application form",
+            "Official university transcripts",
+            "Resume/Curriculum Vitae",
+            "Statement of Purpose (750-1000 words)",
+            "Writing sample (10-15 pages)",
+            "Letters of recommendation (3)"
+          ],
+          "applicationDeadline": "2024-01-01"
+        }
+      ]
+    }
+  }
+}

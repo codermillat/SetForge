@@ -1,0 +1,47 @@
+{
+  "source_file": "www.sharda.ac.in_MD_in_General_Medicine_Syllabus_Eligibility_Fees_Admission_raw_2025-08-10-18-29-15.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This document outlines guidelines related to visas and FRO/FRRO, medical insurance, and observership programs, with these topics presented as a bulleted list for clarity.",
+      "raw_content": "Guidelines for Visa and FRO/FRRO\nGuidelines for Medical Insurance\nObservership Programmes\n• Guidelines for Visa and FRO/FRFRRO\n• Guidelines for Medical Insurance\n• Observership Programmes"
+    },
+    "admission_requirements": {
+      "programs": [
+        {
+          "program_name": "Bachelor of Science in Computer Science",
+          "eligibility_criteria": {
+            "high_school_diploma": "Completion of a recognized secondary education qualification with a minimum GPA of 3.5.",
+            "mathematics_requirement": "Successful completion of advanced mathematics courses (e.g., Calculus, Algebra II).",
+            "english_proficiency": "TOEFL score of 90 or IELTS score of 6.5 (for non-native English speakers)."
+          },
+          "required_documents": [
+            "Official high school transcripts",
+            "Two letters of recommendation",
+            "Personal essay (500-750 words)",
+            "Standardized test scores (SAT/ACT - optional)",
+            "Copy of passport"
+          ],
+          "application_deadline": "2024-08-01"
+        },
+        {
+          "program_name": "Master of Business Administration",
+          "eligibility_criteria": {
+            "bachelor_degree": "A bachelor's degree from an accredited institution with a minimum GPA of 3.0.",
+            "work_experience": "Minimum of 2 years of relevant professional work experience.",
+            "gmat_gre": "GMAT or GRE score (minimum score requirements vary, check department website).",
+            "english_proficiency": "TOEFL score of 100 or IELTS score of 7.0 (for non-native English speakers)."
+          },
+          "required_documents": [
+            "Official undergraduate transcripts",
+            "Resume or Curriculum Vitae",
+            "GMAT/GRE scores",
+            "Three professional letters of recommendation",
+            "Statement of Purpose (750-1000 words)",
+            "Video essay (optional)"
+          ],
+          "application_deadline": "2024-07-15"
+        }
+      ]
+    }
+  }
+}

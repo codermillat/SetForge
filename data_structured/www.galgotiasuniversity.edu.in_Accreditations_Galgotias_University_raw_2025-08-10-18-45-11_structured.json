@@ -1,0 +1,58 @@
+{
+  "source_file": "www.galgotiasuniversity.edu.in_Accreditations_Galgotias_University_raw_2025-08-10-18-45-11.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "The provided text, \"UGC PUBLIC SELF PORTAL,\" appears to be a simple label or title, likely referring to a public portal for user-generated content.",
+      "raw_content": "UGC PUBLIC SELF PORTAL"
+    },
+    "admission_requirements": {
+      "academic_programs": [
+        {
+          "program_name": "Example Program 1",
+          "eligibility_criteria": [
+            "Bachelor's degree in a relevant field",
+            "Minimum GPA of 3.0",
+            "GRE scores (quantitative and verbal)"
+          ],
+          "required_documents": [
+            "Academic Transcripts",
+            "Statement of Purpose",
+            "Letters of Recommendation (3)",
+            "CV/Resume",
+            "GRE Score Report"
+          ],
+          "application_deadline": "YYYY-MM-DD"
+        },
+        {
+          "program_name": "Example Program 2",
+          "eligibility_criteria": [
+            "High School Diploma or equivalent",
+            "Minimum English proficiency score (e.g., TOEFL, IELTS)"
+          ],
+          "required_documents": [
+            "High School Transcript",
+            "Proof of English Proficiency",
+            "Application Form"
+          ],
+          "application_deadline": "YYYY-MM-DD"
+        }
+      ]
+    },
+    "campus_life": {
+      "summary": "This document outlines various aspects of campus life, including student organizations, essential services like the hostel, library, and transportation, and recreational activities. It also highlights specific initiatives and events such as the National Cadet Corps (NCC), National Service Scheme (NSS), Unifest, Arts & Culture programs, the Smart India Hackathon 2022, and Toycathon.",
+      "raw_content": "Campus Life About the Campus Student Organization Societies & Clubs Hostel Library Transportation Services National Cadet Corps (NCC) National Service Scheme (NSS) Sports & Recreation Cafeteria Healthcare Facilities Unifest Events, Arts & Culture Resources & Facilities Convocation Smart India Hackathon 2022 Toycathon Launchpad\nNational Cadet Corps (NCC)\nNational Service Scheme (NSS)\nEvents, Arts & Culture\nSmart India Hackathon 2022"
+    },
+    "grievance_redressal": {
+      "summary": "The provided text outlines various online portals and committees designed for grievance redressal and the prevention of discrimination and harassment. These include an online portal for students and employees to report grievances, a committee for the prevention of caste-based discrimination in the workplace, and a committee dedicated to preventing sexual harassment.",
+      "raw_content": "Online Complaints Prevention of caste based discrimination at workplace committee Students Online portal for Redressal of Grievances Employee Online portal for Redressal of Grievances Anti-ragging Policy Complaint Committee for Prevention of Sexual Harassment\nPrevention of caste based discrimination at workplace committee\nStudents Online portal for Redressal of Grievances\nEmployee Online portal for Redressal of Grievances\nComplaint Committee for Prevention of Sexual Harassment"
+    },
+    "research": {
+      "summary": "This document outlines the research initiatives and achievements of the Galgotias Centre for Interdisciplinary Research. It highlights various aspects of research excellence and global engagement, including a Research & Development Cell, department-wise publication summaries, organized events at both international and national levels, sessions with Nobel laureates, DSIR-SIRO recognition, research group diversity, student projects, honorary professors, and a specific Centre of Excellence for Semiconductor Research.",
+      "raw_content": "Research Message from Dean (Research)\nResearch Excellence and Global Engagement\nResearch & Development Cell\nGalgotias Centre for Interdisciplinary Research\nResearch Ethics Application Department wise Publication Summary Research Group Organized Events International & National Events International FDPs Research Awards Scopus Citation WoS Citation Newsletter Session with Noble Laureates DSIR - SIRO Recognition Centres of Excellence Media Outreach Research Group Diversity Open House Project for Students Honorary Professors Best Practices G-MRDC Centre of Excellence for Semiconductor Research\nMessage from Dean (Research)\nResearch Excellence and Global Engagement\nResearch & Development Cell\nGalgotias Centre for Interdisciplinary Research\nDepartment wise Publication Summary\nResearch Group Organized Events\nInternational & National Events\nSession with Noble Laureates\nDSIR - SIRO Recognition\nResearch Group Diversity\nOpen House Project for Students\nHonorary Professors\nCentre of Excellence for Semiconductor Research\n"
+    },
+    "placements": {
+      "summary": "This document outlines various aspects of career planning and development, including placement activities, associated recruiters, placement records, and student/recruiter testimonials. It highlights programs for employability enhancement and provides a placement policy and brochure. Key sections also mention the Career Planning and Development Division (CPDD), highest performers, and a placement gallery.",
+      "raw_content": "Placements Latest Placements Career Planning and Development Division (CPDD) Associated Recruiters Corporate Tie Ups Placement Records Employability Enhancement Program Placement Policy Placement Brochure Recruiters Speak Students Speak Highest Performers Placement Gallery\nCareer Planning and Development Division (CPDD)\nAssociated Recruiters\nRecruiters Speak\nHighest Performers\n"
+    }
+  }
+}

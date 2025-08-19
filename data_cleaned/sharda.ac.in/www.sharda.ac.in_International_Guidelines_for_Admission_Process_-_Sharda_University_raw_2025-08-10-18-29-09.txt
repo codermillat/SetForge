@@ -1,0 +1,100 @@
+• Programme 2025-26
+• School of Dental Sciences
+School of Medical Sciences & Research
+Sharda School of Nursing Science & Research
+• School of Medical Sciences & Research
+• Sharda School of Nursing Science & Research
+Examination Annual Report
+Academic Bank of Credits (ABC)
+Curricula Feedback
+University Brochure
+• Examination Annual Report
+• Academic Bank of Credits (ABC)
+• Curricula Feedback
+• University Brochure
+Programme Fee
+Hostel Fee
+Transportation Fee
+Scholarship
+Innovative Idea Scholarship
+• Programme Fee
+• Hostel Fee
+• Transportation Fee
+• Scholarship
+• Innovative Idea Scholarship
+• Fee Structure for Previous Year Students
+• SUAT 2025
+Sample Papers
+• Sample Papers
+Global Knowledge Seekers
+• Global Knowledge Seekers
+Our Recruiters
+• Our Recruiters
+Banking And Postal Services
+• Banking And Postal Services
+Perspective Plan
+Leadership
+History
+Statutory Bodies of the University
+Sharda Tenders
+Act, Statutes and Ordinances
+COVID19
+Family & Couple Counselling Services(FCCS)
+Capacity Development & Skill Enhancement
+Language and Communication Skill Initiatives: Sharda Skills
+Soft Skill Initiatives : Career Counseling and Development Center
+Awareness of Trends in Technology : IIC
+Entrepreneurship
+Innovation and Entrepreneurship
+• Get to know sharda
+• Perspective Plan
+• Leadership
+• History
+• Statutory Bodies of the University
+• Sharda Tenders
+• Act, Statutes and Ordinances
+• COVID19
+• Family & Couple Counselling Services(FCCS)
+• Capacity Development & Skill Enhancement
+• Language and Communication Skill Initiatives: Sharda Skills
+• Soft Skill Initiatives : Career Counseling and Development Center
+• Awareness of Trends in Technology : IIC
+• Entrepreneurship
+• Innovation and Entrepreneurship
+FM Radio: Suno Sharda-90.8FM
+• FM Radio: Suno Sharda-90.8FM
+Accommodation Fee
+Guidelines for Visa and FRO/FRRO
+Guidelines for Medical Insurance
+Observership Programmes
+• Accommodation Fee
+• Guidelines for Visa and FRO/FRRO
+• Guidelines for Medical Insurance
+• Observership Programmes
+Paramarsh- Our Mentoring Portal
+• Paramarsh- Our Mentoring Portal
+STEP1 Register yourself by visiting https://www.sharda.ac.in/international/apply and clicking on new registration.
+STEP2 Fill the application form and upload the required documents for eligibility verification. You shall be issued with a Unique ID which will be required for further communication with the university.
+STEP3 After the eligibility verification by the university, an offer letter (Conditional / Unconditional) shall be issued and sent to your registered email id.
+STEP4 Once you receive the offer letter, make the payment as prescribed in the offer letter by bank transfer/ wire transfer/ online payment and submit the receipt along with your System ID at global@sharda.ac.in
+STEP5 After the confirmation of the fees received by the University accounts, an Acceptance letter ( visa letter) and a bonafide letter will be issued which is required to apply for the Student Visa at the nearest Indian Embassy/ High Commission in your home country. Kindly read the important information as mentioned in the acceptance letter for your post-arrival requirements.
+• Course Fee
+• Recruiters
+• Covid 19 Updates
+• Sharda University Uzbekistan
+• Sharda University Agra
+• Courses on Human Values and Professional ethics
+• National Cyber Crime Reporting Portal
+• International Credit Transfer Programme
+85924441
++91-120-4570000
+• +91-120-4570000
++91-9205586066
++91-8800998881
+• window.fbAsyncInit = function() {
+version : 'v5.0'
+(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+js = d.createElement(s); js.id = id;
+js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+Source: https://www.sharda.ac.in/international/guidelines

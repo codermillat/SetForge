@@ -1,0 +1,27 @@
+{
+  "type": "object",
+  "properties": {
+    "scholarships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "eligibility": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": ["name", "description", "eligibility"]
+      }
+    }
+  },
+  "required": ["scholarships"]
+}

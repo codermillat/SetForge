@@ -1,0 +1,1 @@
+Extract the admission requirements from the provided text. For each academic program, identify the eligibility criteria, the list of required documents for application, and the application deadline. Present this information in a structured JSON format.

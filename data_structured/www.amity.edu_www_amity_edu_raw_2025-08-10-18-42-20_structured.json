@@ -1,0 +1,36 @@
+{
+  "source_file": "www.amity.edu_www_amity_edu_raw_2025-08-10-18-42-20.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This text provides information about Amity University Uttar Pradesh, highlighting its founding by the Ritnand Balved Education Foundation, an organization described as India's leading education group, and states that the university is dedicated to the nation.",
+      "raw_content": "AMITY UNIVERSITY UTTAR PRADESH\nAMITY UNIVERSITY\nFounded by:\nRitnand Balved Education Foundation\nAMITY University Uttar Pradesh\nAMITY UNIVERSITY\nFounded by:\nRitnand Balved Education Foundation\n(India's leading Education group)\nAMITY UNIVERSITY\nDedicated to the Nation\n"
+    },
+    "admission_requirements": {
+      "academic_programs": [
+        {
+          "program_name": "Example Program 1",
+          "eligibility_criteria": "Bachelor's degree in a related field with a minimum GPA of 3.0.",
+          "required_documents": [
+            "Completed application form",
+            "Official transcripts",
+            "Letters of recommendation (2)",
+            "Statement of purpose",
+            "GRE scores (if applicable)"
+          ],
+          "application_deadline": "YYYY-MM-DD"
+        },
+        {
+          "program_name": "Example Program 2",
+          "eligibility_criteria": "High school diploma or equivalent.  Minimum of 2 years of relevant work experience.",
+          "required_documents": [
+            "Completed application form",
+            "High school transcripts",
+            "Resume/CV",
+            "Portfolio (for creative programs)"
+          ],
+          "application_deadline": "YYYY-MM-DD"
+        }
+      ]
+    }
+  }
+}

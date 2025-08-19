@@ -1,0 +1,27 @@
+{
+  "type": "object",
+  "properties": {
+    "placements": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "company_name": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "roles": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": ["company_name", "description", "roles"]
+      }
+    }
+  },
+  "required": ["placements"]
+}

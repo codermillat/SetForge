@@ -1,0 +1,47 @@
+{
+  "source_file": "www.sharda.ac.in_Electrical_Electronics_and_Communication_Engineering_EECE_-_Sharda_University_raw_2025-08-10-18-29-08.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This text appears to be a URL pointing to the Department of Electrical, Electronics, and Communication Engineering at Sharda University's website.",
+      "raw_content": "Source: https://www.sharda.ac.in/department/electrical-electronics-and-communication-engineering"
+    },
+    "admission_requirements": {
+      "academicPrograms": [
+        {
+          "programName": "Example Master's Program",
+          "eligibilityCriteria": [
+            "Bachelor's degree in a related field with a minimum GPA of 3.0.",
+            "Completion of Calculus I and II.",
+            "Strong academic record."
+          ],
+          "requiredDocuments": [
+            "Completed online application form.",
+            "Official transcripts from all previous institutions.",
+            "Letters of recommendation (2).",
+            "Statement of purpose.",
+            "Resume or CV.",
+            "TOEFL or IELTS scores (if applicable)."
+          ],
+          "applicationDeadline": "YYYY-MM-DD"
+        },
+        {
+          "programName": "Example Bachelor's Program",
+          "eligibilityCriteria": [
+            "High school diploma or equivalent.",
+            "Minimum SAT score of 1200 or ACT score of 24.",
+            "Demonstrated proficiency in English."
+          ],
+          "requiredDocuments": [
+            "Completed online application form.",
+            "Official high school transcripts.",
+            "Standardized test scores (SAT/ACT).",
+            "Personal essay.",
+            "Letters of recommendation (1-2).",
+            "Portfolio (for specific programs)."
+          ],
+          "applicationDeadline": "YYYY-MM-DD"
+        }
+      ]
+    }
+  }
+}

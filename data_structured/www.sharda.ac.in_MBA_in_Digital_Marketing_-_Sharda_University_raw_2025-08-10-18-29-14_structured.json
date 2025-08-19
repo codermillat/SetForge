@@ -1,0 +1,46 @@
+{
+  "source_file": "www.sharda.ac.in_MBA_in_Digital_Marketing_-_Sharda_University_raw_2025-08-10-18-29-14.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This document outlines guidelines for visa and FRO/FRRO, medical insurance, and observership programs. It reiterates these three points as key areas of focus.",
+      "raw_content": "Guidelines for Visa and FRO/FRRO\nGuidelines for Medical Insurance\nObservership Programmes\n• Guidelines for Visa and FRO/FRRO\n• Guidelines for Medical Insurance\n• Observership Programmes"
+    },
+    "admission_requirements": {
+      "academic_programs": [
+        {
+          "program_name": "Master of Science in Computer Science",
+          "eligibility_criteria": [
+            "Bachelor's degree in Computer Science, Engineering, or a related field.",
+            "Minimum GPA of 3.0 on a 4.0 scale.",
+            "Proficiency in English (TOEFL score of 100 or IELTS score of 7.0)."
+          ],
+          "required_documents": [
+            "Completed online application form",
+            "Official transcripts from all previous institutions",
+            "Letters of recommendation (2)",
+            "Statement of purpose",
+            "Resume/CV",
+            "English proficiency test scores (if applicable)"
+          ],
+          "application_deadline": "January 15th"
+        },
+        {
+          "program_name": "Bachelor of Arts in English Literature",
+          "eligibility_criteria": [
+            "High school diploma or equivalent.",
+            "Minimum high school GPA of 2.8 on a 4.0 scale.",
+            "Completion of secondary school English language requirements."
+          ],
+          "required_documents": [
+            "Completed online application form",
+            "Official high school transcripts",
+            "SAT or ACT scores (optional, but recommended)",
+            "Personal essay",
+            "Letters of recommendation (1)"
+          ],
+          "application_deadline": "March 1st"
+        }
+      ]
+    }
+  }
+}

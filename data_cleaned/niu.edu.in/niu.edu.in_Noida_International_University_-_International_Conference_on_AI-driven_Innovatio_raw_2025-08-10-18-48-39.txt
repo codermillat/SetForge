@@ -1,0 +1,307 @@
+Guidelines for Taylor & Francis Articles for Authors
+Guidelines for Ethics and Malpractice
+• Guidelines for Taylor & Francis Articles for Authors
+• Guidelines for Ethics and Malpractice
+• Categories & Fees
+• Sponsorships
+Noida International University was established in the year 2010 by an Act (Act No. 27 of 2010) of the Uttar Pradesh State Legislature. The University is approved under Section 2(f) of UGC Act 1956 and is empowered to award degrees as specified by UGC under section 22 of UGC Act 1956. The University is accredited by National Assessment and Accreditation Council (NAAC) with A+ grade, a score of 3.44 in cycle 1 and is also a member of Association of Indian Universities (AIU). The University has received prestigious recognition by the Department of Science and Industrial Research (DSIR) under the scheme on Recognition of Scientific and Industrial Research Organizations (SIROs), 1988 as a Scientific and Industrial Research Organization (SIRO) in 2022. Noida International University has been recognised as a Host Institute by MSME, Govt of India. The University has the best international network with eminent institutions across the globe. The students from more than 60 Nations place faith in the educational curriculum of the University. The University through its 12 schools is offering various multi-disciplinary programmes in varied streams of Engineering, Sciences, Management, Law, Medical and Social Sciences. The University also has a 900 bedded Hospital and a Medical College named Noida International Institute of Medical Sciences (NIIMS). NIIMS is a Centre of Excellence which endeavours to develop a unique pedagogy for medical education. All the programmes and curriculum are duly approved by respective bodies like UGC, INC, NCTE, NMC, PCI and BCI.
+The Institution of Electronics and Telecommunication Engineers (IETE) is India’s leading recognized Professional Society devoted to the advancement of Electronics, Telecommunications, Computers and Information Technology. Founded in 1953, it serves more than 1.25 Lacs of members through its 63 Centres, spread all over India and abroad. The Government of India has recognized IETE as a Scientific and Industrial Research Organisation (SIRO) and has also notified it as an Educational Institution of National Eminence. The Institution provides leadership in Scientific and Technical areas of direct importance to national development and growth.
+The “International Conference on AI-Driven Innovation for Industry 4.0 to Society 5.0” (ICADIS- 2025) aims to foster knowledge exchange by providing a global platform for researchers, industry experts, and policymakers to share cutting-edge advancements in AI and digital transformation, explore how AI-driven technologies and its applications in manufacturing, healthcare, smart cities, education, and governance, etc. that can accelerate the transition from Industry 4.0 smart manufacturing and automation to leaders, startups, and government bodies to develop ethical, sustainable, and socially responsible Society 5.0that is human-centric, sustainable. The researchers, practitioners and industry will come together and promote skill development, digital literacy, and AI-driven education to prepare workforce for the future of AI-integrated industries, policies, and regulatory frameworks. It promotes skill development, digital literacy, and AI-driven education to prepare the workforce for the future of AI-integrated industries. The experts will guide us to align AI innovations with the United Nations Sustainable Development Goals (SDGs), OECD 2030, Vikshit Bharat @ 2047 to create a more resilient and equitable society 5.0.
+• AI in Teaching and Learning
+• AI in Personalized Learning
+• AI in Task automation
+• AI in Intelligent Tutoring systems
+• AI in Smart Content Creation
+• AI in Digital Learning
+• AI in Student support
+• Artificial Intelligence for Precision Farming
+• Artificial Intelligence for Crop Monitoring and Disease Detection
+• Artificial Intelligence for AI for Sustainable Agriculture
+• Artificial Intelligence for Robotics in Agriculture
+• Food and livestock management
+• Autonomous driving in agriculture
+• Artificial Intelligence in Food supply chain
+• Artificial Intelligence in smart farming
+• Predictive Maintenance for Renewable Energy Infrastructure Using AI
+• Smart Energy Grids: Integrating AI and Renewable Energy Sources
+• AI in Wind Energy Forecasting and Turbine Optimization
+• AI for Real-Time Renewable Energy Market Analysis
+• Energy Storage Optimization with Artificial Intelligence
+• Demand forecasting and inventory management
+• Training and staff support
+• Drug discovery and development
+• Medical research and clinical trials
+• Revenue cycle management on providing high-quality care for patients
+• Computational Learning Theory Inductive Logic Programming Reinforcement Learning
+• System Architectures, System Software Support, Storage, and I/O Systems
+• Database Applications and Data Mining
+• Parallel and Distributed Algorithms, Computing and Systems
+• Web Services and Internet Computing
+• Grid and Cluster Knowledge Based System
+• Distributed Systems and Applications
+• Pervasive/Ubiquitous Computing and Intelligence
+• Distributed AI and Soft/Natural Computing
+• Power-Efficient and Green Computing Systems
+• Parallel and Distributed Computing for Big Data
+• Cryptographic primitives and protocols,
+• Data protection, Identity management, IP protection
+• Mobile and wireless security (5G, NextG)
+• Security/privacy of systems based on ML and AI
+• Trust management and trustworthy computing in networks or systems
+• Authentication and biometric security/privacy
+• Email, app and web security/privacy.
+• Human factors in security
+• Blockchains and distributed ledger security
+• Information leakage, data correlation
+• Autonomous Transport as a Public Service
+• Energy Management, Green IoT: Sustainable Design and Technologies
+• Agriculture: New areas and solutions
+• Internet of things for Education sector
+• Devices and product development & applications areas
+• The Convergence of Construction and Manufacturing
+• Machine Learning and AI: Smart Manufacturing, Industry standard in Retails sectors and Security
+• Predictive maintenance optimization and human resource management
+• Automotive & Intelligent Transport
+• Healthcare standards -Internet of things for E-health applications
+• Challenges in design of Agriculture related product
+• Scalable IoT Architectures including Semantic Interoperability and the Web of Things
+• Energy Efficiency and Sustainability in IoT including battery-less and biodegradable computing.
+• Small and Large-scale pilots of IoT Sensing, Signal Processing
+• Safety, Security and Privacy Risks and Guarantees in IoT and Cyber-Physical Systems
+• Database and Distributed Ledger Technologies for IoT
+• Human Interaction with IoT / IoT-enhanced AR/VR/MR
+• Metaverse, and Games, Large-Scale IoT Analytics, and Internet of Behaviours
+• IoT Applications in Industry (manufacturing, agriculture, business processes, robotics) including networked intelligent production systems)
+• IoT Applications for Environmental Sensing and Disaster Response
+• Societal Impacts and Ethical Implications of IoT
+• Data Science for Business Intelligence
+• Machine Learning in Bioinformatics
+• Business / Corporate / Industrial Data Mining
+• Statistical methods used in data mining.
+• Applications in Science, Engineering, Healthcare, Visualization, Robotics, Business, Education, Security, Humanities, Bioinformatics, Health Informatics, Medicine, Finance, Law, Transportation, Retailing, Telecommunication, all Search-based applications, etc
+• Mobile and Cellular Networks,
+• Communication and Information Theory
+• Quantum Communication and Networking
+• Internet Architecture and Protocols, Network Protocols and Standards
+• Network Performance and Optimization
+• Social Networks and Online Communities
+• Network Monitoring and Analysis
+• Cybersecurity in Communication Networks
+• Network Security and Privacy
+• Network Function Virtualization (NFV)
+• 5G Wireless Technology, Edge Computing etc.
+• Artificial Intelligence for Hydrology and Flood Forecasting.
+• Artificial Intelligence for Clouds, Aerosol, and Precipitation.
+• Artificial Intelligence for Earth Science
+• Artificial Intelligence for Actionable Insights and Applications in Climate Science
+• Artificial Intelligence for Tracking and monitoring environmental impacts, such as water usage or air pollution
+• Artificial Intelligence for Identifying potential risks and opportunities related to ESG
+• Artificial Intelligence for Developing intelligent systems that can monitor and analyse environmental data in real-time
+• Artificial Intelligence for Designing more energy-efficient buildings
+• Artificial Intelligence for Monitoring deforestation
+• Artificial Intelligence for Optimizing renewable energy deployment
+• AI-Driven Solutions for Climate Change Mitigation and Adaptation
+• Intelligent Waste Management Systems Using AI
+• AI in Monitoring and Managing Air Quality
+• Smart Water Management Using Artificial Intelligence
+• AI-Enabled Renewable Energy Optimization
+• Predictive Analytics for Natural Disaster Management
+• Biodiversity Conservation Through AI
+• Sustainable Urban Planning with AI
+• Trends in Biotechnology
+• Cell and Molecular Biotechnology
+• Biotechnology in Tissue Engineering
+• Microbial Biotechnology
+• Environmental and Agricultural Biotechnology
+• Biotechnology in Food Processing
+• Algal Biotechnology
+• Pharmaceutical Biotechnology
+• Biotech Products and Drug Design
+• Biomedical Engineering and Instrumentation
+• Cancer Biology
+• Speech and Audio Processing
+• Pattern Analysis and Classification
+• Sensor Array and Multidimensional Signal Processing
+• EEG and ECG signal processing
+• Mathematical Aspects of Signal Processing
+• DSP and Machine Learning Theory
+• Conversational Systems
+• Robust and Explainable AI
+• Active and Reinforcement Learning
+• Acoustic Signal Processing etc.
+• .st0{fill:#0DFF00;}Asset 3
+Papers must be formatted using the prescribed Taylor & Francis template, available on the conference website.
+APA citation style should be followed.
+Manuscripts should be written in 10-point Times New Roman font with 1.0 line spacing.
+The full paper should be between 2,500 to 3,000 words, including citations, references, and bibliography.
+The document must not exceed six pages maximum, incorporating figures, graphs, and images etc.
+Full length papers are to be submitted in MS-Word File on the mentioned E-mail ID consisting the Number and the Full Name of the track mentioned in the subject line.
+The papers should include the clear mention of the names of the Author/s and their affiliations.
+Abstract must not be more than 200 words inclusive in the word count of the full paper.
+Each paper may have a maximum of three authors.
+MODE OF THE CONFERENCE- Hybrid Mode (Online/Oﬄine)
+Submissions must not exceed 5 pages, formatted on A4-sized paper.
+The manuscript should be written in Times New Roman, font size 12.
+Papers must be submitted through the official Microsoft CMT submission link
+Full paper submission Deadline: 30th July, 2025
+Notification of Acceptance: 10th August,2025
+Conference Registration Deadline: 30th August,2025
+Camera ready paper submission: 10th September
+Foreign Author – with IEEE membership: 200 USD
+Foreign Author – without IEEE membership: 250 USD
+Industry Professional: Rs.11000/
+Academicians (Faculty – Non IETE/IEEE members): Rs.9000/-
+Academicians ( Faculty – IETE/IEEE members): Rs. 8000/-
+Students/Research Scholars: Rs.7000/-
+Rs.100,000
+• Four complimentary registrations for conference
+• Setup a booth at the venue
+• Company-supplied banner (one banner each of size 5’x3′ and 4’x2′) prominently displayed during the Conference and a standi at the lunch venue
+• Company-supplied conference kit with marketing material for the registered participants approx. 250 each day of the conference.
+• Senior executive given a 8-minute time slot for company presentation during the conference
+• Sponsorship highlight by naming your company at the opening and closing.
+• Logo on conference e-proceedings with link to company’s website and logo on conference website
+Rs 75,000/
+• Three complimentary registrations for conference
+• Company-supplied conference kit with marketing material for the registered participants approx. 250 each day of the conference
+• Senior executive given a 5-minute time slot for company presentation during the conference
+• Company-supplied banner (one banner each of size 4’x3′ and 3’x2′) prominently displayed during the Conference;
+• Sponsorship highlight by naming your company at the opening and closing
+Rs 50,000/
+• Two complimentary registration to conference;
+• Company-supplied banner (4’x3′) prominently displayed during the conference.
+• Logo on conference e-proceedings and conference website
+• Company-supplied marketing material placed at the registration desk
+A/c No.: 025305007799
+Bank Name: ICICI Bank, Sector-61, Noida-201301
+IFSC Code: ICIC0000253
+SWIFT Code: ICICINBBCTS
+Chief – PatronDr. Devesh Kumar Singh(Chairman)Noida International University
+PatronProf. (Dr.) Vikram Singh(Chancellor)Noida International University
+Patron & General ChairProf. (Dr.) Uma Bhardwaj(Vice- Chancellor)Noida International University
+PatronMr. Sunil KumarPresident IETE, Former AdditionalDirector General, Prasar Bharati
+Co-PatronMr. G P SinghChairman IETE Noida CentreFormer Sr. Scientist ISRO & ISRO Awardee
+Conference ChairDr. Tanya SinghDean AcademicsNoida International University
+Conference Co-ChairDr. Tanveer Ahmad WaniDean R&DNoida International University
+Conference OrganiserDr. (Prof) Vimal BibhuAssociate Dean, CSE-SETNoida International University
+Organizing Co- ChairDr. Arjit TomarHOD, CSE, SET,Noida International University
+Organizing Co- ChairDr. Gagan TiwariAssociate Dean-SOSNoida International University
+Conference SecretaryEr. Puneet Kumar YadavAssistant Professor, CSE-SETNoida International University
+Prof. Sayed Akhter Hossain
+Daffodil Varsity University, Bangladesh
+Prof. (Dr.) Ahmed Elngar
+Beni Suef University, Egypt
+Professor, School of Global Convergence Studies (SGCS), Inha University , S. Korea
+Dr. David Check-ling Ngo
+Infrastructure University
+Royal Thimphu College, Bhutan
+Astana IT University, kazakhstan
+Prof. Dr. Sonakshi Ruhela
+Rochester Institute of Technology, Dubai.
+Prof.(Dr.) Vetri Selvam Subramaniyan
+Sunway University, Malaysia.
+Dr. David Check-ling NgoInfrastructure UniversityMalaysia
+Ihtiram Raza KhanHonorary Adjunct Professor at Jamia Hamdard UniversityNew Delhi
+Aqeel KhanUniversiti TeknologiMalaysia
+Gagandeep SinghGlobal Service Delivery Cloud & Innovation Leader @ HCL TECH.Virginia
+Arif MahmudDaffodil Varsity UniversityBangladesh
+Suraiya ParveenJamia Hamdard UniversityNew Delhi
+Durgesh MishraSymbiosis UniversityIndore
+Shweta PuneetICFAI Business SchoolBangalore
+Dr. Tanya SinghDean AcademicsNoida International University, Gr.Noida
+Dr. Syed Akhter HossainDaffodil Varsity UniversityBangladesh
+Dr. Vimal BibhuDean-SETNoida International University, Gr.Noida
+Dr. Rahul JohariProfessor, GGSIPUDelhi
+• Arif Mahmud, Daffodil Varsity University, Bangladesh
+• Bhoomi Gupta, Maharaja Agrasen Institute of Technology, Delhi
+• Swati Vashisht, IILM, Gr. Noida
+• Sachin Gupta, Maharaja Agrasen Institute of Technology, Delhi
+• Latha Banda, JEMTEC, Greater Noida
+• Ganesh Gupta, Sharda University, Greater Noida
+• Hardeo Kumar Thakur, Bennett University, Greater Noida
+• Anjali Bhardwaj, Noida international University, Greater Noida
+• Kiran Devi, SGT University, Gurugram
+• Yaman Hooda, Manav Rachna International Institute of Research and Studies, Haryana
+• Ritesh Raj, Chandigarh University
+• Chethana RM, CMR University
+• Krishan Kumar, Chandigarh University
+• Shilpee Srivastava, Department of Mathematics, Chandigarh University
+• HARISHCHANDRA PRASAD,GAUTAM BUDDHA UNIVERSITY, GREATER NOIDA
+• Misha Mittal, Maharishi Markandeshwar Engineering College (MMEC), Haryana
+• Surabhi Shanker, K. R Mangalam University, Gurugram
+• Pawan Kumar, COER University, Roorkee
+• Vineeta Gulati,Maharishi Markandeshwar Engineering College (MMEC),Haryana
+• Deepender, Guru Kashi University, Punjab .
+• Sakshi Kathuria, Amity University, Gurgaon
+• Sanju, Guru Kashi University, Punjab .
+• Mohan Vishal Gupta, Teerthanker Mahaveer University, Moradabad
+• Divya Agarwal, Vivekananda Institute of Professional Studies Technical Campus, Delhi
+• Mamta Punia, Chandigarh University
+• Shalini Singh, Noida International University, Greater Noida
+• Deepanshi , Ambala College of Engineering and Applied Research, Punjab .
+• Lovdeep Grover, Guru Kashi University,Punjab
+• Paritosh Kumar Yadav, NIT Raipur
+• Kumud Sachdeva, Chandigarh University
+• Kajal Jain Mittal, Maharishi Markandeshwar Deemed to be University, Haryana
+• Yogita Yashveer Raghav, Department of Computer Science, K R Mangalam University, Haryana
+• Rohit Kanauzia, Chandigarh University
+• Gulshan Choudhary, Chandigarh university
+• Prabhneet Singh,Chandigarh University
+• Pharindra Kumar Sharma, SRCEM Banmore, Madhya Pradesh
+• Vijay Vir Singh, Noida international University, Greater Noida
+• Sharad Kumar Agarwal, Noida International University, Greater Noida
+• Archna Goyal, K R Mangalam University,Haryana
+• Ibrahim Yusuf, Bayero University, Kano, Nigeria
+• Garima Srivastava, Mangalmay Institute of Engineering and Technology, Greater Noida
+• Prof Ravinder Kumar, Chandigarh University, Mohali
+• Amit Kumar Jaiswal, Computer Networks, UTC
+• Prag Singhal, ABES Engineering College, Ghaziabad
+• Ninitha Mary Antonina, Jain Deemed-to-be-University
+• Dr. Devesh Kumar Singh (Chairman)
+• Prof. (Dr.) Vikram Singh (Chancellor)
+• Mr. Himanshu Singh (Trustee)
+• Prof. (Dr.) Uma Bhardwaj (Vice -Chancellor)
+• Mr. Sunil Kumar-President ICTE, Former Additional Director General, Prasar Bharati
+• Mr. G.P.Singh- Chairman, IETE Noida Centre
+• Syed Akhter Hossain, Dean and Professor of CSE- Daffodil International University, Dhaka.
+• Prof Chin Mui Yin, Head of Centre for Postgraduate Studies and Research- Tunku Adbur Rahman University of Management & Technology, Malaysia
+• Longbing Cao, Professor- University of Technology, Sydney
+• Alan Prem Kumar, Department of Pharmacology, National University of Singapore
+• (Dr.) Pallavi Majumdar, Royal Thimphu College, Bhutan
+• (Dr.) Vetriselvan Subramaniyan, Department ofMedical Sciences, Sunway University, Malaysia.
+• Dr. Sonakshi Ruhela, Assistant Professor of Psychology, Rochester Institute of Technology, Dubai.
+• (Dr.) Ahmed A Elngar, Beni Suef University, Egypt
+• Mohamed Bettaz, Czech Technical University, Prague
+• Elmootazbellah Elnozahy, King Abdullah University of Science and Technology, Jeddah
+• Domenico Talia, University of Calabria, Italy
+• Abdelkader Derbali, Taibah University, Saudi Arabia
+• (Dr.) Miroslav Skoric, Senior Member IEEE Section, Russia
+• (Dr.)Ashish Seth, School of Global Convergence Studies, Inha University, Tashkent, Uzbekistan
+• (Dr.) Mohammed Abdul Matheen, Saudi Electronic University, Saudi. ArabiaProf. (Dr.) Valentina Emilia Balas, Professor, University of Arad, Romania.
+• Mr. G P Singh, Chairman IETE Noida Centre
+• Brig. V.K. Pandey, IETE
+• Dr. K Seetha Ram Babu, IETE
+• Dr. Raman Kumar, Director, International Affairs, Prasar Bharati
+• Dr. Rahul Johari, Associate Professor, GGSIPU
+• Dr. Puneet Sud, Principal (Technical Education) Govt. of Himachal Pradesh
+• Dr. Munshi Yadav, GTBCE & Member of AICTE
+• Dr. Suraiya Parveen, Associate Professor, Jamia Hamdard University, New Delhi
+• Dr. Santosh Sonavane,COO, Modern Education Society, Pune
+• Dr. Jyoti Singhal, Professor, MANIT,Bhopal
+• Dr. Teena Bagga, Professor, Jamia Milia Islamia, New Delhi
+• Dr. Kalpana Johri, Professor, CDAC
+• Dr. Arun Sharma, Dean Academic Affairs, Indira Gandhi Delhi Technical University
+• Dr. Sachin Gupta, Dean, Maharaja Agarsen Institute of Technologies
+• Dr. Bhoomi Gupta, Head ITE Dept.,Maharaja Agarsen Institute of Technologies
+• Dr. Shilpi Sharma, Associate Professor, Amity University
+• Dr. Naresh Kumar,Dean Applied & Computational Science, GLBITM, Gr. Noida
+• Dr. Swati Vashisht, Assistant Professor, GLBITM,Gr. Noida
+• Dr. Durgesh Mishra, Campus Director, Symbiosis University, Indore.
+• Dr. Ratandeep R.Deshmukh, Director/Principal ICEEM
+• Dr. Dharmendra Kumar Dubey, Director, Shree Dhanvantary College of Engg. & Technology, Gujarat
+• Dr. Jay Singh, GLBITM, Gr. Noida
+• Dr. Bibhuti Saran, IEC, Gr. Noida
+• Dr. Hardev Thakur, Bennett University, Gr. Noida
+Noida International UniversityPlot No. 1, Sector-17 A, Yamuna Expressway, Gautam Budh Nagar, Uttar Pradesh 201312www.niu.edu.in
+Registrar Phone Number: +91 7840099618
+Source: https://niu.edu.in/icadis/

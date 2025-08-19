@@ -1,0 +1,16 @@
+{
+  "dataset_summary": {
+    "total_pairs": 0,
+    "average_quality": 0.0,
+    "average_semantic": 0.0,
+    "average_cultural": 0.0
+  },
+  "generation_methods": {},
+  "edge_cases": {},
+  "context_files": {},
+  "quality_distribution": {
+    "excellent": 0,
+    "good": 0,
+    "acceptable": 0
+  }
+}

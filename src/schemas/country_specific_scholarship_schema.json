@@ -1,0 +1,51 @@
+{
+  "type": "object",
+  "properties": {
+    "country_specific_scholarships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "country_or_region": {
+            "type": "string"
+          },
+          "scholarship_details": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "criteria": {
+                  "type": "string"
+                },
+                "scholarship_info": {
+                  "type": "string"
+                }
+              },
+              "required": ["criteria", "scholarship_info"]
+            }
+          },
+          "exceptions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "notes": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": ["name", "description", "country_or_region", "scholarship_details"]
+      }
+    }
+  },
+  "required": ["country_specific_scholarships"]
+}

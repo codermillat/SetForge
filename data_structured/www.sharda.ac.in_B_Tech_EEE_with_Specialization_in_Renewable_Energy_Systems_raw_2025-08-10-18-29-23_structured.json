@@ -1,0 +1,47 @@
+{
+  "source_file": "www.sharda.ac.in_B_Tech_EEE_with_Specialization_in_Renewable_Energy_Systems_raw_2025-08-10-18-29-23.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This document outlines various programs, schools, reports, and initiatives at Sharda University for the 2025-26 academic year. It includes information on dental sciences, medical sciences, nursing, examinations, academic credits, curriculum feedback, university brochures, leadership, history, statutory bodies, tenders, university acts, COVID-19 related information, counselling services, skill enhancement programs, language and communication initiatives, entrepreneurship, innovation, an FM radio station (Suno Sharda-90.8FM), a mentoring portal (Paramarsh), international credit transfer programs, and specific campus locations in Uzbekistan and Agra.",
+      "raw_content": "• Programme 2025-26\n• School of Dental Sciences\nSchool of Medical Sciences & Research\nSharda School of Nursing Science & Research\n• School of Medical Sciences & Research\n• Sharda School of Nursing Science & Research\nExamination Annual Report\nAcademic Bank of Credits (ABC)\nCurricula Feedback\nUniversity Brochure\n• Examination Annual Report\n• Academic Bank of Credits (ABC)\n• Curricula Feedback\n• University Brochure\n• Get to know sharda\n• Perspective Plan\n• Leadership\n• History\n• Statutory Bodies of the University\n• Sharda Tenders\n• Act, Statutes and Ordinances\n• COVID19\n• Family & Couple Counselling Services(FCCS)\n• Capacity Development & Skill Enhancement\n• Language and Communication Skill Initiatives: Sharda Skills\n• Soft Skill Initiatives : Career Counseling and Development Center\n• Awareness of Trends in Technology : IIC\n• Entrepreneurship\n• Innovation and Entrepreneurship\nFM Radio: Suno Sharda-90.8FM\n• FM Radio: Suno Sharda-90.8FM\nParamarsh- Our Mentoring Portal\n• Paramarsh- Our Mentoring Portal\n• Covid 19 Updates\n• Sharda University Uzbekistan\n• Sharda University Agra\n• Courses on Human Values and Professional ethics\n• National Cyber Crime Reporting Portal\n• International Credit Transfer Programme"
+    },
+    "admission_requirements": {
+      "academic_programs": [
+        {
+          "program_name": "Example Master's in Computer Science",
+          "eligibility_criteria": [
+            "Bachelor's degree in Computer Science or a related field.",
+            "Minimum GPA of 3.0 on a 4.0 scale.",
+            "Proficiency in at least one programming language."
+          ],
+          "required_documents": [
+            "Official transcripts from all previous institutions.",
+            "Two letters of recommendation.",
+            "Curriculum Vitae (CV).",
+            "Statement of Purpose (SOP).",
+            "GRE scores (optional, but recommended)."
+          ],
+          "application_deadline": "YYYY-MM-DD"
+        },
+        {
+          "program_name": "Example Bachelor of Arts in History",
+          "eligibility_criteria": [
+            "High school diploma or equivalent.",
+            "Minimum GPA of 2.5 on a 4.0 scale.",
+            "Completion of high school mathematics requirement."
+          ],
+          "required_documents": [
+            "Official high school transcripts.",
+            "One letter of recommendation from a teacher.",
+            "Personal Essay."
+          ],
+          "application_deadline": "YYYY-MM-DD"
+        }
+      ]
+    },
+    "career_path": {
+      "summary": "This text outlines potential career paths following a course, focusing on research in renewable energy technologies, the integration of renewables into existing power systems, and roles within electrical power and energy companies, including providing cloud infrastructure for enterprise systems.",
+      "raw_content": "Career path you can choose after the course\n• Research Industries in designing, developing and building of renewable energy technologies.\n• Integration of renewable energy generation into existing power systems\n• Electrical Power and Energy Companies such as,\n• Provide cloud infrastructure for enterprise systems"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "source_file": "www.sharda.ac.in_Masters_in_Law_LLM_Course_Eligibility_Admissions_2025_raw_2025-08-10-18-29-17.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This document outlines guidelines related to visas, the Foreigners Regional Registration Office (FRRO), and medical insurance. The content is presented as a simple list of these two guideline categories.",
+      "raw_content": "Guidelines for Visa and FRO/FRRO\nGuidelines for Medical Insurance\n• Guidelines for Visa and FRO/FRRO\n• Guidelines for Medical Insurance"
+    },
+    "admission_requirements": {
+      "admissionRequirements": [
+        {
+          "programName": "Example Bachelor's Degree",
+          "eligibility": "High school diploma with a minimum GPA of 3.5, or equivalent.",
+          "requiredDocuments": [
+            "Completed application form",
+            "High school transcripts",
+            "Letters of recommendation (2)",
+            "Personal essay"
+          ],
+          "applicationDeadline": "YYYY-MM-DD"
+        },
+        {
+          "programName": "Example Master's Program",
+          "eligibility": "Bachelor's degree in a related field with at least 2 years of relevant work experience.",
+          "requiredDocuments": [
+            "Completed application form",
+            "Undergraduate transcripts",
+            "Resume/CV",
+            "Statement of purpose",
+            "GRE scores (if applicable)"
+          ],
+          "applicationDeadline": "YYYY-MM-DD"
+        }
+      ]
+    }
+  }
+}

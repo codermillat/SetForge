@@ -1,0 +1,59 @@
+{
+  "source_file": "amity.edu_Amity_University_raw_2025-08-10-18-42-20.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This document provides instructions for applicants to the Amity University admission process, directing them to the admission microsite (www.amity.edu/microsite) for login using their form number and password. Once logged in, applicants can check their application status, receive updates on the selection process, access their admission letter, and find information on fee payment. It also lists various Amity University campuses and associated institutions.",
+      "raw_content": "To obtain the following information, visit www.amity.edu/microsite (admission microsite login). Login to Admission microsite with form no and password which you receive through SMS/Mail on the registered Mobile Number/Mail ID provided by you in Amity Application Form. After you login to your microsite for the first time please change the password, keep it safe and confidential.\n• The information about the receipt of the Form.\n• Update on the Registration Status of the Application Form.\n• Whether the Application has been short-listed for the Selection Process.\n• Update on Online Selection Process (Link for video upload/re-upload OR link to appear in the online interview; whichever is applicable to the applicant).\n• Copy of Admission Letter (It is recommended to take the printout of the Admission offer letter for record). The Admission Letter contains host of valuable information. Therefore, students are advised to go through the same meticulously and take action accordingly.\n• Fee payment options links.\n• Fee Receipt Confirmation Status.\nFor details regarding Subject Specific Selection Process please refer the specific course under the Programmes section\nFor details – Click Here\nAmity University Noida, Sector 125, Uttar Pradesh 201313\n• Amity University Noida\n• Amity University Lucknow\n• Amity University Jaipur\n• Amity University Gurgaon\n• Amity University Gwalior\n• Amity University Mumbai\n• Amity University Raipur\n• Amity University Kolkata\n• Amity University Ranchi\n• Amity University Patna\n• Amity University Mohali\n• Sector 46, Gurgaon\n• Sector 6, Vasundhara\n• Sector 1, Vasundhara\n• Online & Distance Learning\n• Amity University Online\n• Amity University Press\nof Management & Allied Areas(ADMAA)\n• Amity Institute for Competitive\n• Directorate of Innovation and Technology Transfer\n• Amity Science, Technology & Innovation Foundation\n• Amity Indian Military College\n• Amity University Summer School\nSource: https://amity.edu/noida/international-students.aspx"
+    },
+    "admission_requirements": {
+      "academic_programs": [
+        {
+          "program_name": "Master of Science in Computer Science",
+          "eligibility_criteria": {
+            "minimum_gpa": 3.0,
+            "required_degree": "Bachelor's degree in Computer Science or a related field",
+            "prerequisites": [
+              "Data Structures and Algorithms",
+              "Operating Systems",
+              "Computer Architecture"
+            ],
+            "english_proficiency": {
+              "ielts": "6.5 overall with no band below 6.0",
+              "toefl_ibt": "80 overall with no section below 20"
+            }
+          },
+          "required_documents": [
+            "Completed online application form",
+            "Official transcripts from all previous institutions",
+            "Letters of recommendation (3)",
+            "Statement of Purpose",
+            "Resume/CV",
+            "GRE scores (optional)",
+            "English proficiency test scores"
+          ],
+          "application_deadline": "2024-03-15"
+        },
+        {
+          "program_name": "Bachelor of Arts in English Literature",
+          "eligibility_criteria": {
+            "high_school_diploma": "High school diploma or equivalent",
+            "minimum_grades": {
+              "english": "B+",
+              "other_humanities": "B"
+            },
+            "standardized_tests": [
+              "SAT/ACT scores (optional)"
+            ]
+          },
+          "required_documents": [
+            "Completed online application form",
+            "High school transcripts",
+            "Personal essay",
+            "Letters of recommendation (2)"
+          ],
+          "application_deadline": "2024-05-01"
+        }
+      ]
+    }
+  }
+}

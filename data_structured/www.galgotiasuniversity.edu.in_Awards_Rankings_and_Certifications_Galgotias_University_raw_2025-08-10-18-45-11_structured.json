@@ -1,0 +1,61 @@
+{
+  "source_file": "www.galgotiasuniversity.edu.in_Awards_Rankings_and_Certifications_Galgotias_University_raw_2025-08-10-18-45-11.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "The provided text consists of a single call to action: \"Enquire Now.\"",
+      "raw_content": "• Enquire Now\n"
+    },
+    "admission_requirements": {
+      "admissionRequirements": [
+        {
+          "programName": "Bachelor of Science in Computer Science",
+          "eligibilityCriteria": {
+            "minimumGPA": "3.0",
+            "prerequisiteCourses": [
+              "Mathematics (Calculus)",
+              "Physics",
+              "Computer Science Fundamentals"
+            ],
+            "standardizedTests": {
+              "SAT_ACT": "Accepted, with minimum scores to be determined",
+              "TOEFL_IELTS": "Required for international students, minimum TOEFL iBT 80 or IELTS 6.5"
+            }
+          },
+          "requiredDocuments": [
+            "Completed online application form",
+            "Official high school transcripts",
+            "Two letters of recommendation from teachers",
+            "Personal essay (500-750 words)",
+            "Standardized test scores (SAT/ACT, TOEFL/IELTS if applicable)"
+          ],
+          "applicationDeadline": "March 15, [Year]"
+        },
+        {
+          "programName": "Master of Business Administration",
+          "eligibilityCriteria": {
+            "minimumGPA": "3.2",
+            "workExperience": "Minimum 2 years of relevant professional experience",
+            "standardizedTests": {
+              "GMAT_GRE": "Required, with competitive scores",
+              "TOEFL_IELTS": "Required for international students, minimum TOEFL iBT 90 or IELTS 7.0"
+            }
+          },
+          "requiredDocuments": [
+            "Completed online application form",
+            "Official undergraduate transcripts",
+            "Resume/CV",
+            "Two letters of recommendation from supervisors",
+            "GMAT/GRE scores",
+            "TOEFL/IELTS scores (if applicable)",
+            "Statement of purpose"
+          ],
+          "applicationDeadline": "January 15, [Year] (Early Decision), April 15, [Year] (Regular Decision)"
+        }
+      ]
+    },
+    "placements": {
+      "summary": "This text outlines various aspects of career planning and development, including placement services, associated recruiters, a placement policy, a placement brochure, and feedback from recruiters and students. It also highlights the highest performers and features a placement gallery, all managed by the Career Planning and Development Division (CPDD).",
+      "raw_content": "• Placements Latest Placements Career Planning and Development Division (CPDD) Associated Recruiters Corporate Tie Ups Placement Records Employability Enhancement Program Placement Policy Placement Brochure Recruiters Speak Students Speak Highest Performers Placement Gallery\n• Career Planning and Development Division (CPDD)\n• Associated Recruiters\n• Recruiters Speak\n• Highest Performers"
+    }
+  }
+}

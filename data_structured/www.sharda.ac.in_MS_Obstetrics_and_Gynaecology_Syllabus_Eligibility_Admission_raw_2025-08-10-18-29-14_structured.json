@@ -1,0 +1,57 @@
+{
+  "source_file": "www.sharda.ac.in_MS_Obstetrics_and_Gynaecology_Syllabus_Eligibility_Admission_raw_2025-08-10-18-29-14.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This document appears to be a list of various programs, schools, reports, initiatives, services, and information categories related to Sharda University. It includes details about academic offerings like the School of Dental Sciences and School of Nursing Science & Research, administrative functions such as examination reports and fee structures, student support services like career counseling and the Academic Bank of Credits, and university-wide aspects like perspective plans, history, and statutory bodies. The list also touches upon specific events or portals like SUAT 2025, Global Knowledge Seekers, and Paramarsh, along with international connections such as Sharda University Uzbekistan and the International Credit Transfer Programme.",
+      "raw_content": "• Programme 2025-26\n• School of Dental Sciences\nSchool of Medical Sciences & Research\nSharda School of Nursing Science & Research\n• School of Medical Sciences & Research\n• Sharda School of Nursing Science & Research\nExamination Annual Report\nAcademic Bank of Credits (ABC)\nCurricula Feedback\nUniversity Brochure\n• Examination Annual Report\n• Academic Bank of Credits (ABC)\n• Curricula Feedback\n• University Brochure\nInnovative Idea Scholarship\n• Innovative Idea Scholarship\n• Fee Structure for Previous Year Students\nSUAT 2025\n• Sample Papers\nGlobal Knowledge Seekers\n• Global Knowledge Seekers\nOur Recruiters\n• Our Recruiters\nBanking And Postal Services\n• Banking And Postal Services\nPerspective Plan\nLeadership\nHistory\nStatutory Bodies of the University\nSharda Tenders\nAct, Statutes and Ordinances\nCOVID19\nFamily & Couple Counselling Services(FCCS)\nCapacity Development & Skill Enhancement\nLanguage and Communication Skill Initiatives: Sharda Skills\nSoft Skill Initiatives : Career Counseling and Development Center\nAwareness of Trends in Technology : IIC\nEntrepreneurship\nInnovation and Entrepreneurship\n• Get to know sharda\n• Perspective Plan\n• Leadership\n• History\n• Statutory Bodies of the University\n• Sharda Tenders\n• Act, Statutes and Ordinances\n• COVID19\n• Family & Couple Counselling Services(FCCS)\n• Capacity Development & Skill Enhancement\n• Language and Communication Skill Initiatives: Sharda Skills\n• Soft Skill Initiatives : Career Counseling and Development Center\n• Awareness of Trends in Technology : IIC\n• Entrepreneurship\n• Innovation and Entrepreneurship\nFM Radio: Suno Sharda-90.8FM\n• FM Radio: Suno Sharda-90.8FM\nGuidelines for Visa and FRO/FRRO\nGuidelines for Medical Insurance\nObservership Programmes\n• Guidelines for Visa and FRO/FRRO\n• Guidelines for Medical Insurance\n• Observership Programmes\nParamarsh- Our Mentoring Portal\n• Paramarsh- Our Mentoring Portal\nSchool of Medical Sciences & Research (SMS&R)\nSMS2102\n3 Years\n• Recruiters\n• Covid 19 Updates\n• Sharda University Uzbekistan\n• Sharda University Agra\n• Courses on Human Values and Professional ethics\n• National Cyber Crime Reporting Portal\n• International Credit Transfer Programme"
+    },
+    "admission_requirements": {
+      "academicPrograms": [
+        {
+          "programName": "Bachelor of Science in Computer Science",
+          "eligibilityCriteria": {
+            "academicBackground": "High school diploma with a strong emphasis on mathematics and science.",
+            "minimumGPA": 3.0,
+            "standardizedTests": [
+              "SAT score of 1200 or above (or equivalent ACT score)",
+              "Subject SAT in Mathematics Level 2 (recommended)"
+            ],
+            "englishProficiency": "TOEFL score of 80 or IELTS score of 6.5 (for international applicants)"
+          },
+          "requiredDocuments": [
+            "Completed online application form",
+            "Official high school transcripts",
+            "Standardized test scores (SAT/ACT)",
+            "Letters of recommendation (2)",
+            "Personal essay/statement of purpose",
+            "English proficiency test scores (if applicable)",
+            "Copy of passport (for international applicants)"
+          ],
+          "applicationDeadline": "March 15th"
+        },
+        {
+          "programName": "Master of Business Administration (MBA)",
+          "eligibilityCriteria": {
+            "academicBackground": "Bachelor's degree in any discipline from an accredited institution.",
+            "workExperience": "Minimum of 2 years of relevant professional experience.",
+            "standardizedTests": [
+              "GMAT score of 600 or above (GRE accepted as alternative)"
+            ],
+            "englishProficiency": "TOEFL score of 90 or IELTS score of 7.0 (for international applicants)"
+          },
+          "requiredDocuments": [
+            "Completed online application form",
+            "Official undergraduate transcripts",
+            "GMAT/GRE scores",
+            "Resume/Curriculum Vitae",
+            "Essays (specific prompts provided)",
+            "Letters of recommendation (3)",
+            "English proficiency test scores (if applicable)",
+            "Copy of passport (for international applicants)"
+          ],
+          "applicationDeadline": "January 15th (Early Decision), April 15th (Regular Decision)"
+        }
+      ]
+    }
+  }
+}

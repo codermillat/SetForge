@@ -1,0 +1,13 @@
+{
+  "session_id": "20250811_051026_226",
+  "target_size": 10,
+  "current_count": 0,
+  "quality_threshold": 8.5,
+  "start_time": 1754869233.04634,
+  "last_update": 1754869233.0463412,
+  "output_file": "output/setforge_dataset_10pairs_20250811_051033.jsonl",
+  "checkpoint_dir": "checkpoints",
+  "completed": false,
+  "total_attempts": 0,
+  "success_rate": 0.0
+}

@@ -1,0 +1,170 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "SetForge Knowledge Base for BD-IN Higher Education",
+  "description": "A comprehensive schema for structuring data about Indian universities and government policies for Bangladeshi students.",
+  "type": "object",
+  "properties": {
+    "source_file": {
+      "type": "string",
+      "description": "The relative path to the source document from which this data was extracted."
+    },
+    "retrieval_timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "The timestamp when the data was extracted."
+    },
+    "content_type": {
+      "type": "string",
+      "enum": ["university_profile", "government_policy", "equivalence_rules"],
+      "description": "The type of information contained in this record."
+    },
+    "university_profile": {
+      "type": "object",
+      "properties": {
+        "university_name": { "type": "string" },
+        "campus_locations": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "course_catalog": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/course" }
+        },
+        "scholarship_policy": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/scholarship" }
+        },
+        "admission_requirements": {
+          "type": "object",
+          "properties": {
+            "general_documents": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "List of common documents required (e.g., 'Valid Passport', 'Student Visa')."
+            },
+            "english_proficiency_required": { "type": "boolean" }
+          }
+        },
+        "contact_information": { "$ref": "#/definitions/contact_info" }
+      },
+      "required": ["university_name", "course_catalog"]
+    },
+    "government_policy": {
+      "type": "object",
+      "properties": {
+        "policy_name": { "type": "string" },
+        "issuing_body": { "type": "string", "description": "e.g., 'Indian High Commission in Bangladesh', 'Bangladesh e-passport portal'" },
+        "description": { "type": "string" },
+        "source_url": { "type": "string", "format": "uri" }
+      }
+    },
+    "equivalence_rules": {
+      "type": "object",
+      "properties": {
+        "rule_name": { "type": "string", "default": "Bangladesh to India Educational Equivalence" },
+        "degree_equivalences": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/equivalence_mapping" }
+        },
+        "gpa_conversion_rules": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/gpa_scale" }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "course": {
+      "type": "object",
+      "properties": {
+        "program_name": { "type": "string" },
+        "indian_degree_name": { "type": "string", "description": "e.g., B.Tech, B.Sc. (Hons)" },
+        "department": { "type": "string" },
+        "duration_years": { "type": "number" },
+        "description": { "type": "string" },
+        "eligibility": {
+          "type": "object",
+          "properties": {
+            "bangladeshi_qualification": { "type": "string", "description": "e.g., HSC, Alim, Diploma" },
+            "required_gpa": { "type": "number" },
+            "gpa_scale": { "type": "number", "description": "The scale of the GPA (e.g., 5.0)" },
+            "required_subjects": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "fee_structure": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/fee_details" }
+        }
+      },
+      "required": ["program_name", "indian_degree_name", "duration_years"]
+    },
+    "scholarship": {
+      "type": "object",
+      "properties": {
+        "scholarship_name": { "type": "string" },
+        "applicable_to_program": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "List of programs this applies to. Use 'all' for all programs."
+        },
+        "is_flat_rate": { "type": "boolean" },
+        "flat_percentage": { "type": "number" },
+        "gpa_based_tiers": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "min_gpa": { "type": "number" },
+              "max_gpa": { "type": "number" },
+              "gpa_scale": { "type": "number", "default": 5.0 },
+              "percentage": { "type": "number" }
+            },
+            "required": ["min_gpa", "max_gpa", "percentage"]
+          }
+        },
+        "coverage": { "type": "string", "description": "e.g., 'Tuition fee only', 'Full scholarship'" },
+        "continuation_criteria": { "type": "string" },
+        "exclusions": { "type": "string", "description": "Programs or conditions excluded from this scholarship." },
+        "notes": { "type": "string" }
+      },
+      "required": ["scholarship_name", "applicable_to_program"]
+    },
+    "fee_details": {
+      "type": "object",
+      "properties": {
+        "category": { "type": "string", "enum": ["tuition", "hostel", "admission", "other"] },
+        "amount": { "type": "number" },
+        "currency": { "type": "string", "default": "INR" },
+        "frequency": { "type": "string", "enum": ["per_year", "per_semester", "one_time"] }
+      },
+      "required": ["category", "amount", "frequency"]
+    },
+    "equivalence_mapping": {
+      "type": "object",
+      "properties": {
+        "bangladesh_degree": { "type": "string" },
+        "india_equivalent": { "type": "string" },
+        "notes": { "type": "string" }
+      },
+      "required": ["bangladesh_degree", "india_equivalent"]
+    },
+    "gpa_scale": {
+      "type": "object",
+      "properties": {
+        "country": { "type": "string", "enum": ["Bangladesh", "India"] },
+        "level": { "type": "string", "description": "e.g., University, HSC/SSC" },
+        "scale": { "type": "number", "description": "e.g., 4.0, 5.0, 10.0" }
+      },
+      "required": ["country", "level", "scale"]
+    },
+    "contact_info": {
+      "type": "object",
+      "properties": {
+        "address": { "type": "string" },
+        "phone": { "type": "string" },
+        "email": { "type": "string", "format": "email" },
+        "website": { "type": "string", "format": "uri" }
+      }
+    }
+  }
+}

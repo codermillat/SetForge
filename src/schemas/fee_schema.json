@@ -1,0 +1,62 @@
+{
+  "title": "Fee Structure Schema",
+  "description": "Schema for capturing detailed fee information for a course or program.",
+  "type": "object",
+  "properties": {
+    "currency": {
+      "type": "string",
+      "description": "The currency of the fees (e.g., INR, USD)."
+    },
+    "tuition_fees": {
+      "type": "array",
+      "description": "A list of tuition fees, broken down by semester or year.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "student_type": {
+            "type": "string",
+            "description": "The type of student the fee applies to (e.g., 'national', 'international', 'saarc').",
+            "enum": ["national", "international", "saarc"]
+          },
+          "period": {
+            "type": "string",
+            "description": "The period for the fee (e.g., '1st Year', 'Semester 1')."
+          },
+          "amount": {
+            "type": "number",
+            "description": "The fee amount for the period."
+          }
+        },
+        "required": ["student_type", "period", "amount"]
+      }
+    },
+    "other_fees": {
+      "type": "array",
+      "description": "A list of other mandatory or optional fees.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "student_type": {
+            "type": "string",
+            "description": "The type of student the fee applies to (e.g., 'national', 'international', 'saarc').",
+            "enum": ["national", "international", "saarc"]
+          },
+          "name": {
+            "type": "string",
+            "description": "The name of the fee (e.g., 'Hostel Fee', 'Examination Fee')."
+          },
+          "amount": {
+            "type": "number",
+            "description": "The amount of the fee."
+          },
+          "description": {
+            "type": "string",
+            "description": "A brief description of the fee."
+          }
+        },
+        "required": ["student_type", "name", "amount"]
+      }
+    }
+  },
+  "required": ["currency", "tuition_fees"]
+}

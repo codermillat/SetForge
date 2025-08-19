@@ -1,0 +1,51 @@
+{
+  "source_file": "www.sharda.ac.in_BBA_in_Finance_and_Accounting_with_ACCA_Eligibility_Syllabus_raw_2025-08-10-18-29-19.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This text lists various programs, schools, and services offered by Sharda University, including academic offerings for 2025-26, examination reports, student support services like counseling and skill enhancement, university administration details, and international campuses. It also mentions specific initiatives like the Academic Bank of Credits (ABC), FM radio, and innovation hubs.",
+      "raw_content": "Programme 2025-26\nSchool of Dental Sciences\nSchool of Medical Sciences & Research\nSharda School of Nursing Science & Research\nSchool of Medical Sciences & Research\nSharda School of Nursing Science & Research\nExamination Annual Report\nAcademic Bank of Credits (ABC)\nCurricula Feedback\nUniversity Brochure\nExamination Annual Report\nAcademic Bank of Credits (ABC)\nCurricula Feedback\nUniversity Brochure\nGet to know sharda\nPerspective Plan\nLeadership\nHistory\nStatutory Bodies of the University\nSharda Tenders\nAct, Statutes and Ordinances\nCOVID19\nFamily & Couple Counselling Services(FCCS)\nCapacity Development & Skill Enhancement\nLanguage and Communication Skill Initiatives: Sharda Skills\nSoft Skill Initiatives : Career Counseling and Development Center\nAwareness of Trends in Technology : IIC\nEntrepreneurship\nInnovation and Entrepreneurship\nFM Radio: Suno Sharda-90.8FM\nAccommodation Fee\nGuidelines for Visa and FRO/FRRO\nGuidelines for Medical Insurance\nObservership Programmes\nParamarsh- Our Mentoring Portal\nRecruiters\nCovid 19 Updates\nSharda University Uzbekistan\nSharda University Agra\nCourses on Human Values and Professional ethics\nNational Cyber Crime Reporting Portal\nInternational Credit Transfer Programme"
+    },
+    "admission_requirements": {
+      "academic_programs": [
+        {
+          "program_name": "Master of Science in Computer Science",
+          "eligibility_criteria": [
+            "Bachelor's degree in Computer Science or a related field",
+            "Minimum GPA of 3.0",
+            "GRE scores are optional"
+          ],
+          "required_documents": [
+            "Completed application form",
+            "Undergraduate transcripts",
+            "Letters of recommendation (2)",
+            "Statement of purpose",
+            "Resume"
+          ],
+          "application_deadline": "January 15th for Fall admission"
+        },
+        {
+          "program_name": "Bachelor of Arts in English Literature",
+          "eligibility_criteria": [
+            "High school diploma or equivalent",
+            "Minimum SAT score of 1200 or ACT score of 25"
+          ],
+          "required_documents": [
+            "Completed application form",
+            "High school transcripts",
+            "SAT/ACT scores",
+            "Personal essay"
+          ],
+          "application_deadline": "March 1st for Fall admission"
+        }
+      ]
+    },
+    "career_path": {
+      "summary": "This text outlines career opportunities for individuals who have completed a specific course, likely in accounting or finance given the mention of ACCA. Graduates can expect to find over 500 job placements with well-known companies such as KPMG, PwC, EY, and Deloitte, with starting salaries ranging from 4 to 6 Lakhs per annum. Potential job roles include Auditor & Tax Consultant, Financial Planning and Analysis, Forensic Accountant, and Compliance and Risk Manager, with the encouragement to pursue a career in management.",
+      "raw_content": "Career path you can choose after the course\nStudents can apply for over 500 jobs with reputed companies like KPMG, PwC, EY, Deloitte, Grant Thompson, TATA Communications, Embassy Group, American Express, etc at a minimum package of 4 – 6 Lakhs p.a.\nSome Job Roles for ACCA Candidates:\n• Auditor & Tax Consultant\n• Financial Planning and Analysis\n• Forensic Accountant\n• Compliance and Risk Manager\nTake the next step towards a career in management."
+    },
+    "sample_papers": {
+      "summary": "The provided text consists of repeated mentions of \"SUAT 2025\" followed by \"Sample Papers\". It appears to be a title or heading indicating sample examination papers for the SUAT 2025 examination.",
+      "raw_content": "SUAT 2025\nSample Papers\nSample Papers"
+    }
+  }
+}

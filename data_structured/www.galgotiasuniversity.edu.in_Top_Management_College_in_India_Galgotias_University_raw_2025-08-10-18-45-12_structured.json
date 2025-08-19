@@ -1,0 +1,50 @@
+{
+  "source_file": "www.galgotiasuniversity.edu.in_Top_Management_College_in_India_Galgotias_University_raw_2025-08-10-18-45-12.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This text appears to be a footer or a small section of a web page, likely from Galgotias University. It includes links to a vision plan, an annual report, and a chat feature with ambassadors. It also contains copyright information and credits the developer.",
+      "raw_content": "UGC PUBLIC SELF PORTAL\n• GU Vision Plan_2030 21-01-2024\n• Annual Report-2022-23\n• Chat with an Ambassadors\n• © 2025 Copyrights Galgotias. All rights reserved.\n• Designed, developed & maintained By : City Innovates\nSource: https://www.galgotiasuniversity.edu.in/p/deparments/school-of-business/department-of-management"
+    },
+    "admission_requirements": {
+      "admissionRequirements": [
+        {
+          "programName": "Example Master's Program",
+          "eligibilityCriteria": {
+            "minimumGPA": 3.0,
+            "requiredUndergraduateDegree": "Bachelor of Science in a related field",
+            "standardizedTests": [
+              "GRE (quantitative score of 155 or higher)"
+            ],
+            "workExperience": "2 years of relevant industry experience (optional)"
+          },
+          "requiredDocuments": [
+            "Official transcripts from all previous institutions",
+            "Three letters of recommendation",
+            "Curriculum Vitae (CV)",
+            "Statement of Purpose (1-2 pages)",
+            "GRE scores report"
+          ],
+          "applicationDeadline": "2024-03-15"
+        },
+        {
+          "programName": "Example Bachelor's Program",
+          "eligibilityCriteria": {
+            "highSchoolDiploma": "High School Diploma or equivalent",
+            "minimumGPA": 2.8,
+            "standardizedTests": [
+              "SAT (minimum score of 1000) or ACT (minimum score of 20)"
+            ],
+            "englishProficiency": "TOEFL (iBT score of 80 or higher) or IELTS (score of 6.5 or higher) for non-native English speakers"
+          },
+          "requiredDocuments": [
+            "Official high school transcripts",
+            "SAT or ACT scores report",
+            "Letters of recommendation (2)",
+            "Personal essay"
+          ],
+          "applicationDeadline": "2024-01-15"
+        }
+      ]
+    }
+  }
+}

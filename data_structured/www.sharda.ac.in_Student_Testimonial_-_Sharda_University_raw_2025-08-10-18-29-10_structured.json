@@ -1,0 +1,48 @@
+{
+  "source_file": "www.sharda.ac.in_Student_Testimonial_-_Sharda_University_raw_2025-08-10-18-29-10.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This text lists various terms and topics, including \"Course Fee,\" \"Recruiters,\" \"Covid 19 Updates,\" specific university locations like \"Sharda University Uzbekistan\" and \"Sharda University Agra,\" an academic subject \"Courses on Human Values and Professional ethics,\" a governmental resource \"National Cyber Crime Reporting Portal,\" and an educational program \"International Credit Transfer Programme.\"",
+      "raw_content": "Course Fee\nRecruiters\nCovid 19 Updates\nSharda University Uzbekistan\nSharda University Agra\nCourses on Human Values and Professional ethics\nNational Cyber Crime Reporting Portal\nInternational Credit Transfer Programme"
+    },
+    "admission_requirements": {
+      "programs": [
+        {
+          "program_name": "Example Bachelor's Degree",
+          "eligibility_criteria": {
+            "academic_qualifications": "High school diploma with a minimum GPA of 3.0",
+            "prerequisites": [
+              "Completion of calculus and physics in high school"
+            ],
+            "other": "None"
+          },
+          "required_documents": [
+            "High school transcripts",
+            "SAT/ACT scores",
+            "Personal essay (500 words)",
+            "Two letters of recommendation"
+          ],
+          "application_deadline": "YYYY-MM-DD"
+        },
+        {
+          "program_name": "Example Master's Degree",
+          "eligibility_criteria": {
+            "academic_qualifications": "Bachelor's degree in a related field with a minimum GPA of 3.5",
+            "prerequisites": [
+              "GRE scores (Verbal: 160+, Quantitative: 165+)"
+            ],
+            "other": "Relevant work experience preferred"
+          },
+          "required_documents": [
+            "Bachelor's degree transcripts",
+            "GRE scores",
+            "Statement of purpose",
+            "Three letters of recommendation",
+            "Curriculum Vitae (CV)"
+          ],
+          "application_deadline": "YYYY-MM-DD"
+        }
+      ]
+    }
+  }
+}

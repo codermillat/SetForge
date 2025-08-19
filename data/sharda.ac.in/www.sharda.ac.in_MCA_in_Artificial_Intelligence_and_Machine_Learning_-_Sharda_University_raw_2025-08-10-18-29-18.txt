@@ -1,0 +1,269 @@
+• Programme 2025-26
+• School of Dental Sciences
+School of Medical Sciences & Research
+Sharda School of Nursing Science & Research
+• School of Medical Sciences & Research
+• Sharda School of Nursing Science & Research
+Examination Annual Report
+Academic Bank of Credits (ABC)
+Curricula Feedback
+University Brochure
+• Examination Annual Report
+• Academic Bank of Credits (ABC)
+• Curricula Feedback
+• University Brochure
+Programme Fee
+Hostel Fee
+Transportation Fee
+Scholarship
+Innovative Idea Scholarship
+• Programme Fee
+• Hostel Fee
+• Transportation Fee
+• Scholarship
+• Innovative Idea Scholarship
+• Fee Structure for Previous Year Students
+• SUAT 2025
+Sample Papers
+• Sample Papers
+Global Knowledge Seekers
+• Global Knowledge Seekers
+Our Recruiters
+• Our Recruiters
+Banking And Postal Services
+• Banking And Postal Services
+Perspective Plan
+Leadership
+History
+Statutory Bodies of the University
+Sharda Tenders
+Act, Statutes and Ordinances
+COVID19
+Family & Couple Counselling Services(FCCS)
+Capacity Development & Skill Enhancement
+Language and Communication Skill Initiatives: Sharda Skills
+Soft Skill Initiatives : Career Counseling and Development Center
+Awareness of Trends in Technology : IIC
+Entrepreneurship
+Innovation and Entrepreneurship
+• Get to know sharda
+• Perspective Plan
+• Leadership
+• History
+• Statutory Bodies of the University
+• Sharda Tenders
+• Act, Statutes and Ordinances
+• COVID19
+• Family & Couple Counselling Services(FCCS)
+• Capacity Development & Skill Enhancement
+• Language and Communication Skill Initiatives: Sharda Skills
+• Soft Skill Initiatives : Career Counseling and Development Center
+• Awareness of Trends in Technology : IIC
+• Entrepreneurship
+• Innovation and Entrepreneurship
+FM Radio: Suno Sharda-90.8FM
+• FM Radio: Suno Sharda-90.8FM
+Accommodation Fee
+Guidelines for Visa and FRO/FRRO
+Guidelines for Medical Insurance
+Observership Programmes
+• Accommodation Fee
+• Guidelines for Visa and FRO/FRRO
+• Guidelines for Medical Insurance
+• Observership Programmes
+Paramarsh- Our Mentoring Portal
+• Paramarsh- Our Mentoring Portal
+MCA - (Artificial Intelligence and Machine Learning)
+SET0105
+2 Years
+• Course Fee
+Sharda University’s MCA in Artificial Intelligence & Machine Learning prepares students for the future of tech. The programme combines core computer applications with advanced AI, data analytics, and deep learning. With hands-on training and industry-focused projects, students graduate ready to lead in AI development, data science, and intelligent automation.
+Programme Educational Objectives (PEOs):
+The Program Educational Objectives (PEOs) of PG Program in Computer Applications are:
+• PEO-1 The graduates will establish themselves as professionals by solving real-life problems using exploratory and analytical skills acquired in the field of Computer Science and Applications.
+• PEO-2 The graduates will provide sustainable solutions to ever changing interdisciplinary global problems through their Research & Innovation capabilities.
+• PEO-3 The graduates will become employable, successful entrepreneurs as an outcome of Industry-Academia collaboration.
+• PEO-4 The graduates will embrace professional code of ethics while providing solution to multidisciplinary social problems in industrial, entrepreneurial and research environment to demonstrate leadership qualities
+Program Outcomes (PO’s):
+• PO1 - Computing Knowledge:
+Ability to develop and implement optimal solutions to complex computing problems using industry-recognized best practices and standards.
+• PO2 - Problem Analysis:
+Apply problem-solving and technical skills to analyze complex problems and propose feasible computing solutions using fundamental principles of mathematics and computing sciences.
+• PO3 - Design/Development of Solutions:
+Design and develop the solutions to practical and complex Applications problems for welfare of society.
+• PO4 - Research and Development:
+Apply research-based knowledge and methodologies to analyze the problem, interpretation of data and synthesis of the information using technical tools.
+• PO5 - Modern Tool Usage:
+Create, select, and apply appropriate techniques, resources, and modern IT tools including application and modeling to computer applications with an understanding of the limitations.
+• PO6 - Innovation and Entrepreneurship:
+Use innovative approaches to develop opportunities to create value and wealth for the betterment of the individual and society at large.
+• PO7 - Environment and Sustainability:
+Understand the impact of the professional system solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+• PO8 - Personal and Professional Ethics:
+Apply ethical decision making in the development, implementation, and management during professional life.
+• PO9 - Communication:
+Ability to communicate effectively in both manner, verbally and written, to provide integrated solutions to customers/users or peers.
+• PO10 - Life-Long Learning:
+Continue the process of life-long learning through professional activities adapt themselves with ease to new technologies,
+• PSO1 - Computer Applications:
+Use and apply current technical concepts and practices in the core areas of computer science, i.e. networking, data management, software Applications, computer security and artificial intelligence.
+• PSO2 - Computer Applications:
+To cater to the demands of the IT and IT-enabled sectors through a strong theoretical foundation with high quality teaching complemented with extensive practical training.
+This course is for individuals who...
+Students who are looking for...
+Course Fee
+• Yearly Fee
+• Semester Fee
+1st Year
+180000: 2nd Year
+185400
+1st Sem
+91500: 3rd Sem
+94200
+2nd Sem
+91500: 4th Sem
+Fee Per Semester: Fee Per Year
+NA: 5000**
+Semester 1
+S. No. | Course Code | Paper ID | Course | Teaching Load | Credits | Pre-requisites | Type of Course
+1 | MCCR1101 | Database Management System | 4 | 0 | 0 | 4 | Fundamentals of computers | CC
+2 | MCCR1102 | C Programming and File Handling | 4 | 0 | 0 | 4 | Fundamentals of computers
+and basic mathematics | CC
+3 | MCAI1101 | Artificial Intelligence and Machine Learning | 4 | 0 | 0 | 4 | Fundamentals of computers | CC
+4 | MCCR1104 | Computer Architecture and Organization | 3 | 0 | 0 | 3 | Boolean Algebra | CC
+5 | MCCR1105 | Computing and Innovation | 2 | 0 | 0 | 2 | Fundamentals of computers | CC
+6 | MCCR1501 | Database Management Systems Lab | 0 | 0 | 2 | 1 | Fundamentals of computers | CC
+7 | MCCR1502 | C Programming and File Handling Lab | 0 | 0 | 2 | 1 | Fundamentals of computers | CC
+8 | MCAI1501 | Artificial Intelligence and Machine Learning Lab | 0 | 0 | 2 | 1 | Fundamentals of computers | CC
+TOTAL CREDITS: 20
+Course Code
+Course
+Type of Course
+MCCR1101
+Fundamentals of computers
+MCCR1102
+C Programming and File Handling
+MCAI1101
+Artificial Intelligence and Machine Learning
+MCCR1104
+Computer Architecture and Organization
+MCCR1105
+MCCR1501
+Database Management Systems Lab
+MCCR1502
+C Programming and File Handling Lab
+MCAI1501
+Artificial Intelligence and Machine Learning Lab
+Semester 2
+1 | MCCR1106 | Data Structure Using C | 3 | 1 | 0 | 4 | C Programming | CC
+2 | MCCR1201 | Application Programming in Python | 4 | 0 | 0 | 4 | C Programming | DSE
+3 | MCA11401 | Advanced Prompt Engineering | 3 | 0 | 0 | 3 | Basics of Mathematics | SEC
+4 | POE-I | 3 | 0 | 0 | 3 | POE
+MCCR1001 | Big Data Analytics | Basics of Computers
+MCAI1001 | Soft Computing | Basics of Computers
+MCAI1002 | Cognitive Computing | Basics of Computers
+5 | MCCR1504 | Data Structure Using C Lab | 0 | 0 | 2 | 1 | C Programming | CC
+6 | MCCR1505 | Application Programming in Python Lab | 0 | 0 | 2 | 1 | C Programming | DSE
+7 | MCCR1601 | Project Minor | 0 | 0 | 0 | 4 | Programing Methodology | Project
+8 | MCCR1801 | Community Connect | 0 | 0 | 0 | 2 | Audit
+TOTAL CREDITS: 22
+MCCR1106
+Data Structure Using C
+MCCR1201
+Application Programming in Python
+MCA11401
+MCCR1001
+Basics of Computers
+MCAI1001
+MCAI1002
+MCCR1504
+Data Structure Using C Lab
+MCCR1505
+Application Programming in Python Lab
+MCCR1601
+MCCR1801
+Semester 3
+L | T | P | 4. SEC
+1 | MCCR2101 | Design and Analysis of Algorithms | 3 | 1 | 0 | 4 | Data Structures | CC
+2 | MCAI2101 | Prediction Using Machine Learning | 4 | 0 | 0 | 4 | C Programming | CC
+3 | MCCR2103 | Software Engineering | 4 | 0 | 0 | 4 | Computer Fundamental | CC
+4 | Research Methodology + IPR | 0 | 0 | 2 | 1 | Research Methodology | RM+IPR
+5 | MCAI2501 | Prediction using Machine Learning Lab | 0 | 0 | 2 | 1 | C Programming | CC
+6 | MCCR2502 | Design and Analysis of Algorithms Lab | 0 | 0 | 2 | 1 | Data Structures | CC
+7 | MCCR2503 | Software Engineering Lab | 0 | 0 | 2 | 1 | Computer Fundamental | CC
+8 | MCCR2701 | Industry Connect | 0 | 0 | 0 | 0 | Project
+9 | MCCR2601 | Dissertation (Research Based Learning) | 0 | 0 | 0 | 4 | Google Scholar | Project
+MCCR2101
+Design and Analysis of Algorithms
+MCAI2101
+Prediction Using Machine Learning
+MCCR2103
+Research Methodology + IPR
+MCAI2501
+Prediction using Machine Learning Lab
+MCCR2502
+Design and Analysis of Algorithms Lab
+MCCR2503
+MCCR2701
+MCCR2601
+Dissertation (Research Based Learning)
+Semester 4
+1 | MCCR2104 | Technical Skill Enhancement Course | 0 | 0 | 4 | 2 | Computer Science Core Subjects | CC
+2 | POE-II | 0 | 0 | 4 | 2 | POE
+MCCR2504 | C with ASP.Net | Computer Programming
+MCCR2505 | Introduction to PHP with MySQL | Computer Programming
+MCCR2506 | Android Application Development | Computer Programming
+3 | MCCR2602 | Project | 0 | 0 | 0 | 14 | Research and Project Methodology | Project
+TOTAL CREDITS: 18
+MCCR2104
+Technical Skill Enhancement Course
+Computer Science Core Subjects
+MCCR2504
+MCCR2505
+Introduction to PHP with MySQL
+MCCR2506
+MCCR2602
+Research and Project Methodology
+For National Students: BCA/B.Sc. with minimum 50% marks Must have studied Mathematics at graduation or Sr. Secondary level.
+*:not(input):not(textarea):not([contenteditable=""]):not(
+user-select: text important
+pointer-events: initial important
+html body *:not(input):not(textarea)::selection,
+body *:not(input):not(textarea)::selection,
+html body div *:not(input):not(textarea)::selection,
+html body span *:not(input):not(textarea)::selection,
+html body p *:not(input):not(textarea)::selection,
+html body h1 *:not(input):not(textarea)::selection,
+html body h2 *:not(input):not(textarea)::selection,
+html body h3 *:not(input):not(textarea)::selection,
+html body h4 *:not(input):not(textarea)::selection,
+html body h5 *:not(input):not(textarea)::selection {
+background-color: 3297fd important
+color: ffffff important
+width: 40px
+.bp-doc .pdfViewer .page:not(.bp-is-invisible):before {
+.ladno_ru [style*="position: absolute left: 0 right: 0 top: 0 bottom: 0 "] {
+display: none important
+z-index: -1 important
+.www_newvision_co_ug .v-snack:not(.v-snack--absolute) {
+/*derstarih_com*/
+.derstarih_com .bs-sks {
+For International Students: The eligibility criterion for all programs for international applicants is minimum 50% in the qualifying examination and having studied the pre-requisite subjects for admission in to the desired program.
+BCA/B.Sc. with minimum 50% marks Must have studied Mathematics at graduation or Sr. Secondary level.
+How to apply for the course?
+Career path you can choose after the course
+Take the next step towards a career in engineering.
+• Recruiters
+• Covid 19 Updates
+• Sharda University Uzbekistan
+• Sharda University Agra
+• Courses on Human Values and Professional ethics
+• National Cyber Crime Reporting Portal
+• International Credit Transfer Programme
+85922654
++91-120-4570000
+• +91-120-4570000
++91-9205586066
++91-8800998881
+
+Source: https://www.sharda.ac.in/programmes/mca-artificial-intelligence-and-machine-learning

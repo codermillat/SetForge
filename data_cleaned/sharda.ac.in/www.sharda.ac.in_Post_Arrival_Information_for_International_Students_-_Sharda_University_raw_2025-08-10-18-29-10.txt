@@ -1,0 +1,106 @@
+• Programme 2025-26
+• School of Dental Sciences
+School of Medical Sciences & Research
+Sharda School of Nursing Science & Research
+• School of Medical Sciences & Research
+• Sharda School of Nursing Science & Research
+Examination Annual Report
+Academic Bank of Credits (ABC)
+Curricula Feedback
+University Brochure
+• Examination Annual Report
+• Academic Bank of Credits (ABC)
+• Curricula Feedback
+• University Brochure
+Programme Fee
+Hostel Fee
+Transportation Fee
+Scholarship
+Innovative Idea Scholarship
+• Programme Fee
+• Hostel Fee
+• Transportation Fee
+• Scholarship
+• Innovative Idea Scholarship
+• Fee Structure for Previous Year Students
+• SUAT 2025
+Sample Papers
+• Sample Papers
+Global Knowledge Seekers
+• Global Knowledge Seekers
+Our Recruiters
+• Our Recruiters
+Banking And Postal Services
+• Banking And Postal Services
+Perspective Plan
+Leadership
+History
+Statutory Bodies of the University
+Sharda Tenders
+Act, Statutes and Ordinances
+COVID19
+Family & Couple Counselling Services(FCCS)
+Capacity Development & Skill Enhancement
+Language and Communication Skill Initiatives: Sharda Skills
+Soft Skill Initiatives : Career Counseling and Development Center
+Awareness of Trends in Technology : IIC
+Entrepreneurship
+Innovation and Entrepreneurship
+• Get to know sharda
+• Perspective Plan
+• Leadership
+• History
+• Statutory Bodies of the University
+• Sharda Tenders
+• Act, Statutes and Ordinances
+• COVID19
+• Family & Couple Counselling Services(FCCS)
+• Capacity Development & Skill Enhancement
+• Language and Communication Skill Initiatives: Sharda Skills
+• Soft Skill Initiatives : Career Counseling and Development Center
+• Awareness of Trends in Technology : IIC
+• Entrepreneurship
+• Innovation and Entrepreneurship
+FM Radio: Suno Sharda-90.8FM
+• FM Radio: Suno Sharda-90.8FM
+Accommodation Fee
+Guidelines for Visa and FRO/FRRO
+Guidelines for Medical Insurance
+Observership Programmes
+• Accommodation Fee
+• Guidelines for Visa and FRO/FRRO
+• Guidelines for Medical Insurance
+• Observership Programmes
+Paramarsh- Our Mentoring Portal
+• Paramarsh- Our Mentoring Portal
+Post Arrival Information for International Students
+• Chat with a Student Ambassador
+Chat with a Student Ambassador
+Students should make sure about the following points after arriving in India
+• After reaching Delhi International Airport, University will arrange Airport Pickup for Students who have shared their flight details with International Relations Division.
+• Student will report in the International Relations Division (IRD) along with all the required documents and interact with the reporting officer.
+• The documents will be checked and verified by IRD staff. Students will fill the registration form and submit the required documents after reading them carefully to get registered in the respective programs.
+• It is a mandatory for all International students except those from Nepal and Bhutan to get their Student Visa registered at FRRO/FRO Noida or New Delhi within 14 days of arrival in India. University will guide and assist Student with all the required processes.
+• Student has to report International Relations Division (IRD) for Medical Checkup and also can collect their Medical Insurance Card.
+• Students joining the university after the prescribed time period may be denied admission.
+• It is the prime responsibility of the student to visit International Relations Department in time to complete the required documentations, so that no fine is levied against him/her.
+• Course Fee
+• Recruiters
+• Covid 19 Updates
+• Sharda University Uzbekistan
+• Sharda University Agra
+• Courses on Human Values and Professional ethics
+• National Cyber Crime Reporting Portal
+• International Credit Transfer Programme
+85924451
++91-120-4570000
+• +91-120-4570000
++91-9205586066
++91-8800998881
+• window.fbAsyncInit = function() {
+version : 'v5.0'
+(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+js = d.createElement(s); js.id = id;
+js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+Source: https://www.sharda.ac.in/international/post-arrival-information

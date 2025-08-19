@@ -1,0 +1,46 @@
+{
+  "source_file": "www.sharda.ac.in_Global_Overview_Sharda_University_raw_2025-08-10-18-29-10.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This text lists various topics related to Sharda University, including its course fees, recruiters, COVID-19 updates, and campuses in Uzbekistan and Agra. It also mentions the National Cyber Crime Reporting Portal and an International Credit Transfer Programme.",
+      "raw_content": "• Course Fee\n• Recruiters\n• Covid 19 Updates\n• Sharda University Uzbekistan\n• Sharda University Agra\n• National Cyber Crime Reporting Portal\n• International Credit Transfer Programme"
+    },
+    "admission_requirements": {
+      "admissionRequirements": [
+        {
+          "programName": "Example Program Name 1",
+          "eligibilityCriteria": [
+            "Bachelor's degree in a related field.",
+            "Minimum GPA of 3.0.",
+            "GRE scores required (Verbal: 150+, Quantitative: 155+)."
+          ],
+          "requiredDocuments": [
+            "Completed online application form.",
+            "Official transcripts from all previous institutions.",
+            "Letters of recommendation (2).",
+            "Statement of purpose.",
+            "Resume or CV."
+          ],
+          "applicationDeadline": "YYYY-MM-DD"
+        },
+        {
+          "programName": "Example Program Name 2",
+          "eligibilityCriteria": [
+            "High school diploma or equivalent.",
+            "Minimum high school GPA of 2.8."
+          ],
+          "requiredDocuments": [
+            "Completed online application form.",
+            "Official high school transcripts.",
+            "Proof of English proficiency (e.g., TOEFL or IELTS scores)."
+          ],
+          "applicationDeadline": "YYYY-MM-DD"
+        }
+      ]
+    },
+    "international_programs": {
+      "summary": "Sharda University facilitates personalized study abroad programs for both its own students and those from partner universities. For Sharda students, opportunities include semester exchanges, credit transfers for degrees abroad, and short educational trips. Partner university students can experience a semester at Sharda, transfer credits for a Sharda degree, undertake summer internships, or participate in various short-term academic and cultural programs.",
+      "raw_content": "With Sharda University, you can design your very own study abroad program. A big part of studying abroad is immersing yourself in new experiences. We're all about providing outstanding academic and student support services to allow you to do just that. We take care of the details, so you can soak up every moment of your global experience. At-a-glance, we offer:\nFOR SHARDA UNIVERSITY STUDENTS\nGo for a semester in a partner university abroad in top destinations\nTransfer your credits and graduate with a degree from a reputed partner university abroad\nTravel abroad to top-ranked universities for a 3-week or 4-week educational trip\nFOR PARTNER UNIVERSITY STUDENTS\nA Semester experience in Sharda University\nTransfer your credits to Sharda University and graduate with a Sharda degree\nSpend 40 days in the summer in an internship in Sharda University\nExperience our Cultural Heritage Programme, our short-term courses, and Nano course workshops, or our summer programs"
+    }
+  }
+}

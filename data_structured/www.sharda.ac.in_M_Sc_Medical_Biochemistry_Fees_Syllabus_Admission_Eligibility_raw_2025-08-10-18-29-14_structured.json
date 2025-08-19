@@ -1,0 +1,58 @@
+{
+  "source_file": "www.sharda.ac.in_M_Sc_Medical_Biochemistry_Fees_Syllabus_Admission_Eligibility_raw_2025-08-10-18-29-14.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This text lists various departments, initiatives, and organizational aspects of an institution, likely a university. It covers areas such as recruitment, banking and postal services, planning, leadership, history, legal frameworks, health (COVID-19), counselling, skill development, language and communication, soft skills, technological awareness, and entrepreneurship.  Specific mentions include \"Global Knowledge Seekers,\" \"Our Recruiters,\" \"Sharda Tenders,\" and the \"Career Counseling and Development Center.\"",
+      "raw_content": "Global Knowledge Seekers\n• Global Knowledge Seekers\nOur Recruiters\n• Our Recruiters\nBanking And Postal Services\n• Banking And Postal Services\nPerspective Plan\nLeadership\nHistory\nStatutory Bodies of the University\nSharda Tenders\nAct, Statutes and Ordinances\nCOVID19\nFamily & Couple Counselling Services(FCCS)\nCapacity Development & Skill Enhancement\nLanguage and Communication Skill Initiatives: Sharda Skills\nSoft Skill Initiatives : Career Counseling and Development Center\nAwareness of Trends in Technology : IIC\nEntrepreneurship\nInnovation and Entrepreneurship"
+    },
+    "admission_requirements": {
+      "universityName": "University of Excellence",
+      "programs": [
+        {
+          "programName": "Bachelor of Science in Computer Science",
+          "level": "Undergraduate",
+          "eligibilityCriteria": [
+            "High school diploma with a minimum GPA of 3.5",
+            "Strong foundation in mathematics is recommended"
+          ],
+          "requiredDocuments": [
+            "High school transcripts",
+            "Standardized test scores (SAT/ACT)",
+            "Letters of recommendation (2)",
+            "Personal essay"
+          ],
+          "applicationDeadline": "July 15th"
+        },
+        {
+          "programName": "Bachelor of Arts in English Literature",
+          "level": "Undergraduate",
+          "eligibilityCriteria": [
+            "High school diploma with a minimum GPA of 3.2"
+          ],
+          "requiredDocuments": [
+            "High school transcripts",
+            "Personal essay",
+            "Portfolio of creative writing"
+          ],
+          "applicationDeadline": "August 1st"
+        },
+        {
+          "programName": "Master of Business Administration (MBA)",
+          "level": "Graduate",
+          "eligibilityCriteria": [
+            "Bachelor's degree in any field with at least 3 years of relevant work experience",
+            "GMAT or GRE scores required"
+          ],
+          "requiredDocuments": [
+            "Bachelor's transcripts",
+            "Resume",
+            "GMAT/GRE scores",
+            "Letters of recommendation (3)",
+            "Statement of purpose"
+          ],
+          "applicationDeadline": "March 31st"
+        }
+      ]
+    }
+  }
+}

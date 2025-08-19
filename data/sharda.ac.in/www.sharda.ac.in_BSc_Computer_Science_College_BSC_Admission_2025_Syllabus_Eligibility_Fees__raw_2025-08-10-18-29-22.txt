@@ -1,0 +1,361 @@
+• Programme 2025-26
+• School of Dental Sciences
+School of Medical Sciences & Research
+Sharda School of Nursing Science & Research
+• School of Medical Sciences & Research
+• Sharda School of Nursing Science & Research
+Examination Annual Report
+Academic Bank of Credits (ABC)
+Curricula Feedback
+University Brochure
+• Examination Annual Report
+• Academic Bank of Credits (ABC)
+• Curricula Feedback
+• University Brochure
+Programme Fee
+Hostel Fee
+Transportation Fee
+Scholarship
+Innovative Idea Scholarship
+• Programme Fee
+• Hostel Fee
+• Transportation Fee
+• Scholarship
+• Innovative Idea Scholarship
+• Fee Structure for Previous Year Students
+• SUAT 2025
+Sample Papers
+• Sample Papers
+Global Knowledge Seekers
+• Global Knowledge Seekers
+Our Recruiters
+• Our Recruiters
+Banking And Postal Services
+• Banking And Postal Services
+Perspective Plan
+Leadership
+History
+Statutory Bodies of the University
+Sharda Tenders
+Act, Statutes and Ordinances
+COVID19
+Family & Couple Counselling Services(FCCS)
+Capacity Development & Skill Enhancement
+Language and Communication Skill Initiatives: Sharda Skills
+Soft Skill Initiatives : Career Counseling and Development Center
+Awareness of Trends in Technology : IIC
+Entrepreneurship
+Innovation and Entrepreneurship
+• Get to know sharda
+• Perspective Plan
+• Leadership
+• History
+• Statutory Bodies of the University
+• Sharda Tenders
+• Act, Statutes and Ordinances
+• COVID19
+• Family & Couple Counselling Services(FCCS)
+• Capacity Development & Skill Enhancement
+• Language and Communication Skill Initiatives: Sharda Skills
+• Soft Skill Initiatives : Career Counseling and Development Center
+• Awareness of Trends in Technology : IIC
+• Entrepreneurship
+• Innovation and Entrepreneurship
+FM Radio: Suno Sharda-90.8FM
+• FM Radio: Suno Sharda-90.8FM
+Accommodation Fee
+Guidelines for Visa and FRO/FRRO
+Guidelines for Medical Insurance
+Observership Programmes
+• Accommodation Fee
+• Guidelines for Visa and FRO/FRRO
+• Guidelines for Medical Insurance
+• Observership Programmes
+Paramarsh- Our Mentoring Portal
+• Paramarsh- Our Mentoring Portal
+Bachelor of Science- Computer Science
+SET0125
+3 Years
+• Course Fee
+B.Sc. in Computer Science is a three-year undergraduate programme that focuses on the discipline of computer science. The programme covers important topics related to computer science such as – Coding, Programming languages, Computer Hardware and Software, Networking, Database Management, Information Technology, Mathematics, Statistics and Electronics.
+This programme equips students with the skills needed to contribute to this exciting and rapidly evolving field. It is this combination of skills that enable our graduates to keep pace with this fast-moving subject and secure rewarding careers that can be pursued almost anywhere in the world. The students acquire technical knowledge, skills and background for designing and organisation of computer systems.
+The programme helps the students in their ability to critically evaluate design paradigms, languages, algorithms, and techniques used to develop complex software systems. They also learn to evaluate and respond to opportunities for developing and exploiting new technologies.
+• Artificial Intelligence and Machine Learning
+• Cloud Computing and IoT
+Programme Educational Objectives (PEO)
+• PEO-1 The graduates will establish themselves as professionals by solving real-life problems using exploratory and analytical skills acquired in the field of Computer Science and Engineering.
+• PEO-2 The graduates will provide sustainable solutions to ever changing interdisciplinary global problems through their Research & Innovation capabilities.
+• PEO-3 The graduates will become employable, successful entrepreneur as an outcome of Industry-Academia collaboration.
+• PEO-4 The graduates will embrace professional code of ethics while providing solution to multidisciplinary social problems in industrial, entrepreneurial and research environment to demonstrate leadership qualities
+• PO1:Computing knowledge: Understand the basic principles and methods of computer science for solving complex computing problems.
+• PO2: Problem Analysis and Design of solutions Analyze and formulate a problem, evaluate a computing-based solution to meet a given set of requirements using software development concepts.
+• PO3: Modern tool usage: Ability to select and apply current techniques and modern IT Tools for innovative software solutions.
+• PO4: Technical Skill Development To develop and sharpen programming, networking, and other computer science skills required in the field of study/ higher education.
+• PO5: Societal Concern: Utilize the role of computing for solving real life problems and to analyze its global impact on individuals, organizations, and society.
+• PO6: Environment and Sustainability:
+• Actively involved with knowledge, skills and right attitude in environmental context for sustainable development.
+• PO7: Ethics: Recognize ethical principles and moral values for the computing profession in global economic environment.
+• PO8: Individual and team work Ability to function effectively as an individual or a team member engaged in accomplishes a common goal.
+• PO9: Communication: Development of good communication skills in both written and verbal form to convey technical information effectively and accurately.
+• PO10: Life-long learning: Ability to recognize the need of training and skills to engage in self-regulating and life-long learning.
+• PSO1: Computer Science Provide effective and efficient solutions to real life problems using acquired knowledge in Data Mining, graph theory, advanced DBMS and other computer science concepts for continued professional development.
+• PSO2: Information Technology
+• Explore and provide software solutions of complex problems using information technology concepts like Enterprise Resource Planning, network security, IT infrastructure management.
+This course is for individuals who...
+want to learn the software (language and programming etc) aspects of the computer and the knowledge of the operating system, programming language, database, Networking, Software testing and further.
+Students who are looking for...
+a career with exceptional prospective fields and challenging roles in a futuristic industry. The financial security, the freedom to relocate, lifelong prospects of learning makes this programme an ideal career for computer science enthusiasts.
+Course Fee
+• Yearly Fee
+• Semester Fee
+1st Year
+116000 | 2nd Year
+119480 | 3rd Year
+123064
+1st Sem
+59500 | 3rd Sem
+61240 | 5th Sem
+63032
+2nd Sem
+59500 | 4th Sem
+61240 | 6th Sem
+Fee Per Semester: Fee Per Year
+NA: 4000*
+Semester 1
+Department of Computer Science & Applications
+B. Sc. (Computer Science)
+Batch: 2023-2026: SEMESTER: I
+S. No. | Course Code | Paper ID | Course | Teaching Load | Credits | Type of Course
+L | T | P | 5. AECC
+L | T | P | 6. VAC-I
+1 | BCO151 | Problem Solving Using C | 4 | 0 | 0 | 4 | CC
+2 | BCO153 | Digital Electronics & Computer Organization | 4 | 0 | 0 | 4 | DSE
+3 | BCO174 | Introduction to Entrepreneurship Development | 3 | 0 | 0 | 3 | OE
+BCO176: Introduction to Computers & Technology
+4 | BCO041 | Introduction to IoT | 2 | 0 | 0 | 2 | SEC
+5 | ARP103 | Communicative English-1 | 2 | 0 | 0 | 2 | AECC
+6 | BCO173 | Ethics and Social Implications of AI | 3 | 0 | 0 | 3 | VAC-1
+7 | BOL151 | Problem Solving Using C Lab | 0 | 0 | 2 | 1 | CC
+8 | BOL041 | Introduction to IOT with hands-on lab Implementation | 0 | 0 | 2 | 1 | SEC
+TOTAL CREDITS: 20
+Batch: 2023-2026
+SEMESTER: I
+Course Code
+Course
+Type of Course
+BCO151
+Problem Solving Using C
+BCO153
+Digital Electronics & Computer Organization
+BCO174
+Introduction to Entrepreneurship Development
+BCO176
+Introduction to Computers & Technology
+BCO041
+ARP103
+Communicative English-1
+BCO173
+Ethics and Social Implications of AI
+BOL151
+Problem Solving Using C Lab
+BOL041
+Introduction to IOT with hands-on lab Implementation
+Semester 2
+Batch: 2023-2026: SEMESTER: II
+L | T | P | 5. VAC-II
+1 | BCO226 | Data Structures Using C | 4 | 0 | 0 | 4 | CC
+2 | BCO155 | Operating System and Unix Shell Programing | 3 | 0 | 0 | 3 | CC
+3 | BCO283 | Introduction to Artificial Intelligence | 3 | 0 | 0 | 3 | OE
+BCO229: Mobile Application Development
+4 | VOC102 | Design Thinking & Creative Learning | 1 | 0 | 0 | 1 | SEC
+5 | ARP105 | Communicative English -2 | 2 | 0 | 0 | 2 | AECC
+6 | EVS201 | Environmental Studies | 3 | 0 | 0 | 3 | VAC-2
+8 | BOL226 | Data Structures using C Lab | 0 | 0 | 2 | 1 | CC
+9 | BOL155 | Operating System and Unix Shell Programing Lab | 0 | 0 | 2 | 1 | CC
+10 | VOC102 | Design Thinking & Creative Learning Lab | 0 | 0 | 4 | 2 | SEC
+SEMESTER: II
+BCO226
+Data Structures Using C
+BCO155
+Operating System and Unix Shell Programing
+BCO283
+Introduction to Artificial Intelligence
+BCO229
+VOC102
+Design Thinking & Creative Learning
+ARP105
+Communicative English -2
+EVS201
+BOL226
+Data Structures using C Lab
+BOL155
+Operating System and Unix Shell Programing Lab
+Design Thinking & Creative Learning Lab
+Semester 3
+Batch: 2023-2026: SEMESTER: III
+L | T | P | 6. Audit Course
+1 | BCO156 | Object Oriented Programming Using Java | 4 | 0 | 0 | 4 | CC
+2 | BCO154 | Principles of Data Base Management System | 3 | 0 | 0 | 3 | CC
+3 | BCO222 | Computational Methods | 4 | 0 | 0 | 4 | DSE
+4 | BCO330 | Introduction to Blockchain Technology | 3 | 0 | 0 | 3 | OE
+BCO331: Cyber Analytics
+5 | VOC201 | Augmented Reality Applications Development | 2 | 0 | 0 | 2 | SEC
+6 | ARP209 | Logical Skills Building and Soft Skills | 2 | 0 | 0 | 2 | AECC
+8 | BOL156 | Object Oriented Programming Using Java Lab | 0 | 0 | 2 | 1 | CC
+9 | BOL154 | Principles of Data Base Management System Lab | 0 | 0 | 2 | 1 | CC
+10 | VOC201 | Augmented Reality Applications Development Lab | 0 | 0 | 2 | 1 | SEC
+11 | RBL001 | Research Based Learning-1 | 0 | 0 | 2 | 0 | Audit Course
+TOTAL CREDITS: 21
+SEMESTER: III
+6. Audit Course
+BCO156
+Object Oriented Programming Using Java
+BCO154
+Principles of Data Base Management System
+BCO222
+BCO330
+Introduction to Blockchain Technology
+BCO331
+VOC201
+Augmented Reality Applications Development
+ARP209
+Logical Skills Building and Soft Skills
+BOL156
+Object Oriented Programming Using Java Lab
+BOL154
+Principles of Data Base Management System Lab
+Augmented Reality Applications Development Lab
+RBL001
+Research Based Learning-1
+Audit Course
+Semester 4
+Batch: 2023-2026: SEMESTER: IV
+L | T | P | 5. Audit Course
+1 | BCO224 | Design and Analysis of Algorithm | 4 | 0 | 0 | 4 | CC
+2 | BCO221 | Computer Networks and Data Communication | 4 | 0 | 0 | 4 | CC
+3 | BCO220 | Application based Programming in Python | 4 | 0 | 0 | 4 | DSE
+4 | BCO403 | Social Media Analytics | 3 | 0 | 0 | 3 | OE
+BCO402: Data Warehousing and Data Mining
+5 | ARP210 | Quantitative and Qualitative Aptitude Skill Building | 2 | 0 | 0 | 2 | AECC
+7 | BOL224 | Design and Analysis of Algorithm Lab | 0 | 0 | 2 | 1 | CC
+8 | BOL220 | Application based Programming in Python Lab | 0 | 0 | 2 | 1 | DSE
+9 | RBL002 | Research Based Learning-2 | 0 | 0 | 2 | 0 | Audit Course
+TOTAL CREDITS: 19
+SEMESTER: IV
+5. Audit Course
+BCO224
+Design and Analysis of Algorithm
+BCO221
+Computer Networks and Data Communication
+BCO220
+Application based Programming in Python
+BCO403
+BCO402
+Data Warehousing and Data Mining
+ARP210
+Quantitative and Qualitative Aptitude Skill Building
+BOL224
+Design and Analysis of Algorithm Lab
+BOL220
+Application based Programming in Python Lab
+RBL002
+Research Based Learning-2
+Semester 5
+Batch: 2023-2026: SEMESTER: V
+L | T | P | 3. INTERNSHIP
+1 | BCO321 | Web Technologies | 4 | 0 | 0 | 4 | CC
+2 | BCO225 | Introduction to R | 4 | 0 | 0 | 4 | CC
+3 | BCO322 | Software Engineering and Quality Assurance | 4 | 0 | 0 | 4 | CC
+4 | BRM002 | Research Methodology | 3 | 0 | 0 | 3 | DSE
+6 | BOL321 | Web Technology Lab | 0 | 0 | 2 | 1 | CC
+7 | BOL225 | Introduction to R Lab | 0 | 0 | 2 | 1 | CC
+8 | RBL003 | Research Based Learning-3 | 0 | 0 | 4 | 2 | DSE
+9 | INC003 | Industry Connect | 0 | 0 | 2 | 1 | INTERNSHIP
+SEMESTER: V
+BCO321
+BCO225
+BCO322
+Software Engineering and Quality Assurance
+BRM002
+BOL321
+BOL225
+Introduction to R Lab
+RBL003
+Research Based Learning-3
+INC003
+Semester 6
+Batch: 2023-2026: SEMESTER: VI
+L | T | P | 4. VAC
+1 | BCO606 | DotNet framework using C | 4 | 0 | 0 | 4 | CC
+2 | BCO368 | Machine Learning | 4 | 0 | 0 | 4 | CC
+3 | BCO190 | Cloud Computing Fundamentals | 4 | 0 | 0 | 4 | CC
+4 | BCO604 | Information Security and Cyber Laws | 3 | 0 | 0 | 3 | OE
+BCO605: Big Data Analytics
+6 | BOL606 | DotNet framework using C Lab | 0 | 0 | 2 | 1 | CC
+7 | BOL368 | Machine Learning Lab | 0 | 0 | 2 | 1 | CC
+8 | RBL004 | Research Based Learning-4 | 0 | 0 | 4 | 2 | DSE
+9 | CCU108 | Community Connect | 0 | 0 | 2 | 1 | VAC
+SEMESTER: VI
+BCO606
+DotNet framework using C
+BCO368
+BCO190
+BCO604
+Information Security and Cyber Laws
+BCO605
+BOL606
+DotNet framework using C Lab
+BOL368
+RBL004
+Research Based Learning-4
+CCU108
+S.No. | Academic year | Curricula Link
+1 | 2023-24 | View Details
+2 | 2021-22 | View Details
+3 | 2020-21 | View Details
+4 | 2019-20 | View Details
+5 | 2018-19 | View Details
+For National Students: Sr. Secondary (10+2) with minimum 50% marks in PCM and aggregate marks.
+*:not(input):not(textarea):not([contenteditable=""]):not(
+user-select: text important
+pointer-events: initial important
+html body *:not(input):not(textarea)::selection,
+body *:not(input):not(textarea)::selection,
+html body div *:not(input):not(textarea)::selection,
+html body span *:not(input):not(textarea)::selection,
+html body p *:not(input):not(textarea)::selection,
+html body h1 *:not(input):not(textarea)::selection,
+html body h2 *:not(input):not(textarea)::selection,
+html body h3 *:not(input):not(textarea)::selection,
+html body h4 *:not(input):not(textarea)::selection,
+html body h5 *:not(input):not(textarea)::selection {
+background-color: 3297fd important
+color: ffffff important
+width: 40px
+.bp-doc .pdfViewer .page:not(.bp-is-invisible):before {
+.ladno_ru [style*="position: absolute left: 0 right: 0 top: 0 bottom: 0 "] {
+display: none important
+z-index: -1 important
+.www_newvision_co_ug .v-snack:not(.v-snack--absolute) {
+/*derstarih_com*/
+.derstarih_com .bs-sks {
+For International Students: The eligibility criterion for all programs for international applicants is minimum 50% in the qualifying examination and having studied the pre-requisite subjects for admission in to the desired program.
+• Sr. Secondary (10+2) with minimum 50% marks in PCM and aggregate marks.
+How to apply for the course?
+Career path you can choose after the course
+This course opens the door to many possible careers.
+Take the next step towards a career in engineering.
+• Recruiters
+• Covid 19 Updates
+• Sharda University Uzbekistan
+• Sharda University Agra
+• Courses on Human Values and Professional ethics
+• National Cyber Crime Reporting Portal
+• International Credit Transfer Programme
+85921716
++91-120-4570000
+• +91-120-4570000
++91-9205586066
++91-8800998881
+
+Source: https://www.sharda.ac.in/programmes/bsc-computer-science

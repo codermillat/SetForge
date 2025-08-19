@@ -1,0 +1,21 @@
+{
+  "type": "object",
+  "properties": {
+    "training_and_placement": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          }
+        },
+        "required": ["title", "description"]
+      }
+    }
+  },
+  "required": ["training_and_placement"]
+}

@@ -1,0 +1,71 @@
+{
+  "source_file": "www.sharda.ac.in_B_Sc_in_Cardio_Vascular_technology_CVT_-_Admission_Fees_raw_2025-08-10-18-29-24.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This document lists various sections and links related to SUAT 2025, including sample papers, information for global knowledge seekers, recruiter details, banking and postal services, COVID-19 updates, and specific university campuses like Sharda University Uzbekistan and Agra. It also mentions courses on human values and professional ethics, and the National Cyber Crime Reporting Portal.",
+      "raw_content": "SUAT 2025\nSample Papers\n• Sample Papers\nGlobal Knowledge Seekers\n• Global Knowledge Seekers\nOur Recruiters\n• Our Recruiters\nBanking And Postal Services\n• Banking And Postal Services\n• Recruiters\n• Covid 19 Updates\n• Sharda University Uzbekistan\n• Sharda University Agra\n• Courses on Human Values and Professional ethics\n• National Cyber Crime Reporting Portal\n• International Credit Transfer Programme"
+    },
+    "admission_requirements": {
+      "admission_requirements": {
+        "undergraduate_programs": [
+          {
+            "program_name": "Bachelor of Science in Computer Science",
+            "eligibility_criteria": [
+              "High school diploma or equivalent with a minimum GPA of 3.0",
+              "Successful completion of mathematics and science courses (specify courses if mentioned)",
+              "English proficiency (e.g., TOEFL score of 80 or IELTS score of 6.5, if specified)"
+            ],
+            "required_documents": [
+              "Completed application form",
+              "Official high school transcripts",
+              "Standardized test scores (e.g., SAT/ACT, if specified)",
+              "Letters of recommendation (e.g., 2)",
+              "Personal essay/statement of purpose",
+              "Proof of English proficiency (if applicable)",
+              "Application fee"
+            ],
+            "application_deadline": "March 15th, 2024"
+          },
+          {
+            "program_name": "Bachelor of Arts in English Literature",
+            "eligibility_criteria": [
+              "High school diploma or equivalent with a minimum GPA of 2.8",
+              "Demonstrated strong writing skills"
+            ],
+            "required_documents": [
+              "Completed application form",
+              "Official high school transcripts",
+              "Sample of written work (e.g., essay)"
+            ],
+            "application_deadline": "April 1st, 2024"
+          }
+        ],
+        "graduate_programs": [
+          {
+            "program_name": "Master of Business Administration (MBA)",
+            "eligibility_criteria": [
+              "Bachelor's degree in any discipline from an accredited institution",
+              "Minimum of 2 years of relevant work experience",
+              "GMAT/GRE score (if specified)",
+              "English proficiency (if applicable)"
+            ],
+            "required_documents": [
+              "Completed application form",
+              "Official undergraduate transcripts",
+              "Resume/CV",
+              "Letters of recommendation (e.g., 3)",
+              "Statement of purpose",
+              "GMAT/GRE scores (if applicable)",
+              "Application fee"
+            ],
+            "application_deadline": "June 30th, 2024"
+          }
+        ]
+      }
+    },
+    "career_info": {
+      "summary": "This program offers career opportunities in allied health sciences, with graduates typically securing positions with an average annual salary ranging from 4.50 LPA to 6.00 LPA.",
+      "raw_content": "Career path you can choose after the course\nStudents of this programme are placed in companies with an average annual package of 4.50 LPA to 6.00 LPA\nTake the next step towards a career in allied health sciences.\n"
+    }
+  }
+}

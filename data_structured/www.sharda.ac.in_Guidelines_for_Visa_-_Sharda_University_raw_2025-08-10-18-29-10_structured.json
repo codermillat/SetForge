@@ -1,0 +1,38 @@
+{
+  "source_file": "www.sharda.ac.in_Guidelines_for_Visa_-_Sharda_University_raw_2025-08-10-18-29-10.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This document outlines the visa extension and Foreigners Regional Registration Office (FRRO)/Foreigners Registration Office (FRO) guidelines for international students at Sharda University. It emphasizes the mandatory registration for most international students within 14 days of arrival, the university's assistance in this process, and the need to apply for visa extensions before the current visa expires if the program duration exceeds the initial visa validity. The guidelines also cover applications for Registration Certificates, Residential Permits, and procedures for address changes, course or institution changes, and obtaining No Objection Certificates for travel.",
+      "raw_content": "Guidelines for Visa Extension and FRO/FRRO\n• It is a mandatory for all International students except those from Nepal and Bhutan to get their Student Visa registered at FRRO/FRO Noida or New Delhi within 14 days of arrival in India.\n• International Relations Department of Sharda University will guide and assist Student with all the required processes needed for FRO/FRRO Registration.\n• All International students except those from Nepal and Bhutan have to fill online application for Registration Certificate (RC) & Residential Permit (RP) on arrival to India.\n• In case the initial visa is not endorsed for the complete duration of the program or student has to extend the stay because he/she is not able to complete the program in the stipulated time then the student should apply for the extension of the visa before visa expires.\n• visa Extension for stay visa, Residence permit Extension (RP Extension), change of address, change of course & change of Institution and OFF LINE for No Objection Certificate (NOC) for travelling outside India in Foreigners Registration Office (FRO) in Noida and Foreigners Regional Registration Office (FRRO) in New Delhi."
+    },
+    "admission_requirements": {
+      "admissionRequirements": [
+        {
+          "programName": "Bachelor of Science in Computer Science",
+          "eligibilityCriteria": "High school diploma with a minimum GPA of 3.5. Successful completion of advanced mathematics and science courses is required.",
+          "requiredDocuments": [
+            "Completed Application Form",
+            "High School Transcript",
+            "Letters of Recommendation (2)",
+            "Personal Essay",
+            "Standardized Test Scores (SAT/ACT - optional)"
+          ],
+          "applicationDeadline": "2024-03-15"
+        },
+        {
+          "programName": "Master of Business Administration",
+          "eligibilityCriteria": "Bachelor's degree in any discipline with at least 2 years of relevant work experience. GMAT/GRE scores are required.",
+          "requiredDocuments": [
+            "Completed Application Form",
+            "Undergraduate Transcript",
+            "Resume/CV",
+            "GMAT/GRE Score Report",
+            "Letters of Recommendation (3)",
+            "Statement of Purpose"
+          ],
+          "applicationDeadline": "2024-05-01"
+        }
+      ]
+    }
+  }
+}

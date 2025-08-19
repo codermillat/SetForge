@@ -1,0 +1,276 @@
+• Programme 2025-26
+• School of Dental Sciences
+School of Medical Sciences & Research
+Sharda School of Nursing Science & Research
+• School of Medical Sciences & Research
+• Sharda School of Nursing Science & Research
+Examination Annual Report
+Academic Bank of Credits (ABC)
+Curricula Feedback
+University Brochure
+• Examination Annual Report
+• Academic Bank of Credits (ABC)
+• Curricula Feedback
+• University Brochure
+Programme Fee
+Hostel Fee
+Transportation Fee
+Scholarship
+Innovative Idea Scholarship
+• Programme Fee
+• Hostel Fee
+• Transportation Fee
+• Scholarship
+• Innovative Idea Scholarship
+• Fee Structure for Previous Year Students
+• SUAT 2025
+Sample Papers
+• Sample Papers
+Global Knowledge Seekers
+• Global Knowledge Seekers
+Our Recruiters
+• Our Recruiters
+Banking And Postal Services
+• Banking And Postal Services
+Perspective Plan
+Leadership
+History
+Statutory Bodies of the University
+Sharda Tenders
+Act, Statutes and Ordinances
+COVID19
+Family & Couple Counselling Services(FCCS)
+Capacity Development & Skill Enhancement
+Language and Communication Skill Initiatives: Sharda Skills
+Soft Skill Initiatives : Career Counseling and Development Center
+Awareness of Trends in Technology : IIC
+Entrepreneurship
+Innovation and Entrepreneurship
+• Get to know sharda
+• Perspective Plan
+• Leadership
+• History
+• Statutory Bodies of the University
+• Sharda Tenders
+• Act, Statutes and Ordinances
+• COVID19
+• Family & Couple Counselling Services(FCCS)
+• Capacity Development & Skill Enhancement
+• Language and Communication Skill Initiatives: Sharda Skills
+• Soft Skill Initiatives : Career Counseling and Development Center
+• Awareness of Trends in Technology : IIC
+• Entrepreneurship
+• Innovation and Entrepreneurship
+FM Radio: Suno Sharda-90.8FM
+• FM Radio: Suno Sharda-90.8FM
+Accommodation Fee
+Guidelines for Visa and FRO/FRRO
+Guidelines for Medical Insurance
+Observership Programmes
+• Accommodation Fee
+• Guidelines for Visa and FRO/FRRO
+• Guidelines for Medical Insurance
+• Observership Programmes
+Paramarsh- Our Mentoring Portal
+• Paramarsh- Our Mentoring Portal
+M.Sc. Data Science & Analytics
+SBSR0309
+2 Years
+• Course Fee
+Data science is poised to reshape our global economy, reinventing how we conduct business, and improving our lives in a variety of ways. Data scientists are in high demand across industries, with their ability to assist businesses in making data-driven decisions being highly valued.
+You've come to the correct place if you're interested in extracting knowledge and insights from large data sets and want to put your skills to use in a meaningful profession. The Sharda University curriculum will assist you in learning the skills required for a successful data science profession.
+To mention a few, you'll learn essential competencies in Machine Learning, Data Mining, and Predictive Analytics.
+*M.Sc. (CW) - M.Sc. with Course Work
+*M.Sc. (RW) - M.Sc. with Research Work
+*M.Sc. (CW + RW) - M.Sc. with Course Work & Research Work
+Programme Educational Objectives (PEO’s)
+• PEO1: The graduates will achieve deep subject knowledge in the courses of study to enable employed in industry, government and entrepreneurial endeavors to have a successful professional career.
+• PEO2: The graduates will develop positive attitude and skills to enable a multi facet personality.
+• PEO3: The graduates will prepare for pursue higher education and research.
+• PEO4: The graduates will develop for contribute to the society and human well-being by applying ethical principles.
+• PO1: Data Science knowledge: Engage in continuous reflective learning in the context of technology and scientific advancement.
+• PO2: Modern software tool usage: Acquire the skills in handling data science programming tools towards problem solving and solution analysis for domain specific problems.
+• PO3: Critical thinking: Ability to understand the abstract concepts that lead to various data science theories in Mathematics, Statistics and Computer science.
+• PO4: Problem analysis: Problem analysis and design ability to identify analyze and design solutions for data science problems using fundamental principles of mathematics, Statistics, computing sciences, and relevant domain disciplines.
+• PO5: Innovation and Entrepreneurship:Produce innovative IT solutions and services based on global needs and trends.
+Programme Specific Outcomes (PSO’s)
+• PSO1: Utilize the data science theories for societal and environmental concerns.
+• PSO2: Understand and commit to professional ethics and cyber regulations, responsibilities, and norms of professional computing practices.
+• PSO3: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+• PSO4: Understand the role of statistical approaches and apply the same to solve the real life problems in the fields of data science and apply the research-based knowledge to analyse and solve advanced problems in data science
+This course is for individuals who...
+This programme is for students who wish to learn about advanced data analytic methods that are currently available on the market. The training focuses on the development of skills and an understanding of how to properly use available data to gain superior insights. The course will concentrate on the models, tools, and procedures for analyzing data from a range of sources.
+Students who are looking for...
+A profession in a field that is always evolving, with an almost limitless range of data generation, gathering, processing, and analysis. Financial stability, the ability to relocate, and the opportunity to learn for the rest of one's life are just a few of the benefits that make this programme an excellent choice for computer science enthusiasts.
+Successful graduates of the course will have access to a variety of career opportunities. The course's successful graduates are offered a preliminary average compensation of INR 3 to 8 Lacs, which is based on the candidate's experience in the field.
+After completing the course, students might find work in both the commercial and public sectors.
+Course Fee
+• Yearly Fee
+• Semester Fee
+1st Year
+130000: 2nd Year
+133900
+1st Sem
+66500: 3rd Sem
+68450
+2nd Sem
+66500: 4th Sem
+Fee Per Semester: Fee Per Year
+NA: 5000*
+Semester 1
+CODE | Title of Paper | Teaching Load | CREDITS | PRE-REQUISITE/CO-REQUISITE | Type of Course[1]:
+1. | MDA101 | Foundations of Data Science | 4 | 0 | 0 | 4 | 4 | CO-REQUISITE | CC
+2. | MDA102 | Mathematics for Machine Learning | 4 | 0 | 0 | 4 | 4 | CO-REQUISITE | CC
+3. | STT4701 | Distributions Theory | 4 | 0 | 0 | 4 | 4 | CO-REQUISITE | CC
+4. | STT4704 | Probability & Statistical Methods | 4 | 0 | 0 | 4 | 4 | CO-REQUISITE | CC
+5. | DAP4754 | Data Science Lab | 0 | 0 | 2 | 2 | 1 | CO-REQUISITE | CC
+6. | DAP4755 | Mathematics for Machine Learning Lab | 0 | 0 | 2 | 2 | 1 | CO-REQUISITE | CC
+7. | STP4753 | Distributions Theory Lab | 0 | 0 | 2 | 2 | 1 | CO-REQUISITE | CC
+8. | STP4752 | Statistical Methods Lab | 0 | 0 | 2 | 2 | 1 | CO-REQUISITE | CC
+9. | CCP4001 | Community Connect | 4 | 2 | 0 | CO-REQUISITE | SEC
+TOTAL: 20
+Type of Course[1]:
+MDA101
+Foundations of Data Science
+MDA102
+Mathematics for Machine Learning
+STT4701
+STT4704
+Probability & Statistical Methods
+DAP4754
+Data Science Lab
+DAP4755
+Mathematics for Machine Learning Lab
+STP4753
+STP4752
+CCP4001
+[1] CC: Core Course, AECC: Ability Enhancement Compulsory Courses, SEC: Skill Enhancement Courses, DSE: Discipline Specific Courses
+Semester 2
+1. | MDA105 | Regression Analysis and Predictive Models | 4 | 0 | 0 | 4 | 4 | DSE
+2. | MDA107 | Advanced Big Data and Text Analytics | 4 | 0 | 0 | 4 | 4 | DSE
+3. | STT4803 | Time Series Analysis & Vital Statistics | 3 | 0 | 0 | 3 | 3 | DSE (OE)
+4. | MDA108 | Data Mining & Artificial Intelligence | 4 | 0 | 0 | 4 | 4 | SEC
+5. | STP4854 | Time Series Analysis Lab | 0 | 0 | 2 | 2 | 1 | DSE (OE)
+6. | DAR4856 | Project | 0 | 0 | 8 | 8 | 4 | Project
+MDA105
+Regression Analysis and Predictive Models
+MDA107
+Advanced Big Data and Text Analytics
+STT4803
+Time Series Analysis & Vital Statistics
+MDA108
+Data Mining & Artificial Intelligence
+STP4854
+Time Series Analysis Lab
+DAR4856
+Semester 3 (CW)
+THEORY | L | T | P | TOTAL
+1. | MDA201 | Inferential Statistics | 4 | 0 | 0 | 4 | 4 | CC
+2. | MDA202 | Multivariate Data Analysis | 4 | 0 | 0 | 4 | 4 | CC
+3. | MDA215 | Advances in Design of Experiment | 4 | 0 | 0 | 4 | 4 | DSE
+4. | STT5305 | RM & IPR | 1 | 0 | 0 | 1 | 1 | SEC
+5. | STP5351 | Inference Lab | 0 | 0 | 2 | 2 | 1 | CC
+6. | STP5352 | Multivariate Analysis Lab | 0 | 0 | 2 | 2 | 1 | CC
+7. | STP5454 | Design of Experiments Lab | 0 | 0 | 2 | 2 | 1 | DSE
+8. | DAP5358 | Exploratory Data Analysis with Tableau & Power BI | 0 | 0 | 4 | 4 | 2 | SEC
+9. | STR5356 | DISSERTATION-I | 0 | 0 | 4 | 4 | 2 | Project
+MDA201
+MDA202
+MDA215
+Advances in Design of Experiment
+STT5305
+STP5351
+STP5352
+STP5454
+Design of Experiments Lab
+DAP5358
+Exploratory Data Analysis with Tableau & Power BI
+STR5356
+Semester 4 (CW)
+CODE | Title of Paper | HOURS | CREDITS | PRE-REQUISITE/CO-REQUISITE | Type of Course[1]:
+1. | STT5403 | Reliability and Survival Analysis | 5 | 0 | 0 | 5 | 5 | CC
+2. | STT5401 | Statistical Quality Control | 4 | 0 | 0 | 4 | 4 | CC
+3. | DAT5404 | Deep Learning and Neural Network | 5 | 0 | 0 | 5 | 5 | DSE
+4. | STP5454 | Reliability and Survival Lab | 0 | 0 | 2 | 2 | 1 | CC
+5. | STP5455 | Quality Control Lab | 0 | 0 | 2 | 1 | 1 | CO-REQUISITE | CC
+6. | DAP5459 | Deep Learning Lab | 0 | 0 | 2 | 1 | 1 | DSE
+7. | STR5457 | DISSERTATION-2 | 0 | 0 | 6 | 6 | 3 | CO-REQUISITE | RBL-2
+HOURS
+STT5403
+Reliability and Survival Analysis
+STT5401
+DAT5404
+Deep Learning and Neural Network
+Reliability and Survival Lab
+STP5455
+DAP5459
+STR5457
+Semester 3 (CW+RW)
+3. | DAT5303 | Introduction of Deep Learning | 3 | 0 | 0 | 3 | 3 | DSE
+4. | STT5305 | RM & IPR | 1 | 0 | 0 | 1 | 1 | CO-REQUISITE | SEC
+7. | DAR5356 | Capstone Project I | 0 | 0 | 12 | 12 | 6 | Project
+DAT5303
+Introduction of Deep Learning
+DAR5356
+Semester 4 (CW+RW)
+2. | STP5454 | Reliability and Survival Lab | 0 | 0 | 2 | 2 | 1 | CC
+3. | DAR5457 | Capstone project II | 0 | 0 | 28 | 28 | 14 | Project
+DAR5457
+Semester 3 (RW)
+1. | DAT5303 | Introduction of Deep Learning | 3 | 0 | 0 | 3 | 3 | CO-REQUISITE | DSE
+2. | STT5305 | RM & IPR | 1 | 0 | 0 | 1 | 1 | SEC
+3. | DAR5360 | DISSERTATION-I | 0 | 0 | 32 | 32 | 16 | Project
+DAR5360
+Semester 4 (RW)
+1. | MDA502 | Multivariate data Analysis | 4 | 0 | 0 | 4 | 4 | CO-REQUISITE | DSE
+2. | DAR5461 | DISSERTATION-II | 0 | 0 | 32 | 32 | 16 | Project
+MDA502
+DAR5461
+S.No. | Academic year | Curricula Link
+1 | 2025-26 | View Details
+2 | 2024-25 | View Details
+3 | 2023-24 | View Details
+4 | 2021-22 | View Details
+For National Students: B.Sc. IT/CS/Mathematics, BCA with minimum 50% marks
+*:not(input):not(textarea):not([contenteditable=""]):not(
+user-select: text important
+pointer-events: initial important
+html body *:not(input):not(textarea)::selection,
+body *:not(input):not(textarea)::selection,
+html body div *:not(input):not(textarea)::selection,
+html body span *:not(input):not(textarea)::selection,
+html body p *:not(input):not(textarea)::selection,
+html body h1 *:not(input):not(textarea)::selection,
+html body h2 *:not(input):not(textarea)::selection,
+html body h3 *:not(input):not(textarea)::selection,
+html body h4 *:not(input):not(textarea)::selection,
+html body h5 *:not(input):not(textarea)::selection {
+background-color: 3297fd important
+color: ffffff important
+width: 40px
+.bp-doc .pdfViewer .page:not(.bp-is-invisible):before {
+.ladno_ru [style*="position: absolute left: 0 right: 0 top: 0 bottom: 0 "] {
+display: none important
+z-index: -1 important
+.www_newvision_co_ug .v-snack:not(.v-snack--absolute) {
+/*derstarih_com*/
+.derstarih_com .bs-sks {
+For International Students: The eligibility criterion for all programs for international applicants is minimum 50% in the qualifying examination and having studied the pre-requisite subjects for admission in to the desired program.
+• B.Sc. IT/CS/Mathematics, BCA with minimum 50% marks
+How to apply for the course?
+Career path you can choose after the course
+• Data Scientist/Sr. Data Scientist
+Take the next step towards a career in basic sciences.
+• Recruiters
+• Covid 19 Updates
+• Sharda University Uzbekistan
+• Sharda University Agra
+• Courses on Human Values and Professional ethics
+• National Cyber Crime Reporting Portal
+• International Credit Transfer Programme
+85923531
++91-120-4570000
+• +91-120-4570000
++91-9205586066
++91-8800998881
+Source: https://www.sharda.ac.in/programmes/msc-data-science-analytics

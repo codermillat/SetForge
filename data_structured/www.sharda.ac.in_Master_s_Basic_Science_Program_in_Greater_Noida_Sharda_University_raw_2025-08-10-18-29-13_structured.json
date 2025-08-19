@@ -1,0 +1,46 @@
+{
+  "source_file": "www.sharda.ac.in_Master_s_Basic_Science_Program_in_Greater_Noida_Sharda_University_raw_2025-08-10-18-29-13.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This text provides a list of guidelines, specifically mentioning guidelines for visas and FRO/FRRO, as well as guidelines for medical insurance.",
+      "raw_content": "Guidelines for Visa and FRO/FRRO\nGuidelines for Medical Insurance"
+    },
+    "admission_requirements": {
+      "admissionRequirements": [
+        {
+          "programName": "Master of Science in Computer Science",
+          "eligibilityCriteria": [
+            "Bachelor's degree in Computer Science, Software Engineering, or a related field from an accredited institution.",
+            "Minimum GPA of 3.0 on a 4.0 scale.",
+            "GRE scores (quantitative and verbal) are required."
+          ],
+          "requiredDocuments": [
+            "Completed online application form.",
+            "Official transcripts from all previous institutions.",
+            "Two letters of recommendation from academic or professional sources.",
+            "Statement of Purpose outlining research interests and career goals.",
+            "Resume or Curriculum Vitae (CV).",
+            "GRE scores report."
+          ],
+          "applicationDeadline": "2024-03-15"
+        },
+        {
+          "programName": "Bachelor of Arts in English Literature",
+          "eligibilityCriteria": [
+            "High school diploma or equivalent.",
+            "Minimum GPA of 2.8 on a 4.0 scale.",
+            "English proficiency test scores (e.g., TOEFL, IELTS) for non-native English speakers."
+          ],
+          "requiredDocuments": [
+            "Completed online application form.",
+            "Official high school transcripts.",
+            "One letter of recommendation from a high school teacher or counselor.",
+            "Personal essay on a topic provided by the admissions committee.",
+            "SAT or ACT scores (optional, but recommended)."
+          ],
+          "applicationDeadline": "2024-06-01"
+        }
+      ]
+    }
+  }
+}

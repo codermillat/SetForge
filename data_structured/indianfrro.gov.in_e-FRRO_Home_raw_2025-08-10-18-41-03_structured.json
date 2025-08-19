@@ -1,0 +1,13 @@
+{
+  "source_file": "indianfrro.gov.in_e-FRRO_Home_raw_2025-08-10-18-41-03.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This content, version 1.1, is owned by the Ministry of Home Affairs, Government of India. The e-FRRO system was designed, developed, and is hosted by the National Informatics Centre, under the Ministry of Electronics & Information Technology, Government of India, with its source found at https://indianfrro.gov.in/eservices/.",
+      "raw_content": "version 1.1 © Content Owned by Ministry of Home Affairs, Government of India. e-FRRO is designed, developed and hosted\nby National Informatics Centre, Ministry of Electronics & Information Technology, Government of India.\n\nSource: https://indianfrro.gov.in/eservices/"
+    },
+    "admission_requirements": {
+      "summary": "Foreign nationals wishing to enter India must have a valid passport and an Indian visa, which should be applied for online. After completing the online application, a signed physical copy, along with supporting documents, must be submitted to the relevant Indian Visa Application Center (IVAC) or Mission/Post on the scheduled interview date. Further guidance on the application process and technical requirements is available through provided instructions.",
+      "raw_content": "All foreign nationals entering India are required to possess a\nvalid international travel document in the form of a national passport\nwith a valid visa obtained from an Indian Mission or Post abroad. All\nIndividual visa seekers are requested to apply for the Indian Visa\nthrough Online application in order to make an application for getting\nthe Indian visa. The duly signed physical copy of the application form\ncompleted in all respect and submitted successfully, is to be submitted\nat the concerned Indian Visa Application Center (IVAC) or directly to\nIndian Mission/Post, on the scheduled date of interview along with the\nrequisite supporting documents. The instructions for filling the form\nand scheduling the appointment can be seen at Instructions for Online\nVisa Application. Important technical information for filling online\nIndian visa application can be referred at Technical Instructions."
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "source_file": "www.sharda.ac.in_Pharmacy_Diploma_Programmes_at_Sharda_University_raw_2025-08-10-18-29-12.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "The provided text is a URL, specifically pointing to the admissions page for a Diploma in Pharmacy program at Sharda University.",
+      "raw_content": "Source: https://www.sharda.ac.in/admissions/diploma/pharmacy"
+    },
+    "admission_requirements": {
+      "academic_programs": [
+        {
+          "program_name": "Example Bachelor of Science in Computer Science",
+          "level": "Undergraduate",
+          "eligibility_criteria": [
+            "High school diploma with a minimum GPA of 3.0 on a 4.0 scale.",
+            "Proficiency in mathematics (e.g., B or higher in pre-calculus).",
+            "For international students: TOEFL iBT score of 80 or IELTS 6.5."
+          ],
+          "required_documents": [
+            "Official high school transcripts",
+            "Two letters of recommendation",
+            "Personal statement (maximum 500 words)",
+            "SAT/ACT scores (optional)",
+            "Proof of English proficiency (for international students)",
+            "Copy of passport (for international students)",
+            "Application fee receipt"
+          ],
+          "application_deadlines": [
+            {
+              "type": "Early Action",
+              "date": "January 15th"
+            },
+            {
+              "type": "Regular Decision",
+              "date": "March 1st"
+            }
+          ]
+        },
+        {
+          "program_name": "Example Master of Science in Data Analytics",
+          "level": "Graduate",
+          "eligibility_criteria": [
+            "Bachelor's degree in a quantitative field (e.g., statistics, computer science, mathematics, engineering) with a minimum undergraduate GPA of 3.2.",
+            "GRE scores are highly recommended but not mandatory.",
+            "Prior programming experience (Python or R) is essential."
+          ],
+          "required_documents": [
+            "Official undergraduate transcripts",
+            "Three letters of recommendation",
+            "Statement of purpose",
+            "Resume/CV",
+            "GRE scores (if submitted)",
+            "Proof of previous programming projects (e.g., GitHub link)"
+          ],
+          "application_deadlines": [
+            {
+              "type": "Fall Intake",
+              "date": "April 1st"
+            },
+            {
+              "type": "Late Applications (space-available)",
+              "date": "June 1st"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,269 @@
+• Programme 2025-26
+• School of Dental Sciences
+School of Medical Sciences & Research
+Sharda School of Nursing Science & Research
+• School of Medical Sciences & Research
+• Sharda School of Nursing Science & Research
+Examination Annual Report
+Academic Bank of Credits (ABC)
+Curricula Feedback
+University Brochure
+• Examination Annual Report
+• Academic Bank of Credits (ABC)
+• Curricula Feedback
+• University Brochure
+Programme Fee
+Hostel Fee
+Transportation Fee
+Scholarship
+Innovative Idea Scholarship
+• Programme Fee
+• Hostel Fee
+• Transportation Fee
+• Scholarship
+• Innovative Idea Scholarship
+• Fee Structure for Previous Year Students
+• SUAT 2025
+Sample Papers
+• Sample Papers
+Global Knowledge Seekers
+• Global Knowledge Seekers
+Our Recruiters
+• Our Recruiters
+Banking And Postal Services
+• Banking And Postal Services
+Perspective Plan
+Leadership
+History
+Statutory Bodies of the University
+Sharda Tenders
+Act, Statutes and Ordinances
+COVID19
+Family & Couple Counselling Services(FCCS)
+Capacity Development & Skill Enhancement
+Language and Communication Skill Initiatives: Sharda Skills
+Soft Skill Initiatives : Career Counseling and Development Center
+Awareness of Trends in Technology : IIC
+Entrepreneurship
+Innovation and Entrepreneurship
+• Get to know sharda
+• Perspective Plan
+• Leadership
+• History
+• Statutory Bodies of the University
+• Sharda Tenders
+• Act, Statutes and Ordinances
+• COVID19
+• Family & Couple Counselling Services(FCCS)
+• Capacity Development & Skill Enhancement
+• Language and Communication Skill Initiatives: Sharda Skills
+• Soft Skill Initiatives : Career Counseling and Development Center
+• Awareness of Trends in Technology : IIC
+• Entrepreneurship
+• Innovation and Entrepreneurship
+FM Radio: Suno Sharda-90.8FM
+• FM Radio: Suno Sharda-90.8FM
+Accommodation Fee
+Guidelines for Visa and FRO/FRRO
+Guidelines for Medical Insurance
+Observership Programmes
+• Accommodation Fee
+• Guidelines for Visa and FRO/FRRO
+• Guidelines for Medical Insurance
+• Observership Programmes
+Paramarsh- Our Mentoring Portal
+• Paramarsh- Our Mentoring Portal
+Master of Science (Mathematics)
+SBR0301
+2 Years
+• Course Fee
+M.Sc. in Mathematics is a two-year post-graduate programme designed to extend students knowledge and refine their abilities to solve complex problems accurately.
+The programme comprises classical Mathematics courses as well as skilful training in modern computing facilities in both symbolic and numerical computations. M.Sc. Mathematics introduces students to a wide choice of modules in interesting areas such as coding theory fractal geometry and analytic theory operation research graph theory number theory etc. This programme also gives an opportunity for students to conduct independent researches in pure to applied mathematics computing cryptography etc.
+Besides the programme focuses on propelling students numeracy skills and the ability to use mathematical concepts to the model the solution to financial mathematical problems. The programme also enables the students to develop the ability to consolidate and communicate mathematics logically and briefly in a variety of forms. Students who want to pursue higher education in the field of Mathematics can opt for PhD in the same discipline.
+*M.Sc. (CW) - M.Sc. with Course Work
+*M.Sc. (RW) - M.Sc. with Research Work
+*M.Sc. (CW + RW) - M.Sc. with Course Work & Research Work
+Programme Educational Objectives (PEO’s)
+• PEO1: To deliver deep subject knowledge in the courses of study to enable students to shine in various fields such as sciences, engineering and technology, IT etc.
+• PEO2: To develop positive attitude and skills to enable the students to become a multi facet personality.
+• PEO3: To prepare students for entrance examinations conducted by IIT’s/Universities to pursue Ph. D. programs as well as NET, UGC-CSIR.
+• PEO4: To develop students to be excellent communicators and team players.
+• PO1:Mathematical knowledge:Application of Mathematical knowledge in various fields of science, engineering and management etc.
+• PO2:Nature of Mathematics:Understand the concise, precise and rigorous nature of Mathematics.
+• PO3: Critical thinking:Develop the skill to think critically on abstract concepts of Mathematics.
+• PO4:Problem analysis: Develop the ability to analyze a problem logically and dissect into micro-parts and thus resolving the problem to accessible components.
+• PO5: Mathematical logic and Ethics:Formulates and develops mathematical arguments in logical manner and Realize and understand professional, ethical and cultural responsibilities.
+Programme Specific Outcomes (PSO’s)
+• PSO1: Scientific thinking and logical abilities.
+• PSO2: Application of Mathematical principles in practical situations and software developments.
+• PSO3: Analyze any problem to micro-levels and solve the problem step by step.
+• PSO4: Owning up responsibility for logical comprehension and preparedness for constant improvement
+This course is for individuals who...
+Seek first-hand knowledge in advanced applied mathematics with forefront research experience and want to build a career through excellence in the domain.
+Students who are looking for...
+A fulfilling career that involves solving real-world problems through accurate analysis and data interpretation
+Course Fee
+• Yearly Fee
+• Semester Fee
+1st Year
+100000: 2nd Year
+103000
+1st Sem
+51500: 3rd Sem
+53000
+2nd Sem
+51500: 4th Sem
+Fee Per Semester: Fee Per Year
+NA: 5000*
+Semester 1
+CODE | Title of Paper | Teaching Load | CREDITS | PRE-REQUISITE/CO-REQUISITE | Type of Course[1]:
+1. | MTT4102 | REAL ANALYSIS | 5 | 0 | 0 | 5 | 5 | CO-REQUISITE | CC
+2. | MMT 102 | LINEAR ALGEBRA | 4 | 0 | 0 | 4 | 4 | CO-REQUISITE | CC
+3. | MTT4703 | INTRODUCTION to MATLAB AND ITS APPLICATIONS | 4 | 0 | 0 | 4 | 4 | CC
+4. | STT4704 | PROBABILITY & STATISTICAL METHODS | 4 | 0 | 0 | 4 | 4 | CO-REQUISITE | CC
+5. | MTP4151 | MATHEMATICS LAB- I | 0 | 0 | 2 | 2 | 1 | CO-REQUISITE | CC
+6. | STP4752 | STATISTICAL METHODS LAB | 0 | 0 | 2 | 2 | 1 | CO-REQUISITE | CC
+7. | MTP4152 | MATHEMATICS LAB- II | 0 | 0 | 2 | 2 | 1 | CO-REQUISITE | CC
+8. | CCP4001 | COMMUNITY CONNECT COURSE | 0 | 0 | 4 | 4 | 0 | SEC
+TOTAL: 20
+Type of Course[1]:
+MTT4102
+MMT 102
+MTT4703
+INTRODUCTION to MATLAB AND ITS APPLICATIONS
+STT4704
+PROBABILITY & STATISTICAL METHODS
+MTP4151
+STP4752
+MTP4152
+CCP4001
+COMMUNITY CONNECT COURSE
+[1] CC: Core Course, AECC: Ability Enhancement Compulsory Courses, SEC: Skill Enhancement Courses, DSE: Discipline Specific Courses
+Semester 2
+1. | MTT4204 | NUMERICAL ANALYSIS | 3 | 0 | 0 | 3 | 3 | CO-REQUISITE | DSE
+2. | MMT 106 | COMPLEX ANALYSIS | 4 | 0 | 0 | 4 | 4 | CO-REQUISITE | DSE
+3. | MMT107
+MMT108
+MMT204 | TOPOLOGY(OE)
+DIFFERENTIAL GEOMETRY & TENSOR ANALYSIS
+FLUID DYNAMICS | 0 | 0 | 0 | 4 | 4 | CO-REQUISITE | DSE
+4. | MMT 105 | ORDINARY & PARTIAL DIFFERENTIAL EQUATIONS | 4 | 0 | 0 | 4 | 4 | CO-REQUISITE | SEC
+5. | MTP4253 | NUMERICAL ANALYSIS LAB | 0 | 0 | 2 | 2 | 1 | CO-REQUISITE | DSE
+6. | MTR4854 | Project | 0 | 0 | 8 | 4 | 4 | Project
+MTT4204
+MMT 106
+MMT107
+MMT204
+MMT 105
+ORDINARY & PARTIAL DIFFERENTIAL EQUATIONS
+MTP4253
+MTR4854
+Semester 3 (CW)
+THEORY | L | T | P | TOTAL
+1. | MTT5301 | ABSTRACT ALGEBRA | 5 | 0 | 0 | 5 | 5 | CO-REQUISITE | CC
+2. | MTT5302 | FUNCTIONAL ANALYSIS | 5 | 0 | 0 | 5 | 5 | CO-REQUISITE | CC
+3. | MTT5304 | Number Theory with Cryptography | 5 | 0 | 0 | 5 | 5 | DSE
+4. | MTT5310 | RM & IPR | 1 | 0 | 0 | 1 | 1 | SEC
+5. | MTP5358 | Python Programming Lab | 0 | 0 | 4 | 4 | 2 | SEC
+6. | MTR5353 | DISSERTATION-I | 0 | 0 | 4 | 4 | 2 | RBL-1
+MTT5301
+MTT5302
+MTT5304
+Number Theory with Cryptography
+MTT5310
+MTP5358
+MTR5353
+Semester 4 (CW)
+CODE | Title of Paper | HOURS | CREDITS | PRE-REQUISITE/CO-REQUISITE | Type of Course[1]:
+1. | MTT5409 | Advance Graph Theory and Information Security | 5 | 0 | 0 | 5 | 5 | CC
+2. | MTT5407 | Measure Theory | 5 | 0 | 0 | 5 | 5 | CC
+3. | MTT5408 | Operation Research and Industrial Applications | 5 | 0 | 0 | 5 | 5 | CO-REQUISITE | DSE
+4. | MTP5460 | Graph Theory Lab | 0 | 0 | 2 | 2 | 1 | CC
+5. | MTP5459 | Operation Research Lab | 0 | 0 | 2 | 2 | 1 | CO-REQUISITE | DSE
+6. | MTR5456 | DISSERTATION-2 | 0 | 0 | 6 | 6 | 3 | CO-REQUISITE | RBL-2
+HOURS
+MTT5409
+Advance Graph Theory and Information Security
+MTT5407
+MTT5408
+Operation Research and Industrial Applications
+MTP5460
+MTP5459
+MTR5456
+Semester 3 (CW+RW)
+3. | MTT5303 | Graph Theory and its applications | 3 | 0 | 0 | 3 | 3 | CO-REQUISITE | DSE
+4. | MTT5310 | RM & IPR | 1 | 0 | 0 | 1 | 1 | CO-REQUISITE | SEC
+5. | MTR5352 | DISSERTATION-I | 0 | 0 | 12 | 12 | 6 | CO-REQUISITE | Project
+MTT5303
+Graph Theory and its applications
+MTR5352
+Semester 4 (CW+RW)
+1. | MTT5408 | Operation Research and Industrial Applications | 5 | 0 | 0 | 5 | 5 | CO-REQUISITE | CC
+2. | MTP5459 | Operation Research Lab | 0 | 0 | 2 | 1 | 1 | CO-REQUISITE | CC
+3. | MTR5455 | DISSERTATION-2 | 0 | 0 | 28 | 28 | 14 | CO-REQUISITE | Project
+MTR5455
+Semester 3 (RW)
+1. | MTT5305 | Linear Programming | 3 | 0 | 0 | 3 | 3 | CO-REQUISITE | DSE
+2. | MTT5310 | RM & IPR | 1 | 0 | 0 | 1 | 1 | SEC
+3. | MTR5354 | DISSERTATION-I | 0 | 0 | 32 | 32 | 16 | RBL-1
+MTT5305
+MTR5354
+Semester 4 (RW)
+1. | MTT5303 | Graph Theory and its applications | 3 | 0 | 0 | 3 | 3 | CO-REQUISITE | DSE
+2. | MTP5460 | Graph Theory Lab | 0 | 0 | 2 | 2 | 1 | DSE
+3. | MTR5457 | DISSERTATION-II | 0 | 0 | 32 | 32 | 16 | RBL-2
+MTR5457
+S.No. | Academic year | Curricula Link
+1 | 2025-26 | View Details
+2 | 2024-25 | View Details
+3 | 2023-24 | View Details
+4 | 2021-22 | View Details
+5 | 2020-21 | View Details
+6 | 2019-20 | View Details
+7 | 2018-19 | View Details
+For National Students: B.Sc. with PCM with minimum 55% marks.
+Minimum 24 credits required in chosen specialization at UG level
+*:not(input):not(textarea):not([contenteditable=""]):not(
+user-select: text important
+pointer-events: initial important
+html body *:not(input):not(textarea)::selection,
+body *:not(input):not(textarea)::selection,
+html body div *:not(input):not(textarea)::selection,
+html body span *:not(input):not(textarea)::selection,
+html body p *:not(input):not(textarea)::selection,
+html body h1 *:not(input):not(textarea)::selection,
+html body h2 *:not(input):not(textarea)::selection,
+html body h3 *:not(input):not(textarea)::selection,
+html body h4 *:not(input):not(textarea)::selection,
+html body h5 *:not(input):not(textarea)::selection {
+background-color: 3297fd important
+color: ffffff important
+width: 40px
+.bp-doc .pdfViewer .page:not(.bp-is-invisible):before {
+.ladno_ru [style*="position: absolute left: 0 right: 0 top: 0 bottom: 0 "] {
+display: none important
+z-index: -1 important
+.www_newvision_co_ug .v-snack:not(.v-snack--absolute) {
+/*derstarih_com*/
+.derstarih_com .bs-sks {
+For International Students: The eligibility criterion for all programs for international applicants is minimum 50% in the qualifying examination and having studied the pre-requisite subjects for admission in to the desired program.
+• B.Sc. with PCM with minimum 55% marks.
+• Minimum 24 credits required in chosen specialization at UG level
+How to apply for the course?
+Career path you can choose after the course
+Students of this programme are placed in companies with an average annual package of 4.50 LPA to 6.00 LPA
+Take the next step towards a career in basic sciences.
+• Recruiters
+• Covid 19 Updates
+• Sharda University Uzbekistan
+• Sharda University Agra
+• Courses on Human Values and Professional ethics
+• National Cyber Crime Reporting Portal
+• International Credit Transfer Programme
+85923526
++91-120-4570000
+• +91-120-4570000
++91-9205586066
++91-8800998881
+
+Source: https://www.sharda.ac.in/programmes/msc-mathematics

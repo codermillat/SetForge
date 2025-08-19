@@ -1,0 +1,53 @@
+{
+  "source_file": "www.sharda.ac.in_BBA_Logistics_Supply_Chain_Management_Hons_with_Research_raw_2025-08-10-18-29-19.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This text appears to be a list of categories or topics related to recruitment, possibly for a program like SUAT 2025. It includes terms like \"Sample Papers,\" \"Global Knowledge Seekers,\" \"Our Recruiters,\" and specific areas such as \"Banking And Postal Services\" and guidelines for \"Visa and FRO/FRRO\" and \"Medical Insurance.\"  The term \"Recruiters\" is repeated for emphasis.",
+      "raw_content": "SUAT 2025\nSample Papers\n• Sample Papers\nGlobal Knowledge Seekers\n• Global Knowledge Seekers\nOur Recruiters\n• Our Recruiters\nBanking And Postal Services\n• Banking And Postal Services\nGuidelines for Visa and FRO/FRRO\n• Guidelines for Visa and FRO/FRRO\nGuidelines for Medical Insurance\n• Guidelines for Medical Insurance\nObservership Programmes\n• Observership Programmes\n• Recruiters"
+    },
+    "admission_requirements": {
+      "admission_requirements": [
+        {
+          "program_name": "Master of Science in Computer Science",
+          "eligibility_criteria": {
+            "academic_background": "Bachelor's degree in Computer Science or a related field.",
+            "minimum_gpa": "3.0 on a 4.0 scale.",
+            "prerequisite_courses": [
+              "Data Structures and Algorithms",
+              "Object-Oriented Programming",
+              "Calculus I & II",
+              "Linear Algebra"
+            ]
+          },
+          "required_documents": [
+            "Completed online application form",
+            "Official transcripts from all previous institutions",
+            "GRE scores (recommended, not mandatory)",
+            "Statement of Purpose (500-750 words)",
+            "Three letters of recommendation",
+            "Resume/CV",
+            "English proficiency test scores (for international applicants - TOEFL/IELTS)"
+          ],
+          "application_deadline": "December 15th"
+        },
+        {
+          "program_name": "Bachelor of Arts in English Literature",
+          "eligibility_criteria": {
+            "academic_background": "High school diploma or equivalent.",
+            "minimum_high_school_gpa": "2.8 on a 4.0 scale.",
+            "standardized_tests": "SAT or ACT scores (if applicable for the country of origin)"
+          },
+          "required_documents": [
+            "Completed online application form",
+            "Official high school transcripts",
+            "High school diploma or equivalent certificate",
+            "Personal essay (500 words)",
+            "Two letters of recommendation from teachers",
+            "Proof of English proficiency (for international applicants - TOEFL/IELTS)"
+          ],
+          "application_deadline": "February 1st"
+        }
+      ]
+    }
+  }
+}

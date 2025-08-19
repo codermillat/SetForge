@@ -1,0 +1,44 @@
+{
+  "source_file": "www.sharda.ac.in_MS_ENT_Syllabus_Eligibility_Admission_Fees_Duration_raw_2025-08-10-18-29-15.txt",
+  "structured_data": {
+    "general_info": {
+      "summary": "This document appears to be a list of categories or topics related to a university or educational institution, possibly Sharda University, covering areas like global knowledge seeking, recruitment, banking and postal services, visa guidelines, medical insurance, observership programs, and specific university campuses and courses. It also includes links to external resources such as COVID-19 updates and a national cyber crime reporting portal.",
+      "raw_content": "Global Knowledge Seekers\n• Global Knowledge Seekers\nOur Recruiters\n• Our Recruiters\nBanking And Postal Services\n• Banking And Postal Services\nGuidelines for Visa and FRO/FRRO\n• Guidelines for Visa and FRO/FRRO\nGuidelines for Medical Insurance\n• Guidelines for Medical Insurance\nObservership Programmes\n• Observership Programmes\nSchool of Medical Sciences & Research (SMS&R)\nTake the next step towards a career in medical.\n• Recruiters\n• Covid 19 Updates\n• Sharda University Uzbekistan\n• Sharda University Agra\n• Courses on Human Values and Professional ethics\n• National Cyber Crime Reporting Portal\n• International Credit Transfer Programme"
+    },
+    "admission_requirements": {
+      "programs": [
+        {
+          "programName": "Master of Science in Computer Science",
+          "eligibilityCriteria": [
+            "Bachelor's degree in Computer Science or a related field with a minimum GPA of 3.0.",
+            "Proficiency in at least one programming language (e.g., Python, Java, C++)."
+          ],
+          "requiredDocuments": [
+            "Completed online application form",
+            "Official transcripts from all previous institutions",
+            "Letters of recommendation (2)",
+            "Statement of purpose",
+            "Resume/CV",
+            "GRE scores (optional)"
+          ],
+          "applicationDeadline": "YYYY-MM-DD"
+        },
+        {
+          "programName": "Bachelor of Arts in English Literature",
+          "eligibilityCriteria": [
+            "High school diploma or equivalent.",
+            "Minimum GPA of 2.5 in high school.",
+            "Demonstrated strong writing skills."
+          ],
+          "requiredDocuments": [
+            "Completed online application form",
+            "Official high school transcripts",
+            "SAT/ACT scores (optional)",
+            "Personal essay"
+          ],
+          "applicationDeadline": "YYYY-MM-DD"
+        }
+      ]
+    }
+  }
+}
