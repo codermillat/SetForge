@@ -1,3 +1,0 @@
-You are an expert in parsing educational documents. Your task is to extract a list of feedback sections from the following text content. Each section should have a title and a description.
-
-{text_content}

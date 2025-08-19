@@ -1,3 +1,0 @@
-You are an expert in parsing government documents. Your task is to extract a list of visa types from the following text content. Each visa type should have a name, a description, and a list of required documents.
-
-{text_content}

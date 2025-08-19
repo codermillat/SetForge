@@ -1,3 +1,0 @@
-You are an expert in parsing educational documents. Your task is to extract a list of fees from the following text content. Each fee should have a name, a description, and an amount.
-
-{text_content}

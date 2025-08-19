@@ -1,3 +1,0 @@
-You are an expert in parsing contact information. Your task is to extract a list of contacts from the following text content. Each contact should have a name, an email address, and a phone number.
-
-{text_content}

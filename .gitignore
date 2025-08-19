@@ -61,6 +61,10 @@ tmp/
 .env
 api_keys.txt
 secrets.yaml
+config.yaml
+my_config.yaml
+local_config.yaml
+production_config.yaml
 
 # OS
 .DS_Store
@@ -71,7 +75,4 @@ secrets.yaml
 ehthumbs.db
 Thumbs.db
 
-# Personal config files
-my_config.yaml
-local_config.yaml
-production_config.yaml
+

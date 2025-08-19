@@ -1,3 +1,0 @@
-You are an expert in parsing educational documents. Your task is to extract a list of placements from the following text content. Each placement should have a company name, a description, and a list of roles.
-
-{text_content}

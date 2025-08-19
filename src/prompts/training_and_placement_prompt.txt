@@ -1,3 +1,0 @@
-You are an expert in parsing educational documents. Your task is to extract a list of training and placement information from the following text content. Each item should have a title and a description.
-
-{text_content}
