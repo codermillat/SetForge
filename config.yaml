@@ -20,63 +20,63 @@ api_providers:
   - name: "studio_tier_1"
     provider: "google_ai_studio"
     model: "gemini-2.5-flash"
-    api_key: "AIzaSyCyqyWa2cs3zSlA5_E8Zpd4AmImx6BjF4E"
+    api_key: "API_KEY"
     tier: "paid"
     rpm: 4000
     tpm: 4000000
   - name: "studio_free_1"
     provider: "google_ai_studio"
     model: "gemini-2.0-flash"
-    api_key: "AIzaSyDoKaA40vv5yzY6cMlUEEtnvr2toqNkAQw"
+    api_key: "API_KEY"
     tier: "free"
     rpm: 15
     tpm: 250000
   - name: "studio_free_2"
     provider: "google_ai_studio"
     model: "gemini-2.0-flash"
-    api_key: "AIzaSyAX5JUyfbeub1JqtqxLiD1mYh--YCDo0d4"
+    api_key: "API_KEY"
     tier: "free"
     rpm: 15
     tpm: 1000000
   - name: "studio_free_3"
     provider: "google_ai_studio"
     model: "gemini-2.0-flash"
-    api_key: "AIzaSyD42IyyLhXjDfGxbPoBIiYjxEKc9G0oVuw"
+    api_key: "API_KEY"
     tier: "free"
     rpm: 15
     tpm: 1000000
   - name: "studio_free_4"
     provider: "google_ai_studio"
     model: "gemini-2.0-flash"
-    api_key: "AIzaSyDHg970Phhe0-XpnHF-JE7LvVMvWbewbgA"
+    api_key: "API_KEY"
     tier: "free"
     rpm: 15
     tpm: 1000000
   - name: "studio_free_5"
     provider: "google_ai_studio"
     model: "gemini-2.0-flash"
-    api_key: "AIzaSyAULhy8yjyMkmfr0asR80raT_a9cvE-fgE"
+    api_key: "API_KEY"
     tier: "free"
     rpm: 15
     tpm: 1000000
   - name: "studio_free_6"
     provider: "google_ai_studio"
     model: "gemini-2.0-flash"
-    api_key: "AIzaSyAfw7X1BmuNKfvS5sPQrSaIOuPdZN7N_RM"
+    api_key: "API_KEY"
     tier: "free"
     rpm: 15
     tpm: 1000000
   - name: "studio_free_7"
     provider: "google_ai_studio"
     model: "gemini-2.0-flash"
-    api_key: "AIzaSyC1qsGypvfWfG9-iR34lHxb0SG-osFFpJk"
+    api_key: "API_KEY"
     tier: "free"
     rpm: 15
     tpm: 1000000
   - name: "studio_free_8"
     provider: "google_ai_studio"
     model: "gemini-2.0-flash"
-    api_key: "AIzaSyDKFCi31oUBMzd-Zd_JZ5CQWF65olGf-c4"
+    api_key: "API_KEY"
     tier: "free"
     rpm: 15
     tpm: 1000000
