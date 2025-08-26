@@ -39,6 +39,12 @@ The pipeline is split into two distinct, synergistic parts: The Knowledge Forge 
 -   **High-Throughput Processing**: Employs `asyncio` for concurrent processing.
 -   **Scalable & Resumable**: Appends records to a `.jsonl` file and uses checkpoints to track progress.
 
+### Part 3: The QA Forge (Quality Assurance)
+-   **Automated Deduplication**: Detects and removes duplicates and near-duplicates using semantic similarity.
+-   **Quality Validation**: Enforces thresholds for semantic relevance, extractive overlap, cultural sensitivity, and practicality.
+-   **Metadata Enrichment**: Computes quality scores, adds flags for manual review, and preserves provenance.
+-   **Final Packaging**: Outputs a clean, fine-tuning-ready `.jsonl` dataset.
+
 ## 🏛️ System Architecture & Workflow
 
 The entire process is a sequential flow from raw data to a fine-tuning dataset, orchestrated by the three pipelines.
@@ -46,26 +52,26 @@ The entire process is a sequential flow from raw data to a fine-tuning dataset, 
 ```mermaid
 graph TD
     subgraph "Part 1: The Knowledge Forge"
-        A[Raw Data (.html, .txt)] --> B{Content Extraction & Cleaning};
-        B --> C[Cleaned Text];
-        C --> D{LLM-based Triage & Splitting};
-        D --> E[Topic-based Text Chunks];
-        E --> F{Topic-Specific Structuring via LLM};
-        F --> G[Structured JSON Chunks];
-        G --> H{Knowledge Aggregation};
-        H --> I[Structured JSON Knowledge Base];
+        A["Raw Data (.html, .txt)"] --> B{"Content Extraction & Cleaning"};
+        B --> C["Cleaned Text"];
+        C --> D{"LLM-based Triage & Splitting"};
+        D --> E["Topic-based Text Chunks"];
+        E --> F{"Topic-Specific Structuring via LLM"};
+        F --> G["Structured JSON Chunks"];
+        G --> H{"Knowledge Aggregation"};
+        H --> I["Structured JSON Knowledge Base"];
     end
 
     subgraph "Part 2: The Q&A Forge"
-        J[Structured JSON Knowledge Base] --> K{Concurrent File Processing};
-        K --> L{Context-Aware Q&A Generation via LLM};
-        L --> M{Validate & Parse Response};
-        M --> N[Append to Raw .jsonl Dataset];
+        J["Structured JSON Knowledge Base"] --> K{"Concurrent File Processing"};
+        K --> L{"Context-Aware Q&A Generation via LLM"};
+        L --> M{"Validate & Parse Response"};
+        M --> N["Append to Raw .jsonl Dataset"];
     end
     
     subgraph "Part 3: The QA Forge"
-        O[Raw .jsonl Dataset] --> P{Deduplication & Quality Checks};
-        P --> Q[Final Fine-Tuning Dataset];
+        O["Raw .jsonl Dataset"] --> P{"Deduplication & Quality Checks"};
+        P --> Q["Final Fine-Tuning Dataset"];
     end
 
     I --> J;
