@@ -89,21 +89,6 @@ This dataset is intended for fine-tuning instruction-based LLMs (such as Mistral
 -   While the pipeline is designed to be comprehensive, it may not cover every possible topic or university.
 -   The dataset is highly specialized and may not be suitable for general-purpose chatbot training.
 
-## Citation
-
-If you use this dataset in your research, please cite the following repository:
-
-```bibtex
-@software{SetForge,
-  author = {Millat, Coder},
-  title = {SetForge: A production-ready tool for generating high-quality Q&A datasets},
-  year = {2025},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/codermillat/SetForge}}
-}
-```
-
 ## License
 
 This dataset is released under the **MIT License**.
