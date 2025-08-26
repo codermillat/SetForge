@@ -10,6 +10,7 @@ The primary goal of this research is to develop a model that outperforms general
 
 1.  **Phase 1: The Knowledge Forge**: Focuses on ingesting raw web data, cleaning it, and converting it into a structured, topic-segmented JSON knowledge base.
 2.  **Phase 2: The Q&A Forge**: Leverages the structured knowledge base to generate thousands of high-quality, instruction-formatted Q&A pairs suitable for fine-tuning.
+3.  **Phase 3: The QA Forge**: Performs deduplication, quality validation, and final packaging into a clean fine-tuning dataset.
 
 ## 2. Overall Pipeline Architecture
 
@@ -17,11 +18,11 @@ The end-to-end process is a linear flow that transforms data through several dis
 
 ```mermaid
 graph TD
-    A[Start: Raw Data (`/data_raw`)] --> B{Phase 1: Knowledge Forge};
-    B --> |Intermediate Artifact 1| C[Cleaned Text (`/data_cleaned`)];
-    C --> |Intermediate Artifact 2| D[Structured JSON (`/data_structured`)];
-    D --> E{Phase 2: Q&A Forge};
-    E --> F[End: Final Dataset (`/data_qa/qna_dataset.jsonl`)];
+    A["Start: Raw Data (/data_raw)"] --> B{"Phase 1: Knowledge Forge"};
+    B --> |"Intermediate Artifact 1"| C["Cleaned Text (/data_cleaned)"];
+    C --> |"Intermediate Artifact 2"| D["Structured JSON (/data_structured)"];
+    D --> E{"Phase 2: Q&A Forge"};
+    E --> F["End: Final Dataset (/data_qa/qna_dataset.jsonl)"];
 
     style F fill:#bbf,stroke:#333,stroke-width:2px
 ```
