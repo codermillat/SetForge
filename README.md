@@ -71,12 +71,11 @@ graph TD
     
     subgraph "Part 3: The QA Forge"
         O["Raw .jsonl Dataset"] --> P{"Deduplication & Quality Checks"};
-        P --> Q["Final Fine-Tuning Dataset"];
+        P --> Q["Final Dataset"];
     end
 
     I --> J;
     N --> O;
-    style Q fill:#bbf,stroke:#333,stroke-width:2px
 ```
 
 ## 🚀 Getting Started
